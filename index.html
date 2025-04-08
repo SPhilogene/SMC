@@ -264,19 +264,32 @@
         var content = `<center><p class="audiowide">Introducing</p>
       <h2>${feature.properties.name}</h2> <p>${feature.properties.about}</p>
           <p>${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
-        layer.on("popupopen", function (feature) {
-          document.getElementById("sidebar").innerHTML = content;
-        });
         let text = `${feature.properties.about}`;
         let result = text.substring(0, 65);
-        layer.on('mouseover', function(feature) {
-    layer.openPopup();
-          layer.bindPopup(result);
-});
-        layer.on('mouseout', function(feature) {
-    layer.closePopup();
-});
-      }
+        // layer.on("popupopen", function (feature) {
+        //   document.getElementById("sidebar").innerHTML = content;
+        // });
+        layer.on({
+            'mouseover': function (feature) {
+                layer.bindPopup(result);
+            },
+            'mouseout': function (feature) {
+                layer.closePopup();
+            },
+            'click': function (feature) {
+              document.getElementById("sidebar").innerHTML = content;
+            }
+        });
+      }  
+        
+//         layer.on('mouseover', function(feature) {
+//     // layer.openPopup();
+//           layer.bindPopup(result);
+// });
+//         layer.on('mouseout', function(feature) {
+//     layer.closePopup();
+// });
+//       }
 
 
 
