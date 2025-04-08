@@ -262,17 +262,19 @@
         visit.resetStyle(e.target);
       }
 
-function customTip() {
+
+      
+      function onEachPoint(feature, layer) {
+        function customTip() {
     this.unbindTooltip();
-  let text = "SisterSong, the largest Black Reproductive Justice collective...";//`${feature.properties.about}`;
+  let text = `${feature.properties.about}`;
+          let result = text.substring(0, 65)+"...";
     if(!this.isPopupOpen()) this.bindTooltip(text).openTooltip();
 }
 
 function customPop() {
     this.unbindTooltip();
 }
-      
-      function onEachPoint(feature, layer) {
         let popupContent = `<center><img src= ${feature.properties.image} alt="Trulli" width="240" height=100%></center>`;
         layer.bindPopup(popupContent);
         var content = `<center><p class="audiowide">Introducing</p>
@@ -286,19 +288,7 @@ layer.on('click', customPop);
       }  
 
         
-//         layer.on('mouseover', function(feature) {
-//     // layer.openPopup();
-//           layer.bindPopup(result);
-// });
-//         layer.on('mouseout', function(feature) {
-//     layer.closePopup();
-// });
-//       }
-
-
-
-
-      
+     
       map.on("popupopen", function (e) {
         // find the pixel location on the map where the popup anchor is
         var px = map.project(e.popup._latlng);
