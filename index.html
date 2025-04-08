@@ -261,19 +261,30 @@
        function resetHighlight(e) {
         visit.resetStyle(e.target);
       }
+
+function customTip() {
+    this.unbindTooltip();
+  let text = SisterSong, the largest Black Reproductive Justice collective...//`${feature.properties.about}`;
+    if(!this.isPopupOpen()) this.bindTooltip(text).openTooltip();
+}
+
+function customPop() {
+    this.unbindTooltip();
+}
+      
       function onEachPoint(feature, layer) {
         let popupContent = `<center><img src= ${feature.properties.image} alt="Trulli" width="240" height=100%></center>`;
         layer.bindPopup(popupContent);
         var content = `<center><p class="audiowide">Introducing</p>
       <h2>${feature.properties.name}</h2> <p>${feature.properties.about}</p>
           <p>${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
-        let text = `${feature.properties.about}`;
-        let result = text.substring(0, 65);
-        layer.on("popupopen", function (feature) {
+                layer.on("popupopen", function (feature) {
           document.getElementById("sidebar").innerHTML = content;
         });
-        
+        layer.on('mouseover', customTip);
+layer.on('click', customPop);
       }  
+
         
 //         layer.on('mouseover', function(feature) {
 //     // layer.openPopup();
@@ -413,5 +424,21 @@
     //      {iconUrl: e.properties.icon}
     //  ));
     // }
-    
+
+
+
+onEachFeature: function (feature, layer) {
+    var popupText = "blablabla";
+    var tooltipText = "blabla";
+    layer.bindPopup(popupText);
+    layer.bindTooltip(tooltipText, {closeButton: false, offset: L.point(0, -10)});
+
+    layer.on('click', function () {
+       layer.openPopup();
+       this.getTooltip().setOpacity(0);
+    }); 
+    layer.on('mouseover', function () {
+       this.getTooltip().setOpacity(this.isPopupOpen() ? 0 : .9);
+    });
+}
   -->
