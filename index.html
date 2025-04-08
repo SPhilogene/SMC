@@ -267,8 +267,21 @@
         layer.on("popupopen", function (feature) {
           document.getElementById("sidebar").innerHTML = content;
         });
+        layer.on('mouseover', function(feature) {
+    marker.openPopup();
+          let text = `${feature.properties.about}`;
+        let result = text.substring(0, 65);
+document.getElementById("sidebar").innerHTML = result;
+});
+        layer.on('mouseout', function(feature) {
+    marker.closePopup();
+});
       }
 
+
+
+
+      
       map.on("popupopen", function (e) {
         // find the pixel location on the map where the popup anchor is
         var px = map.project(e.popup._latlng);
