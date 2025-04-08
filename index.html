@@ -269,7 +269,7 @@
     this.unbindTooltip();
   let text = `${feature.properties.about}`;
           let result = text.substring(0, 65)+"...";
-    if(!this.isPopupOpen()) this.bindTooltip(text).openTooltip();
+    if(!this.isPopupOpen()) this.bindTooltip(result).openTooltip();
 }
 
 function customPop() {
