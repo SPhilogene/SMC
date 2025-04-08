@@ -276,7 +276,7 @@ function customPop() {
     this.unbindTooltip();
 }
         let popupContent = `<center><img src= ${feature.properties.image} alt="Trulli" width="240" height=100%></center>`;
-        layer.bindPopup(popupContent);
+        layer.bindPopup(popupContent,{offset:[0,50]});
         var content = `<center><p class="audiowide">Introducing</p>
       <h2>${feature.properties.name}</h2> <p>${feature.properties.about}</p>
           <p>${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
