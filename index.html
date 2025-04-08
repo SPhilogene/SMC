@@ -271,7 +271,7 @@
     layer.openPopup();
           let text = `${feature.properties.about}`;
         let result = text.substring(0, 65);
-document.getElementById("sidebar").innerHTML = result;
+ layer.bindPopup(result);
 });
         layer.on('mouseout', function(feature) {
     layer.closePopup();
