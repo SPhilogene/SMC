@@ -258,6 +258,9 @@
         });
       }
 
+       function resetHighlight(e) {
+        visit.resetStyle(e.target);
+      }
       function onEachPoint(feature, layer) {
         let popupContent = `<center><img src= ${feature.properties.image} alt="Trulli" width="240" height=100%></center>`;
         layer.bindPopup(popupContent);
@@ -266,20 +269,10 @@
           <p>${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
         let text = `${feature.properties.about}`;
         let result = text.substring(0, 65);
-        // layer.on("popupopen", function (feature) {
-        //   document.getElementById("sidebar").innerHTML = content;
-        // });
-        layer.on({
-            'mouseover': function (feature) {
-                layer.bindPopup(result);
-            },
-            'mouseout': function (feature) {
-                layer.closePopup();
-            },
-            'click': function (feature) {
-              document.getElementById("sidebar").innerHTML = content;
-            }
+        layer.on("popupopen", function (feature) {
+          document.getElementById("sidebar").innerHTML = content;
         });
+        
       }  
         
 //         layer.on('mouseover', function(feature) {
