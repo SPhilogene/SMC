@@ -268,13 +268,13 @@
           document.getElementById("sidebar").innerHTML = content;
         });
         layer.on('mouseover', function(feature) {
-    marker.openPopup();
+    layer.openPopup();
           let text = `${feature.properties.about}`;
         let result = text.substring(0, 65);
 document.getElementById("sidebar").innerHTML = result;
 });
         layer.on('mouseout', function(feature) {
-    marker.closePopup();
+    layer.closePopup();
 });
       }
 
