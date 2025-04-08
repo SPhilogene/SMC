@@ -267,9 +267,9 @@
       function onEachPoint(feature, layer) {
         function customTip() {
     this.unbindTooltip();
-  let text = `${feature.properties.about}`;
+  let text = `${feature.properties.name}`;
           let result = text.substring(0, 45)+"...";
-    if(!this.isPopupOpen()) this.bindTooltip(result).openTooltip();
+    if(!this.isPopupOpen()) this.bindTooltip(text).openTooltip();
 }
 
 function customPop() {
