@@ -45,8 +45,10 @@
     <style>
       html,
       body {
-        height: 100%;
+        /* height: 100%; */
         margin: 0;
+        background-image: url('Afrofuturistic Train Station with Couple (Posting).jpg');
+        background-size: 100%;
       }
       .leaflet-container {
         height: 400px;
@@ -158,6 +160,7 @@
 
     <script type="text/javascript" src="stop.js"></script>
     <script type="text/javascript" src="contig.js"></script>
+    <script type="text/javascript" src="contig copy.js"></script>
     <script type="text/javascript" src="GeorgiaPoints.js"></script>
     <script>
       const map = L.map("map").setView([37.8, -96], 9);
@@ -184,11 +187,11 @@
 
       map.fitBounds(latLngBounds);
 
-      function style(feature) {
+       function style(feature) {
         return {
-          color: "#DB6340ff", //cinnabar-2
-          weight: 5,
-          opacity: 0.4,
+          color: "#FFD028ff", //cinnabar-2
+          weight: 3,
+          opacity: 0.3,
           fillColor: false,
           fillOpacity: 0,
         };
@@ -197,17 +200,17 @@
       function pop(feature) {
         if (map.getZoom() > 9) {
           return {
-            color: "#1A8B91ff", //cinnabar-2
+            color: "#00fbff", //cinnabar-2
             weight: 5,
-            opacity: 0.4,
+            opacity: 0.5,
             fillColor: false,
             fillOpacity: 0,
           };
         } else {
           return {
-            color: "#1A8B91ff", //cinnabar-2
+            color: "#00fbff", //cinnabar-2
             weight: 5,
-            opacity: 0.4,
+            opacity: 0.5,
             fillColor: "#3D615Fff",
             fillOpacity: 0.5,
             // resetHighlight;
