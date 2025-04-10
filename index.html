@@ -283,8 +283,8 @@ function customPop() {
         let popupContent = `<center><img src= ${feature.properties.image} alt="Trulli" width="240" height=100%></center>`;
         layer.bindPopup(popupContent,{offset:[0,50]});
         var content = `<center><p class="audiowide">Introducing</p>
-      <h2>${feature.properties.name}</h2> <p>${feature.properties.about}</p>
-          <p>${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
+      <h2 style="color: white">${feature.properties.name}</h2> <pstyle="color: white">${feature.properties.about}</p>
+          <p style="color: white">${feature.properties.address1}<br>${feature.properties.address2}<br><br><b>contact: </b>${feature.properties.contact}</p>`;
                 layer.on("popupopen", function (feature) {
           document.getElementById("sidebar").innerHTML = content;
         });
