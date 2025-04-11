@@ -15,7 +15,7 @@ var GeorgiaPoints = [{
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [-84.1086083288352, 33.7158300202295],
+        "coordinates": [-84.42732402587359, 33.739361439070315],
     }
 }, {
     "type": "Feature",
@@ -110,7 +110,7 @@ var GeorgiaPoints = [{
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [-84.10858687633223, 33.715834455642046]
+        "coordinates": [-84.1086083288352, 33.7158300202295]
     }
 }, {
     "type": "Feature",
@@ -129,7 +129,7 @@ var GeorgiaPoints = [{
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [-84.1086083288352, 33.7158300202295]
+        "coordinates": [-84.3913679392428, 33.74826026218137]
     }
 }];
 
