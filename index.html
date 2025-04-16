@@ -554,8 +554,9 @@ L.control
   .locate({
     strings: {
       title: "Click to see your location on the map",
-	    popup: "This is your approximate location"
-    }
+	    popup: "You are here"
+    },
+keepCurrentZoomLevel: true,
   })
   .addTo(map);
 
