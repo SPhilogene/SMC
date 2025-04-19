@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base target="_top" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Orbitron&family=Lobster&display=swap"
+      rel="stylesheet"
+    />
+<style>
+          html,
+      body {
+        height: 785px;
+        margin: 0;
+        background-image: url("Afrofuturistic Train Station - direct.png");
+        background-size: 100%;
+        background-position: 160px;
+        background-position: 0 165px;
+        background-repeat: no-repeat;
+      }
+
+      .container {
+        display: flex;
+      }
+
+.user {
+  padding: 5px;
+  border: 1px solid #e9e9e9;
+  border-bottom-color: #d5d5d5;
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #000;
+  margin: 5px;
+  height: 240px;
+  overflow: scroll;
+}
+
+.ebgaramond {
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
+img {
+    max-width:100px;
+    max-height:100px;
+    width:auto;
+    height:auto;
+}
+
+/* HEADER FORMATTING */
+/* HEADER FORMATTING */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #201b22;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: #cf8e3f;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #393939;
+}
+
+li a:visited {
+  color: #cf8e3f;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #201b22;
+  color: #cf8e3f;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 999;
+}
+
+.dropdown-content a {
+  color: #cf8e3f;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #393939;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 1050px) {
+  .column {
+    width: 25%;
+  }
+}
+/* Responsive layout - makes a two column-layout instead of four columns */
+ @media screen and (max-width: 900px) {
+  .column {
+    width: 33%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .column {
+    width: 100%;
+  }
+}
+    </style>
+  </head>
+  <body>
+<!-- <div class="main"> -->
+    
+  <header class="ebgaramond" style="background-color: #201b22; color:#cf8e3f; font-size: 40px;">
+      <img src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px;"/>
+             Reproductive Freedom Train Toolkit
+    </header>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="national.html">National Numbers</a></li>
+      <li><a href="tester.html">Resource Directory</a></li>
+      <li><a href="#">Know Your Rights</a></li>
+      <!-- <li><a href="https://www.speakmovechange.net/">Speak!Move!Change</a></li> -->
+      <li><a href="https://www.speakmovechange.net/contact-1">Contact Us</a></li>
+      <!-- <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+        <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="tester.html">Directory</a>
+          <a href="https://www.speakmovechange.net/">Speak!Move!Change</a>
+        </div>
+      </li> -->
+    </ul>
+
+    <div class="container" style="margin-top: 20px">
+<!-- 
+<div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+    <button class="btn" onclick="filterSelection('nature')"> Nature</button>
+    <button class="btn" onclick="filterSelection('cars')"> Cars</button>
+    <button class="btn" onclick="filterSelection('people')"> People</button>
+  </div> -->
+
+<!-- <div class="row">
+  <div class="column">
+    <div id="user-list-today"></div>
+  </div>
+</div> -->
+
+<div class="container"   style="overflow: scroll;">
+    <div class="row"> 
+      <div id="user-list-today"></div>
+    </div>
+  </div>
+    </div>
+<!-- </div> -->
+
+  <script>
+    // Instantiates a new Request object with provided parameteres.
+const users = new Request("https://raw.githubusercontent.com/SPhilogene/SMC/c50f5896fa43f97db1460e16452c4ec6aed9a777/mydata.json", {
+  method: "GET",
+  "Content-Type": "application/json"
+});
+
+// Use the ES6 fetch method to handle the request.
+// https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+fetch(users)
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data)
+    // Loop over each user in the response and send it
+    // to the renderUser helper.
+    data.forEach((user) => {
+      renderUser(user);
+    });
+  })
+  .catch((error) => {
+    // If an error is found it will be caught here
+    // and can be subsequently handled.
+    console.log("Error Found:", error);
+  });
+
+// Helper method which renders the user.
+renderUser = (person) => {
+  // Creates a new element and assigns some class names to it.
+  let userContainer = document.createElement("div");
+  userContainer.className = "col-xs-6 col-sm-3";//"col-xs-12 col-sm-6 col-md-4";
+
+  // Configure the innerHTML and use the JSON object passed in from the
+  // request to formulate the data using ES6 template literals.
+
+  userContainer.innerHTML = `
+    <div class="user">
+      <address>
+        <center><img src= ${person.image}></center><br>
+        <strong>${person.name}</strong><br>
+        ${person.description}<br>
+        ${person.url}<br>
+        <a href="mailto:${person.email}">${person.email}</a>
+       </address>
+     </div>`;
+
+  // Find the ID 'user-list' and append the userContainer to it.
+  // This will cause it to display on the page.
+
+  if (`${person.iconUrl}` !== "") {
+    document.getElementById("user-list-today").appendChild(userContainer);
+  } else {
+    //document.getElementById("user-list-future").appendChild(userContainer);
+  }
+};
+
+
+
+
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+  </script>
+  </body>
