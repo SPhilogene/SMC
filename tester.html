@@ -22,8 +22,9 @@
         background-repeat: no-repeat;
       }
 
-      .container {
+      .cardContainer {
         display: flex;
+        overflow: scroll;
       }
 
 .user {
@@ -160,7 +161,7 @@ li.dropdown {
   <body>
 <!-- <div class="main"> -->
     
-  <header class="ebgaramond" style="background-color: #201b22; color:#cf8e3f; font-size: 40px;">
+  <header style="background-color: #201b22; color:#cf8e3f; font-size: 40px;">
       <img src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px;"/>
              Reproductive Freedom Train Toolkit
     </header>
@@ -181,28 +182,29 @@ li.dropdown {
       </li> -->
     </ul>
 
-    <div class="container" style="margin-top: 20px">
+   
 
-<div id="myBtnContainer">
+<!-- <div id="myBtnContainer">
     <button class="btn active" onclick="filterSelection('all')"> Show all</button>
     <button class="btn" onclick="filterSelection('nature')"> Nature</button>
     <button class="btn" onclick="filterSelection('cars')"> Cars</button>
     <button class="btn" onclick="filterSelection('people')"> People</button>
-  </div>
+  </div>  -->
 
-<!-- <div class="row">
+  <div class="container" style="margin-top: 20px">
+ <div class="cardContainer" style="overflow: hidden;">
   <div class="column">
     <div id="user-list-today"></div>
   </div>
-</div> -->
+</div>
 
-<div class="container"   style="overflow: scroll;">
+<!-- <div class="container"   style="overflow: scroll;">
     <div class="row"> 
       <div id="user-list-today"></div>
     </div>
-  </div>
+  </div> -->
     </div>
-<!-- </div> -->
+   </div>
 
   <script>
     // Instantiates a new Request object with provided parameteres.
