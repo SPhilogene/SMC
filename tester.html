@@ -76,7 +76,6 @@ img {
 }
 
 /* HEADER FORMATTING */
-/* HEADER FORMATTING */
 ul {
   list-style-type: none;
   margin: 0;
@@ -167,10 +166,10 @@ li.dropdown {
 <!-- <div class="main"> -->
 
   <header style="background-color: #201b22; color:#cf8e3f; font-size: 40px; font-family: 'EB Garamond', serif; position: fixed; width: 100%; top: 0px">
-      <img class="imgLogo" src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px; max-width:none; max-height:none;"/>
+      <img class="imgLogo" src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px; max-width:none; max-height:none; z-index: 999;"/>
              Reproductive Freedom Train Toolkit
     </header>
-    <ul style="position: fixed; top: 118px; width: 100%">
+    <ul style="position: fixed; top: 118px; width: 100%; z-index: 999;">
       <li><a href="index.html">Home</a></li>
       <li><a href="national.html">National Numbers</a></li>
       <li><a href="tester.html">Resource Directory</a></li>
@@ -196,7 +195,7 @@ li.dropdown {
     <button class="btn" onclick="filterSelection('people')"> People</button>
   </div>  -->
 
-  <div class="container" style="margin-top: 250px">
+  <div class="container" style="padding-top: 250px">
  <div class="cardContainer" style="overflow: hidden;">
   <div class="column">
     <div id="user-list-today"></div>
