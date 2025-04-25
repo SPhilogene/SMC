@@ -323,9 +323,9 @@ li.dropdown {
       </header>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="national.html">National Numbers</a></li>
+        <li><a href="national.html">Health Ratings</a></li>
         <li><a href="tester.html">Resource Directory</a></li>
-        <li><a href="#">Know Your Rights</a></li>
+        <li><a href="xx.html">National Resources</a></li>
         <!-- <li><a href="https://www.speakmovechange.net/">Speak!Move!Change</a></li> -->
         <li><a href="https://www.speakmovechange.net/contact-1">Contact Us</a></li>
         <!-- <li class="dropdown">
@@ -645,7 +645,7 @@ li.dropdown {
         })
         .addTo(map);
 
-        L.control
+      L.control
   .locate({
     strings: {
       title: "Click to see your location on the map",
@@ -660,3 +660,137 @@ initialZoomLevel: 9,
     </script>
   </body>
 </html>
+
+<!-- 
+
+///// GPS ECHO RINGS ON ICON
+// var cssIcon = L.divIcon({
+  //   // Specify a class name we can refer to in CSS.
+  //   className: "css-icon",
+  //   html: '<div class="gps_ring"></div>',
+  //   // Set marker width and height
+  //   iconSize: [33, 33],
+  // });
+
+  // var ellips = L.circle([33.75985415597732, -84.39825755367686], {
+  //   color: "cyan",
+  //   fillColor: "#f03",
+  //   fillOpacity: 0.5,
+  //   radius: 5000,
+  // }).bindPopup(
+  //   "<h2>Atlanta, Georgia</h2><h5>(secrets)</h5> <p>Approximately <b>stuff</b> people live in this census tract.</p>  <p>Overall, <b>number%</b> (other studd) of the population are male and <b>wowwee%</b> (shhh) of the population are female.</p> <p>The median age is <b>look</b>.</p>"
+  // );
+  
+  ////// TABLE DIRECTORY FROM GEOJSON
+		// geoList.on('selector:change', function(e) {
+
+		// 	var jsonObj = $.parseJSON( JSON.stringify(e.layers[0].feature.properties) );
+		// 	var html = 'Selection:<br /><table border="1">';
+		// 	$.each(jsonObj, function(key, value){
+		// 			html += '<tr>';
+		// 			html += '<td>' + key.replace(":", " ") + '</td>';
+		// 			html += '<td>' + value + '</td>';
+		// 			html += '</tr>';
+		// 	});
+		// 	html += '</table>';
+
+		// 	$('.selection').html(html);
+		// });
+		
+		// map.addControl(function() {
+		// 	var c = new L.Control({position:'bottomright'});
+		// 	c.onAdd = function(map) {
+		// 			return L.DomUtil.create('pre','selection');
+		// 		};
+		// 	return c;
+		// }());
+
+  ///// CUSTOM MARKER TESTS
+   // visit.eachLayer((layer) => {
+      //   layer.bindPopup(layer.feature.properties.STATE_NAME);
+      // });
+
+      // GeorgiaMarkers.eachLayer((layer) => {
+      //   layer.bindPopup(layer.feature.properties.description);
+      // });
+      // const myCustomColour = '#5f93ed'
+        
+      //   const markerHtmlStyles = `
+      //       background-color: ${myCustomColour};
+      //       width: 15px;
+      //       height: 15px;
+      //       font-size:15px;
+      //       text-align:center;
+      //       display: block; 
+      //   `
+        
+                
+      //   function thing(ct) {
+      //       return L.divIcon({
+      //           className: "box",
+      //           iconAnchor: [12, 25],
+      //           labelAnchor: [-6, 0],
+      //           popupAnchor: [0, -15],
+      //           html: `<img src="adinkrahene-small.png" alt="your-image-alt-text">`
+      //       })
+      //   }
+               
+      //   L.marker([51.51, -0.09], {
+      //       icon: thing("hello")
+      //   }).addTo(map)
+      //       .bindPopup('divIcon CSS3 popup. <br> Supposed to be easily stylable.');
+
+  
+        // if (feature.properties && feature.properties.iconUrl){
+      //   feature.setIcon(new L.Icon({
+      //         iconUrl: feature.properties.iconUrl,
+      //         iconSize: [32, 37],
+      //         iconAnchor: [16, 37],
+      //     }));
+      //   }
+  
+      //   if (e.properties && e.properties.icon && e.geometryType == "Point" ){
+    //      e.layer.setIcon(L.Icon.extend(
+    //      {iconUrl: e.properties.icon}
+    //  ));
+    // }
+    
+    
+////// SIMPLE SEARCH
+// var searchControl = new L.Control.Search({
+// 		layer: markers,
+// 		propertyName: 'name',
+// 		marker: false,
+// 		moveToLocation: function(latlng, title, map) {
+//   			map.setView(latlng, 12); // access the zoom
+// 		}
+// 	});
+
+// 	searchControl.on('search:locationfound', function(e) {
+// 				e.layer.openPopup()//.openOn(map); 
+//       	});
+	
+// 	map.addControl( searchControl ); 
+
+//// RESIZE ICONS ON ZOOM
+function addStates() {
+  	// this function adds the states layer with the style's weight determined
+    // by the current zoom level
+  	geojson = L.geoJson(statesData, {
+    	style: style
+    }).addTo(map);
+  }
+  
+ // Add the states when the map first loads, using the current scale to
+ // set the style's width
+ addStates();
+ 
+  // whenever the zoom level changes, remove the layer and re-add it to 
+  // force the style to update based on the current map scale
+  map.on("zoomend", function(){
+  	geojson.removeFrom(map);
+    addStates();
+  });
+
+
+  -->

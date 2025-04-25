@@ -1,182 +1,226 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <base target="_top" />
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link
-      href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Orbitron&family=Lobster&display=swap"
-      rel="stylesheet"
-    />
-<style>
-          html,
-      body {
-        height: 785px;
-        margin: 0;
-        background-image: url("Afrofuturistic Train Station - direct.png");
-        background-size: 100%;
-        background-position: 160px;
-        background-position: 0 150px;
-        background-repeat: no-repeat;
-      }
+<head>
+  <base target="_top" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-      .cardContainer {
-        display: flex;
-        overflow: scroll;
-      }
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Orbitron&family=Lobster&display=swap"
+    rel="stylesheet" />
+  <style>
+    html,
+    body {
+      height: 785px;
+      margin: 0;
+      background-image: url("Afrofuturistic Train Station - direct.png");
+      background-size: 100%;
+      /* background-position: 160px; */
+      background-position: 0 148px;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
 
-.user {
-  padding: 5px;
-  border: 1px solid #e9e9e9;
-  border-bottom-color: #d5d5d5;
-  border-bottom-width: 2px;
-  border-radius: 4px;
-  background-color: #fff;
-  color: #000;
-  margin: 5px;
-  height: 240px;
-  overflow: scroll;
-}
-.imgLogo {
-  width: 118px;
-  height: 118px;
-}
-.ebgaramond {
-        font-family: "EB Garamond", serif;
-        font-optical-sizing: auto;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
-/* Style the buttons */
-.btn {
+    .cardContainer {
+      overflow: scroll;
+    }
+
+    .user {
+      padding: 5px;
+      border: 1px solid #e9e9e9;
+      border-bottom-color: #d5d5d5;
+      border-bottom-width: 2px;
+      border-radius: 4px;
+      background-color: #f5f0ec;
+      color: #000;
+      margin: 5px;
+      padding-bottom: 10px;
+      height: 240px;
+      /* width: 200px; */
+      overflow: scroll;
+    }
+
+    .ebgaramond {
+      font-family: "EB Garamond", serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    /* Style the buttons */
+    .btn {
+      border: none;
+      outline: none;
+      padding: 12px 16px;
+      background-color: white;
+      cursor: pointer;
+      /* position: fixed; */
+    }
+
+    .btn:hover {
+      background-color: #ddd;
+    }
+
+    .btn.active {
+      background-color: #666;
+      color: white;
+    }
+
+    .show {
+      display: block !important;
+    }
+
+    .hide {
+      display: none;
+    }
+
+    img {
+      max-width: 100px;
+      max-height: 100px;
+      width: auto;
+      height: auto;
+    }
+
+    .imgLogo {
+      width: 118px;
+      height: 118px;
+    }
+
+    /* HEADER FORMATTING */
+    ul {
+      list-style-type: none;
+      margin-top: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #201b22;
+      position: fixed;
+      /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    }
+
+    li {
+      float: left;
+      font-size: 16px;
+      font-family: 'EB Garamond', serif;
+    }
+
+    li a,
+    .dropbtn {
+      display: inline-block;
+      color: #cf8e3f;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover,
+    .dropdown:hover .dropbtn {
+      background-color: #393939;
+    }
+
+    li a:visited {
+      color: #cf8e3f;
+    }
+
+    li.dropdown {
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #201b22;
+      color: #cf8e3f;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      z-index: 999;
+    }
+
+    .dropdown-content a {
+      color: #cf8e3f;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #393939;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    #myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
   border: none;
   outline: none;
-  padding: 12px 16px;
-  background-color: white;
-  cursor: pointer;
-}
-
-.btn:hover {
-  background-color: #ddd;
-}
-
-.btn.active {
-  background-color: #666;
+  background-color: rgb(102, 0, 255);
   color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
 }
 
-img {
-    max-width:100px;
-    max-height:100px;
-    width:auto;
-    height:auto;
+#myBtn:hover {
+  background-color: #555;
 }
 
-/* HEADER FORMATTING */
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #201b22;
-/*   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-}
+    @media screen and (max-width: 1050px) {
+      .column {
+        width: 25%;
+      }
+    }
 
-li {
-  float: left;
-    font-size: 16px;
-  font-family: 'EB Garamond', serif;
-}
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+      .column {
+        width: 33%;
+      }
+    }
 
-li a, .dropbtn {
-  display: inline-block;
-  color: #cf8e3f;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 50%;
+      }
+    }
 
-li a:hover, .dropdown:hover .dropbtn {
-  background-color: #393939;
-}
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 400px) {
+      .column {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
 
-li a:visited {
-  color: #cf8e3f;
-}
+<body>
+  <!-- <div class="main"> -->
 
-li.dropdown {
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #201b22;
-  color: #cf8e3f;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 999;
-}
-
-.dropdown-content a {
-  color: #cf8e3f;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-.dropdown-content a:hover {background-color: #393939;}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-@media screen and (max-width: 1050px) {
-  .column {
-    width: 25%;
-  }
-}
-/* Responsive layout - makes a two column-layout instead of four columns */
- @media screen and (max-width: 900px) {
-  .column {
-    width: 33%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .column {
-    width: 100%;
-  }
-}
-    </style>
-  </head>
-  <body>
-<!-- <div class="main"> -->
-
-  <header style="background-color: #201b22; color:#cf8e3f; font-size: 40px; font-family: 'EB Garamond', serif; position: fixed; width: 100%; top: 0px; z-index: 999;">
-      <img class="imgLogo" src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px; max-width:none; max-height:none; z-index: 999;"/>
-             Reproductive Freedom Train Toolkit
-    </header>
-    <ul style="position: fixed; top: 118px; width: 100%; z-index: 999;">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="national.html">National Numbers</a></li>
-      <li><a href="tester.html">Resource Directory</a></li>
-      <li><a href="#">Know Your Rights</a></li>
-      <!-- <li><a href="https://www.speakmovechange.net/">Speak!Move!Change</a></li> -->
-      <li><a href="https://www.speakmovechange.net/contact-1" target="_blank">Contact Us</a></li>
-      <!-- <li class="dropdown">
+  <header
+    style="background-color: #201b22; color:#cf8e3f; font-size: 40px; font-family: 'EB Garamond', serif; position: fixed;  position: fixed;width: 100%; top: 0px; z-index: 999;">
+      <img
+      src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png"
+      class="imgLogo" style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px;" />
+    Reproductive Freedom Train Toolkit
+  </header>
+  <ul style="position: fixed; top: 100px; width: 100%; z-index: 999;">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="national.html">Health Ratings</a></li>
+        <li><a href="tester.html">Resource Directory</a></li>
+        <li><a href="xx.html">National Resources</a></li>
+    <!-- https://blackmaternalhealthribbon.com/ -->
+    <!-- <li><a href="https://www.speakmovechange.net/">Speak!Move!Change</a></li> -->
+    <li><a href="https://www.speakmovechange.net/contact-1" target="_blank">Contact Us</a></li>
+    <!-- <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
         <div class="dropdown-content">
           <a href="#">Link 1</a>
@@ -184,134 +228,183 @@ li.dropdown {
           <a href="https://www.speakmovechange.net/">Speak!Move!Change</a>
         </div>
       </li> -->
-    </ul>
+  </ul>
 
-   
-
-<!-- <div id="myBtnContainer">
+  <!-- FILTER -->
+  <div id="myBtnContainer" style="padding-top: 160px;">
     <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-    <button class="btn" onclick="filterSelection('nature')"> Nature</button>
-    <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-    <button class="btn" onclick="filterSelection('people')"> People</button>
-  </div>  -->
-
-  <div class="container" style="padding-top: 250px">
- <div class="cardContainer" style="overflow: hidden;">
-  <div class="column">
-    <div id="user-list-today"></div>
+    <button class="btn" onclick="filterSelection('aya-medium.png')"> aya</button>
+    <button class="btn" onclick="filterSelection('abusua-pa-medium.png')"> abusua</button>
+    <button class="btn" onclick="filterSelection('fihankra-medium.png')"> fihankra</button>
   </div>
-</div>
 
-<!-- <div class="container"   style="overflow: scroll;">
-    <div class="row"> 
-      <div id="user-list-today"></div>
-    </div>
-  </div> -->
-    </div>
-   </div>
+  <!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name"> -->
+  <input id="searchbar" onkeyup="search_animal()" type="text" name="search">
 
+  <ul id="list-holder">
+  
+  </ul>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <!-- CONTENTS -->
+  <div class="container-lg" style="padding-top: 30px;">
+    <div class="cardContainer" style="overflow: hidden;">
+      <div class="column">
+        <div id="user-list-today"></div>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <script type="text/javascript" src="data.js"></script>
   <script>
     // Instantiates a new Request object with provided parameteres.
-const users = new Request("https://raw.githubusercontent.com/SPhilogene/SMC/c50f5896fa43f97db1460e16452c4ec6aed9a777/mydata.json", {
-  method: "GET",
-  "Content-Type": "application/json"
-});
-
-// Use the ES6 fetch method to handle the request.
-// https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-fetch(users)
-  .then((response) => {
-    return response.json();
-  })
-  .then((data) => {
-    console.log(data)
-    // Loop over each user in the response and send it
-    // to the renderUser helper.
-    data.forEach((user) => {
-      renderUser(user);
+    const users = new Request("https://raw.githubusercontent.com/SPhilogene/SMC/c50f5896fa43f97db1460e16452c4ec6aed9a777/mydata.json", {
+      method: "GET",
+      "Content-Type": "application/json"
     });
-  })
-  .catch((error) => {
-    // If an error is found it will be caught here
-    // and can be subsequently handled.
-    console.log("Error Found:", error);
-  });
 
-// Helper method which renders the user.
-renderUser = (person) => {
-  // Creates a new element and assigns some class names to it.
-  let userContainer = document.createElement("div");
-  userContainer.className = "col-xs-6 col-sm-3";//"col-xs-12 col-sm-6 col-md-4";
+    // Use the ES6 fetch method to handle the request.
+    // https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+    fetch(users)
+      .then((response) => {
+        return response.json();
+      })
+      .then((data) => {
+        // console.log(data)
+        // Loop over each user in the response and send it
+        // to the renderUser helper.
+        data.forEach((user) => {
+          renderUser(user);
+        });
+      })
+      .catch((error) => {
+        // If an error is found it will be caught here
+        // and can be subsequently handled.
+        console.log("Error Found:", error);
+      });
 
-  // Configure the innerHTML and use the JSON object passed in from the
-  // request to formulate the data using ES6 template literals.
-
-  userContainer.innerHTML = `
-    <div class="user">
+    // Helper method which renders the user.
+    renderUser = (person) => {
+      // Creates a new element and assigns some class names to it.
+      let userContainer = document.createElement("div");
+      userContainer.className = `col-xs-6 col-sm-3 ${person.iconUrl}`.replace(/`/g, "");//"col-xs-12 col-sm-6 col-md-4";
+      // console.log(userContainer.className)
+      // Configure the innerHTML and use the JSON object passed in from the
+      // request to formulate the data using ES6 template literals.
+      // ${person.description}<br> 
+      userContainer.innerHTML = `
+    <div class="user ${person.iconUrl}">
       <address>
         <center><img src= ${person.image}></center><br>
-        <strong>${person.name}</strong><br>
-        ${person.description}<br>
-        ${person.url}<br>
-        <a href="mailto:${person.email}">${person.email}</a>
+        <strong>${person.name}</strong><br><br>
+        ${person.url}<br><br>
+        <a href="${person.contact}">${person.contact}</a>
        </address>
      </div>`;
+      // console.log(userContainer);
+      // Find the ID 'user-list' and append the userContainer to it.
+      // This will cause it to display on the page.
 
-  // Find the ID 'user-list' and append the userContainer to it.
-  // This will cause it to display on the page.
-
-  if (`${person.iconUrl}` !== "") {
-    document.getElementById("user-list-today").appendChild(userContainer);
-  } else {
-    //document.getElementById("user-list-future").appendChild(userContainer);
-  }
-};
+      if (`${person.iconUrl}` !== "") {
+        document.getElementById("user-list-today").appendChild(userContainer);
+      }
+    };
 
 
+function search_animal() {
+  let input = document.getElementById('searchbar').value
+  input = input.toLowerCase();
+  let x = document.querySelector('#list-holder');
+  x.innerHTML = ""
 
+  for (i = 0; i < data.length; i++) {
+    let obj = data[i];
 
-filterSelection("all")
-function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("column");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
-
-function w3AddClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
-  }
-}
-
-function w3RemoveClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    while (arr1.indexOf(arr2[i]) > -1) {
-      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    if (obj.Name.toLowerCase().includes(input)) {
+      const elem = document.createElement("li")
+      elem.innerHTML = `${obj.Name} - ${obj.Color}`
+      x.appendChild(elem)
     }
   }
-  element.className = arr1.join(" ");
 }
 
+    filterSelection("all")
 
-// Add active class to the current button (highlight it)
-var btnContainer = document.getElementById("myBtnContainer");
-var btns = btnContainer.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function(){
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
+    function filterSelection(c) {
+      var x, i;
+      x = document.getElementsByClassName("col-xs-6");
+      if (c == "all") c = "";
+      for (i = 0; i < x.length; i++) {
+        w3AddClass(x[i], "hide");
+        w3RemoveClass(x[i], "show");
+        if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+        if (x[i].className.indexOf(c) > -1) w3RemoveClass(x[i], "hide");
+      }
+    }
+
+    function w3AddClass(element, name) {
+      var i, arr1, arr2;
+      arr1 = element.className.split(" ");
+      arr2 = name.split(" ");
+      for (i = 0; i < arr2.length; i++) {
+        if (arr1.indexOf(arr2[i]) == -1) { element.className += " " + arr2[i]; }
+      }
+    }
+
+    function w3RemoveClass(element, name) {
+      var i, arr1, arr2;
+      arr1 = element.className.split(" ");
+      arr2 = name.split(" ");
+      for (i = 0; i < arr2.length; i++) {
+        while (arr1.indexOf(arr2[i]) > -1) {
+          arr1.splice(arr1.indexOf(arr2[i]), 1);
+        }
+      }
+      element.className = arr1.join(" ")//.replace(/`/g, "");
+    }
+
+    // Add active class to the current button (highlight it)
+    var btnContainer = document.getElementById("myBtnContainer");
+    var btns = btnContainer.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function () {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
+
+    function filterSelection(c) {
+      var x, i;
+      x = document.getElementsByClassName("col-xs-6");
+      if (c == "all") c = "";
+      for (i = 0; i < x.length; i++) {
+        w3AddClass(x[i], "hide");
+        w3RemoveClass(x[i], "show");
+        if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+        if (x[i].className.indexOf(c) > -1) w3RemoveClass(x[i], "hide");
+      }
+    }
+
+    // Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
 }
   </script>
-  </body>
+</body>
