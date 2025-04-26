@@ -515,7 +515,7 @@ var train_stops = [
     },
     properties: {
       state: "NC",
-      name: "Dr. Venus Standard",
+      name: "Venus Standard",
       show_on_map: "yes",
       image:
         "https://www.med.unc.edu/fammed/wp-content/uploads/sites/454/2018/03/Standard3.jpg",
