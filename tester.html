@@ -10,6 +10,11 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Orbitron&family=Lobster&display=swap"
     rel="stylesheet" />
+
+  <link href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
+          rel="stylesheet" />
+  
   <style>
     html,
     body {
@@ -297,18 +302,15 @@
       // Configure the innerHTML and use the JSON object passed in from the
       // request to formulate the data using ES6 template literals.
       // ${person.description}<br> 
-      userContainer.innerHTML = `
+    userContainer.innerHTML = `
     <div class="user ${person.focus}">
       <address>
         <center><img src= ${person.image}></center><br>
         <strong>${person.name}</strong><br><br>
-        ${person.url}<br><br>
-        <a href="${person.contact}">${person.contact}</a>
+        <a href="${person.url}"><i class="fa fa-globe" aria-hidden="true"></i> on the Web</a><br><br>
+        <a href="${person.contact}"><i class="fa fa-address-book" aria-hidden="true"></i> contact ${person.name}</a>
        </address>
      </div>`;
-      // console.log(userContainer);
-      // Find the ID 'user-list' and append the userContainer to it.
-      // This will cause it to display on the page.
 
       if (`${person.focus}` !== "") {
         document.getElementById("user-list-today").appendChild(userContainer);
