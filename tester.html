@@ -234,16 +234,19 @@
   <!-- FILTER -->
   <div id="myBtnContainer" style="padding-top: 160px;">
     <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-    <button class="btn" onclick="filterSelection('aya-medium.png')"> aya</button>
-    <button class="btn" onclick="filterSelection('abusua-pa-medium.png')"> abusua</button>
-    <button class="btn" onclick="filterSelection('fihankra-medium.png')"> fihankra</button>
+    <button class="btn" onclick="filterSelection('Advocacy, Policy & Legislation')"> Advocacy, Policy & Legislation</button>
+    <button class="btn" onclick="filterSelection('Breastfeeding')"> Breastfeeding</button>
+    <button class="btn" onclick="filterSelection('Education & Training Services')"> Education & Training Services</button>
+    <button class="btn" onclick="filterSelection('Holistic, Artistic & Public Services')"> Holistic, Artistic & Public Services</button>
+    <button class="btn" onclick="filterSelection('Mental Health Services')"> Mental Health Services</button>
+    <button class="btn" onclick="filterSelection('Midwifery Services')"> Midwifery Services</button>
   </div>
 
-  <!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name"> -->
+  <!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
   <input id="searchbar" onkeyup="search_animal()" type="text" name="search">
 
   <ul id="list-holder">
-  
+   -->
   </ul>
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
   <!-- CONTENTS -->
@@ -257,10 +260,10 @@
   </div>
   </div>
 
-  <script type="text/javascript" src="data.js"></script>
+  <!-- <script type="text/javascript" src="data.js"></script> -->
   <script>
     // Instantiates a new Request object with provided parameteres.
-    const users = new Request("https://raw.githubusercontent.com/SPhilogene/SMC/c50f5896fa43f97db1460e16452c4ec6aed9a777/mydata.json", {
+    const users = new Request("https://raw.githubusercontent.com/SPhilogene/SMC/7c5648a9e9ce9419f0a17f8b34fa7767e651c189/mydata.json", {
       method: "GET",
       "Content-Type": "application/json"
     });
@@ -289,13 +292,13 @@
     renderUser = (person) => {
       // Creates a new element and assigns some class names to it.
       let userContainer = document.createElement("div");
-      userContainer.className = `col-xs-6 col-sm-3 ${person.iconUrl}`.replace(/`/g, "");//"col-xs-12 col-sm-6 col-md-4";
+      userContainer.className = `col-xs-6 col-sm-3 ${person.focus}`;//"col-xs-12 col-sm-6 col-md-4";
       // console.log(userContainer.className)
       // Configure the innerHTML and use the JSON object passed in from the
       // request to formulate the data using ES6 template literals.
       // ${person.description}<br> 
       userContainer.innerHTML = `
-    <div class="user ${person.iconUrl}">
+    <div class="user ${person.focus}">
       <address>
         <center><img src= ${person.image}></center><br>
         <strong>${person.name}</strong><br><br>
@@ -307,28 +310,10 @@
       // Find the ID 'user-list' and append the userContainer to it.
       // This will cause it to display on the page.
 
-      if (`${person.iconUrl}` !== "") {
+      if (`${person.focus}` !== "") {
         document.getElementById("user-list-today").appendChild(userContainer);
       }
     };
-
-
-function search_animal() {
-  let input = document.getElementById('searchbar').value
-  input = input.toLowerCase();
-  let x = document.querySelector('#list-holder');
-  x.innerHTML = ""
-
-  for (i = 0; i < data.length; i++) {
-    let obj = data[i];
-
-    if (obj.Name.toLowerCase().includes(input)) {
-      const elem = document.createElement("li")
-      elem.innerHTML = `${obj.Name} - ${obj.Color}`
-      x.appendChild(elem)
-    }
-  }
-}
 
     filterSelection("all")
 
