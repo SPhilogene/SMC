@@ -8,7 +8,8 @@
       "url": "https://abundantbirthproject.org",
       "address1": "",
       "address2": "",
-      "contact": "https://forms.gle/DTSfnKijZoXAFdvm8","focus":"",
+      "contact": "https://forms.gle/DTSfnKijZoXAFdvm8",
+        "focus":"Holistic, Artistic & Public Services",
       "iconUrl": "abusua-pa-medium.png"
     },
     {
@@ -20,7 +21,8 @@
       "url": "Website",
       "address1": "1001 Preston St. Suite #500",
       "address2": "Houston, TX 77002",
-      "contact": "https://publichealth.harriscountytx.gov/Divisions-Offices/Divisions/Health-Prevention-and-Coordinated-Care-Division/ACCESS-Harris-County#contact-us","focus":"",
+      "contact": "https://publichealth.harriscountytx.gov/Divisions-Offices/Divisions/Health-Prevention-and-Coordinated-Care-Division/ACCESS-Harris-County#contact-us",
+        "focus":"Holistic, Artistic & Public Services",
       "iconUrl": "abusua-pa-medium.png"
     },
     {
@@ -32,7 +34,8 @@
       "url": "https://www.alabamabirthcenter.com/",
       "address1": "4831 Sparkman Dr.",
       "address2": "Huntsville, Alabama 35810",
-      "contact": "mailto:hello@alabamabirthcenter.com","focus":"",
+      "contact": "mailto:hello@alabamabirthcenter.com",
+        "focus":"Holistic, Artistic & Public Services",
       "iconUrl": "abusua-pa-medium.png"
     },
     {
@@ -487,7 +490,7 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:thequeenscollectivebirthing@gmail.com",
-      "focus":"",
+      "focus":"Postpartum Support",
       "iconUrl": "abusua-pa-medium.png"
     },
     {
