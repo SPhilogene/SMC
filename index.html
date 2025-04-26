@@ -66,6 +66,9 @@
       charset="utf-8"
     ></script>
 
+	  <link href=
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
+              rel="stylesheet" />
     <style>
       html,
       body {
@@ -499,8 +502,8 @@ li.dropdown {
         let popupContent = `<center><img src= ${feature.properties.image} alt="logo" width="240" height=100%></center>`;
         layer.bindPopup(popupContent);
         var content = `<center><h2 class='ebgaramond' style="color: white"><b>${feature.properties.name}</b></h2></center> <p style="color: white">${feature.properties.about}</p>
-          <p style="color: white"><center><h3 class='ebgaramond' style="color: white">Get in touch!</h3><a href ="${feature.properties.contact}" target="_blank" class='montserrat' style="color: #69f1e4">Contact ${feature.properties.name}</a>
-          <br><br><img src= ${feature.properties.image} alt="logo" width="150" height=100% style="background-color:#343332;"></center>`; //${feature.properties.address1}<br>${feature.properties.address2}<br>
+          <p style="color: white"><center><h3 class='ebgaramond' style="color: white">Get in touch!</h3><i class="fa fa-globe" aria-hidden="true" style="color: white"></i> <a href ="${feature.properties.url}" target="_blank" class='montserrat' style="color: #69f1e4">Visit the website</a><br>
+            <br><i class="fa fa-address-book" aria-hidden="true" style="color: white"></i> <a href ="${feature.properties.contact}" target="_blank" class='montserrat' style="color: #69f1e4">Contact ${feature.properties.name}</a></center>`; //${feature.properties.address1}<br>${feature.properties.address2}<br>
         layer.on("popupopen", function (feature) {
           document.getElementById("sidebar").innerHTML = content;
         });
