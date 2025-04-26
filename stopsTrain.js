@@ -103,7 +103,7 @@ trainStops = [
          "properties": {
          "state":"Alabama",
          "name":"Alabama Birth Center",
-         "image":"https://static.wixstatic.com/media/3446b8_f7865a82806c42379197bd150cdade72~mv2.png/",
+         "image":"ABC-Logo-Final-Color.png",
          "about":"<p class='ebgaramond' style='color: white'>Alabama Birth Center is a nurturing and holistic birth facility dedicated to low-risk pregnancies and follows the midwifery model of care. Staffed by skilled professionals, including midwives who prioritize a woman-centered approach, our center provides personalized and comprehensive maternity care. We offer a welcoming environment for expectant mothers, emphasizing natural birthing options and a supportive community.</p>",
          "description":"nurturing and holistic birth facility dedicated to low-risk pregnancies and follows the midwifery; natural birthing options and a supportive community.",
          "url":"https://www.alabamabirthcenter.com/",
