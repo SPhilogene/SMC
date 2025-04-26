@@ -1652,4 +1652,23 @@ trainStops = [
     "iconUrl":`nea-ope-se-obedi-hene-small.png`
     },
   },
+{
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74454913,35.20292293 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Queen City Cocoa B.E.A.N.S.",
+    "image":"https://qccocoabeans.com/wp-content/uploads/2023/01/Picture1.png",
+    "about":"<p class='ebgaramond' style='color: white'>What We Offer</p><p class='ebgaramond' style='color: white'>As Lactation consultants, we provide counselling and education specifically for breastfeeding/lactating parents. Our consultants help families create plans that facilitate a healthy feeding relationship from the start. We provide guidance prenatally and in the postpartum period to support each parent’s feeding journey and address common concerns like milk production, sore nipples, engorgement, infant feeding challenges, oral and body restrictions, parent-infant separation, weight management, and more.</p>",
+    "description":"lactation breastfeeding milk",
+    "url":"https://qccocoabeans.com/",
+    "address1":"5500 Executive Center Drive, Suite 223",
+    "address2":"Charlotte, NC 28212",
+    "contact":"mailto:info@qccocoabeans.org",
+    "iconUrl":`obohemaa-small.png`
+    },
+  },
 ];
