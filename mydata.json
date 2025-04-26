@@ -8,8 +8,8 @@
       "url": "https://abundantbirthproject.org",
       "address1": "",
       "address2": "",
-      "contact": "https://forms.gle/DTSfnKijZoXAFdvm8",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "contact": "https://forms.gle/DTSfnKijZoXAFdvm8","focus":"",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Texas",
@@ -20,8 +20,8 @@
       "url": "Website",
       "address1": "1001 Preston St. Suite #500",
       "address2": "Houston, TX 77002",
-      "contact": "https://publichealth.harriscountytx.gov/Divisions-Offices/Divisions/Health-Prevention-and-Coordinated-Care-Division/ACCESS-Harris-County#contact-us",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "contact": "https://publichealth.harriscountytx.gov/Divisions-Offices/Divisions/Health-Prevention-and-Coordinated-Care-Division/ACCESS-Harris-County#contact-us","focus":"",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Alabama",
@@ -32,8 +32,8 @@
       "url": "https://www.alabamabirthcenter.com/",
       "address1": "4831 Sparkman Dr.",
       "address2": "Huntsville, Alabama 35810",
-      "contact": "mailto:hello@alabamabirthcenter.com",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "contact": "mailto:hello@alabamabirthcenter.com","focus":"",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "New York",
@@ -45,7 +45,8 @@
       "address1": "521 Halsey Street",
       "address2": "Brooklyn, New York",
       "contact": "mailto:info@ancientsongdoulaservices.com",
-      "iconUrl": "`epa-medium.png`"
+      "focus":"Doula Support",
+      "iconUrl": "epa-medium.png"
     },
     {
       "state": "South Carolina",
@@ -57,7 +58,8 @@
       "address1": "PO Box 41304",
       "address2": "North Charleston, SC 29423",
       "contact": "mailto:help@beecollective.co",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Michigan",
@@ -69,7 +71,8 @@
       "address1": "8575 Heritage Place",
       "address2": "Detroit, MI 48204",
       "contact": "mailto:info@birthdetroit.com",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Arizona",
@@ -81,7 +84,8 @@
       "address1": "2101 N. Tatum Blvd #160-939",
       "address2": "Phoenix, Arizona 85050",
       "contact": "https://birthingmagic.org/contact-us",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Delaware",
@@ -93,7 +97,8 @@
       "address1": "101 W Newtown Pl.",
       "address2": "Newark, Delaware 19702",
       "contact": "https://blackcoalitionforsafemotherhood.org/contact/",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Georgia",
@@ -105,7 +110,8 @@
       "address1": "PO Box 571894",
       "address2": "Atlanta, Georgia 30357",
       "contact": "mailto:info@blackmamasmatter.org",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Michigan",
@@ -117,7 +123,8 @@
       "address1": "19750 Burt Rd., Room 205,",
       "address2": "Detroit, MI 48219",
       "contact": "mailto:info@BMBFA.org",
-      "iconUrl": "`nyame-nti-medium.png`"
+      "focus":"Breastfeeding",
+      "iconUrl": "nyame-nti-medium.png"
     },
     {
       "state": "New York",
@@ -129,7 +136,8 @@
       "address1": "259 Bristol Street, 2nd Floor, Suite 202",
       "address2": "Brooklyn, NY 11212",
       "contact": "mailto:info@bpnetwork.org",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Doula Support",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Georgia",
@@ -141,7 +149,8 @@
       "address1": "477 Windsor St SW, Suite 309",
       "address2": "Atlanta, GA, 30312",
       "contact": "mailto:info@cbww.org",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Mental Health Services",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "Texas",
@@ -153,7 +162,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://chocolatemilkcafe.org/contact-us/",
-      "iconUrl": "`nyame-nti-medium.png`"
+      "focus":"Breastfeeding",
+      "iconUrl": "nyame-nti-medium.png"
     },
     {
       "state": "Florida",
@@ -165,7 +175,8 @@
       "address1": "213 South Dillard Street, Suite 340",
       "address2": "Winter Garden, FL 34787",
       "contact": "mailto:office@commonsensechildbirth.org",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "National",
@@ -177,7 +188,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://perinataltaskforce.com/contact-us/",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "North Carolina",
@@ -189,7 +201,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.linkedin.com/in/dr-crystal-m-hayes-msw-26585114/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bvc6dH%2B4JTRaI6KMKydMSlg%3D%3D",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Washington, D.C.",
@@ -201,7 +214,8 @@
       "address1": "2155 Champlain Street NW",
       "address2": "Washington, DC",
       "contact": "https://www.communityofhopedc.org/contact-us/",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Georgia",
@@ -213,7 +227,8 @@
       "address1": "5887 Glenridge Drive, Ste. 300",
       "address2": "Atlanta, GA 30328",
       "contact": "mailto:info@munafertility.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"OB/GYN",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Maryland",
@@ -225,7 +240,8 @@
       "address1": "5051 Greenspring Avenue, Suite 100",
       "address2": "Baltimore, MD 21209",
       "contact": "tel:410-664-8304",
-      "iconUrl": "`fihankra-medium.png`"
+      "focus":"OB/GYN",
+      "iconUrl": "fihankra-medium.png"
     },
     {
       "state": "Virginia",
@@ -237,7 +253,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://drnicolerankins.com/contact/",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"OB/GYN",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Tennessee",
@@ -249,7 +266,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.iamnikiagrayson.com/contact/",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "North Carolina",
@@ -261,7 +279,8 @@
       "address1": "590 Manning Drive, CB #7595",
       "address2": "Chapel Hill, NC 27599",
       "contact": "tel:984-974-0210",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "California",
@@ -273,7 +292,8 @@
       "address1": "2200 Adeline St. Suite #315",
       "address2": "Oakland, CA 94607",
       "contact": "https://favianna.com/contact",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Georgia",
@@ -285,7 +305,8 @@
       "address1": "1924 Cliff Valley Way NE",
       "address2": "Atlanta GA, 30329",
       "contact": "https://feministcenter.org/newsletter/",
-      "iconUrl": "`epa-medium.png`"
+      "focus":"OB/GYN",
+      "iconUrl": "epa-medium.png"
     },
     {
       "state": "Pennsylvania",
@@ -297,7 +318,8 @@
       "address1": "1307 Park Ave #10",
       "address2": "Williamsport, PA 17701",
       "contact": "https://www.genesisbirth.org/contact",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Mental Health Services",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "North Carolina",
@@ -309,7 +331,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:info@greenheffafarms.com",
-      "iconUrl": "`okuafo-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "okuafo-pa-medium.png"
     },
     {
       "state": "National",
@@ -321,7 +344,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:info@hersequity.com",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Nevada",
@@ -333,7 +357,8 @@
       "address1": "7381 Prairie Falcon Rd STE 120",
       "address2": "Las Vegas, NV 89128",
       "contact": "https://www.heartandsolcollective.org/contact",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Doula Support",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "Florida",
@@ -345,7 +370,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://jenniejoseph.com/speaking/",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "New York",
@@ -357,7 +383,8 @@
       "address1": "208 N 8th St Ground Floor,",
       "address2": "Brooklyn, NY 11211",
       "contact": "mailto:info@lathamt.sg-host.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Washington, D.C.",
@@ -369,7 +396,8 @@
       "address1": "4315 Sheriff Rd NE",
       "address2": "Washington DC, 20019",
       "contact": "mailto:info@mamatotovillage.org",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "New York",
@@ -381,7 +409,8 @@
       "address1": "3307 Rochambeau Ave.",
       "address2": "Bronx, NY 10467",
       "contact": "mailto:hi@welcometomaryam.com",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Michigan",
@@ -393,7 +422,8 @@
       "address1": "607 SHELBY ST STE 903",
       "address2": "DETROIT MI 48226",
       "contact": "mailto:info@motheringjustice.org",
-      "iconUrl": "`kuronti-ne-akwamu-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "kuronti-ne-akwamu-medium.png"
     },
     {
       "state": "New York",
@@ -405,7 +435,8 @@
       "address1": "15 Main Street",
       "address2": "Yonkers, NY 10701",
       "contact": "https://www.birthfromtheearth.org/contact",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "Georgia",
@@ -417,7 +448,8 @@
       "address1": "902 Pinehurst Terrace SW",
       "address2": "Atlanta, GA 30310?",
       "contact": "mailto:farmerj@patchworkcityfarms.com",
-      "iconUrl": "`okuafo-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "okuafo-pa-medium.png"
     },
     {
       "state": "Pennsylvania",
@@ -429,7 +461,8 @@
       "address1": "100 South Queen Street, Suite 212",
       "address2": "Lancaster, PA 17603",
       "contact": "mailto:drlivingston@patientsrwaiting.com",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Education & Training Service",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "New Jersey",
@@ -441,7 +474,8 @@
       "address1": "280 South Harrison Street Suite 311",
       "address2": "East Orange, NJ 07018",
       "contact": "mailto:info@perinatalequity.org",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "North Carolina",
@@ -453,7 +487,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:thequeenscollectivebirthing@gmail.com",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "South Carolina",
@@ -465,7 +500,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:info@sankofafamilycounselingandwellness.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Mental Health Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Georgia",
@@ -477,7 +513,8 @@
       "address1": "3035 Stone Mountain St. #1076",
       "address2": "Lithonia, GA 30058",
       "contact": "https://breastfeedingrose.org/contact/",
-      "iconUrl": "`nyame-nti-medium.png`"
+      "focus":"Breastfeeding",
+      "iconUrl": "nyame-nti-medium.png"
     },
     {
       "state": "New York",
@@ -489,7 +526,8 @@
       "address1": "201 Main St",
       "address2": "Boonville, NY 13309",
       "contact": "mailto:info@restoreny.org",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "California",
@@ -501,7 +539,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:drsayida@drsayidauplifts.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Quality Improvement & Data",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Texas",
@@ -513,7 +552,8 @@
       "address1": "3303 Farm to Market 1960 Rd W Suite 130",
       "address2": "Houston, TX 77068",
       "contact": "https://www.shadesofblueproject.org/contact",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Mental Health Services",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "Oregon",
@@ -525,7 +565,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:Shafia@ShafiaMonroe.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "Georgia",
@@ -537,7 +578,8 @@
       "address1": "P.O. Box 94408",
       "address2": "Atlanta, GA 30377",
       "contact": "mailto:info@sistersong.net",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Georgia",
@@ -549,7 +591,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:tamaraakuahunter@gmail.com",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Mental Health Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "New York",
@@ -561,7 +604,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.theariahfoundation.org/",
-      "iconUrl": "`aya-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aya-medium.png"
     },
     {
       "state": "Maryland",
@@ -573,7 +617,8 @@
       "address1": "2000 Greenmount Avenue, Suite 101,",
       "address2": "Baltimore, MD 21218",
       "contact": "https://cllctivly.org/contact/",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aban-medium.png"
     },
     {
       "state": "National",
@@ -585,7 +630,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://irthapp.com/contact/",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Reviews",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "Louisiana",
@@ -597,7 +643,8 @@
       "address1": "3570 Holiday Dr. Suite 7A",
       "address2": "New Orleans, LA 70114",
       "contact": "mailto:admin@unimedacademy.com",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "Missouri",
@@ -609,7 +656,8 @@
       "address1": "4232 Troost Avenue",
       "address2": "Kansas City, MO 64110",
       "contact": "tel:816-541-3718",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Alabama",
@@ -621,7 +669,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.yellowhammerfund.org/contact/",
-      "iconUrl": "`epa-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "epa-medium.png"
     },
     {
       "state": "Alabama",
@@ -633,7 +682,8 @@
       "address1": "161 Webster Street",
       "address2": "Gainesville AL 35464",
       "contact": "mailto:Info@thebirthsanctuary.com",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Birthing Center",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "Texas",
@@ -645,7 +695,8 @@
       "address1": "",
       "address2": "",
       "contact": "info@mamamangoscare.com (512) 522-1725",
-      "iconUrl": "`okuafo-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "okuafo-pa-medium.png"
     },
     {
       "state": "Texas",
@@ -657,7 +708,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:Info@milkspace.co",
-      "iconUrl": "`nyame-nti-medium.png`"
+      "focus":"Breastfeeding",
+      "iconUrl": "nyame-nti-medium.png"
     },
     {
       "state": "Texas",
@@ -669,7 +721,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://paradigmdoulas.com/contact/",
-      "iconUrl": "`akoko-nan-medium.png`"
+      "focus":"Doula Support",
+      "iconUrl": "akoko-nan-medium.png"
     },
     {
       "state": "Texas",
@@ -681,7 +734,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.carmenbridgewater.com/contact",
-      "iconUrl": "`abode-santann-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "abode-santann-medium.png"
     },
     {
       "state": "California",
@@ -693,7 +747,8 @@
       "address1": "",
       "address2": "",
       "contact": "",
-      "iconUrl": "`kuronti-ne-akwamu-medium.png`"
+      "focus":"Advocacy, Policy & Legislation",
+      "iconUrl": "kuronti-ne-akwamu-medium.png"
     },
     {
       "state": "Washington",
@@ -705,7 +760,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.blkbry.com/contact",
-      "iconUrl": "`kuronti-ne-akwamu-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "kuronti-ne-akwamu-medium.png"
     },
     {
       "state": "Texas",
@@ -717,7 +773,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://www.deeplyrootedhomebirth.com/contact",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "New York",
@@ -729,7 +786,8 @@
       "address1": "449 Nostrand Avenue",
       "address2": "Brooklyn, NY 11216",
       "contact": "https://www.n-diya.com/contact-1",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Midwifery Services",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "New Jersey",
@@ -741,7 +799,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:heyblackdad@gmail.com",
-      "iconUrl": "`fihankra-medium.png`"
+      "focus":"Doula Support",
+      "iconUrl": "fihankra-medium.png"
     },
     {
       "state": "New Jersey",
@@ -753,7 +812,8 @@
       "address1": "10 Broad Street",
       "address2": "Bloomfield, NJ 07003",
       "contact": "tel:973-744-7003",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "New York",
@@ -765,7 +825,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:hello@birthqueen.org",
-      "iconUrl": "`nea-onnim-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "nea-onnim-medium.png"
     },
     {
       "state": "New Jersey",
@@ -777,7 +838,8 @@
       "address1": "30 Silverline Dr. 2nd Floor, Suite 1",
       "address2": "North Brunswick, NJ 08902",
       "contact": "https://cjfhc.org/who-we-are/contact.html",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "New York",
@@ -789,7 +851,8 @@
       "address1": "",
       "address2": "",
       "contact": "https://healthinherhue.com/contact-us",
-      "iconUrl": "`bi-nka-bi-medium.png`"
+      "focus":"Reviews",
+      "iconUrl": "bi-nka-bi-medium.png"
     },
     {
       "state": "Illinois",
@@ -801,7 +864,8 @@
       "address1": "227 W. Monroe Street, 21st Floor",
       "address2": "Chicago, IL 60606",
       "contact": "mailto:info@healthconnectone.org",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Postpartum Support",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "New York",
@@ -813,7 +877,8 @@
       "address1": "515 Canal Street, #1C",
       "address2": "New York NY 10013",
       "contact": "mailto:info@bridgeproject.org",
-      "iconUrl": "`abusua-pa-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "abusua-pa-medium.png"
     },
     {
       "state": "Georgia",
@@ -825,7 +890,8 @@
       "address1": "2275 Marietta Blvd NW Ste 270 - 382",
       "address2": "Atlanta, GA 30318",
       "contact": "mailto:info@4kira4moms.com",
-      "iconUrl": "`aya-medium.png`"
+      "focus":"Holistic, Artistic & Public Services",
+      "iconUrl": "aya-medium.png"
     },
     {
       "state": "Georgia",
@@ -837,7 +903,8 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:info@4kira4moms.com",
-      "iconUrl": "`fihankra-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "fihankra-medium.png"
     },
     {
       "state": "Massachusetts",
@@ -849,6 +916,7 @@
       "address1": "",
       "address2": "",
       "contact": "mailto:blackmaternalhealth@tufts.edu",
-      "iconUrl": "`aban-medium.png`"
+      "focus":"Education & Training Services",
+      "iconUrl": "aban-medium.png"
     }
   ]
