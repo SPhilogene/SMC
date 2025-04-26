@@ -87,7 +87,12 @@
       width: auto;
       height: auto;
     }
-
+    
+#boxShadow {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px #cf8e3f;
+}
     /* HEADER FORMATTING */
     ul {
       list-style-type: none;
@@ -299,7 +304,7 @@
       // request to formulate the data using ES6 template literals.
       // ${person.description}<br> 
     userContainer.innerHTML = `
-    <div class="user ${person.focus}">
+    <div class="user ${person.focus}" id="boxShadow">
       <address>
         <center><a href="${person.url}"><img src= ${person.image}></a></center><br>
         <strong>${person.name}</strong><br><br>
