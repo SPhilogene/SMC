@@ -729,7 +729,7 @@ trainStops = [
          },
          "properties": {
          "state":"North Carolina",
-         "name":"Dr. Venus Standard",
+         "name":"Venus Standard",
          "image":"https://www.med.unc.edu/fammed/wp-content/uploads/sites/454/2018/03/Standard3.jpg",
          "about":"<p class='ebgaramond' style='color: white'>Venus Standard is a Certified Nurse Mid-wife, caring for women, pregnant women, and delivering comprehensive primary care for families. She serves as the Director of Health Equity Education and Community Engagement for the Department of Family Medicine.</p><p class='ebgaramond' style='color: white'>“I believe in educating women and their families to live a healthy lifestyle by supporting family planning, promoting healthy natural childbirth and encouraging breastfeeding,” says Standard. “I enjoy partnering with my patients to ensure that their physical, mental, emotional, spiritual and cultural needs are met.” Venus’s motto is “Textbooks taught me the science of obstetrics but I learned the art of birth from babies and their mothers” (Vincent, 2002).</p>",
          "description":"Nurse Midwife, caring for women, pregnant women, and delivering comprehensive primary care for families; family planning, promoting healthy natural childbirth and encouraging breastfeeding; physical, mental, emotional, spiritual and cultural need; birth babies and mothers",
