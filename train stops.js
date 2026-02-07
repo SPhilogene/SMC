@@ -724,7 +724,7 @@ var train_stops = [
       name: "Maryam Reproductive Health + Wellness",
       show_on_map: "yes",
       image:
-        "https://images.squarespace-cdn.com/content/v1/657a00722c3d0555a4d0f56c/c7555b80-b0be-4a92-87ca-0fd0517a5d70/cad_mar_logo_secondary_onecolor_light.png",
+        "https://cdn.cheerfulgiving.com/uploads/5f214fd6-a1a3-480d-8c17-0967bb8a1a4f_darkgreenmaryamlogo.png",
       about:
         "Maryam is a women’s health clinic with a dedicated community space. Here, we extend comprehensive reproductive care and wellness visits, while also providing a versatile space for gatherings, workshops, and more.",
       description: "hold",
@@ -1495,6 +1495,29 @@ var train_stops = [
     type: "Feature",
     geometry: {
       type: "Point",
+      coordinates: [-73.70100601815294, 41.25867977739855],
+    },
+    properties: {
+      state: "NY",
+      name: "PUSH for Empowered Pregnancy",
+      show_on_map: "yes",
+      image:
+        "https://pushforempoweredpregnancy.myshopify.com/cdn/shop/files/PUSH_Logo_Transparent_1700px_728c78e2-ca7b-44f1-bdf2-d7d538a8ea36.png",
+      about:
+        "<center>ENDING PREVENTABLE STILLBIRTH.</center><br>PUSH is a nonprofit organization founded by bereaved parents working to end preventable stillbirth in the US through education, advocacy, and community.",
+      description: "hold",
+      url: "https://www.pushpregnancy.org/",
+      address1: "34 Quicks Ln,",
+      address2: "Katonah, NY 10536",
+      contact: "https://www.pushpregnancy.org/contact",
+      iconUrl: `bi-nka-bi-medium.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
       coordinates: [-71.40468901, 41.80481121],
     },
     properties: {
@@ -1515,3 +1538,4 @@ var train_stops = [
     },
   },
 ];
+
