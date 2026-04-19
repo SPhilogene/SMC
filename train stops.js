@@ -133,7 +133,7 @@ var train_stops = [
       url: "https://www.alabamabirthcenter.com/",
       address1: "4831 Sparkman Dr.",
       address2: "Huntsville, Alabama 35810",
-      contact: "hello@alabamabirthcenter.com",
+      contact: "mailto:hello@alabamabirthcenter.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -515,14 +515,14 @@ var train_stops = [
     },
     properties: {
       state: "NC",
-      name: "Venus Standard",
+      name: "Dr. Venus Standard",
       show_on_map: "yes",
       image:
         "https://www.med.unc.edu/fammed/wp-content/uploads/sites/454/2018/03/Standard3.jpg",
       about:
         "Venus Standard is a Certified Nurse Mid-wife, caring for women, pregnant women, and delivering comprehensive primary care for families. She serves as the Director of Health Equity Education and Community Engagement for the Department of Family Medicine.<p style='color: white'>“I believe in educating women and their families to live a healthy lifestyle by supporting family planning, promoting healthy natural childbirth and encouraging breastfeeding,” says Standard. “I enjoy partnering with my patients to ensure that their physical, mental, emotional, spiritual and cultural needs are met.” Venus’s motto is “Textbooks taught me the science of obstetrics but I learned the art of birth from babies and their mothers” (Vincent, 2002).",
       description: "hold",
-      url: "https://www.med.unc.edu/fammed/directory/venus-standard-msn-cmn/",
+      url: "tel:984-974-0210",
       address1: "590 Manning Drive, CB #7595",
       address2: "Chapel Hill, NC 27599",
       contact: "Make an Appointment",
@@ -641,7 +641,7 @@ var train_stops = [
       address2: "Las Vegas, NV 89128",
       contact: "https://www.heartandsolcollective.org/contact ",
       iconUrl: `sankofa-small.png`,
-      service: "hold",
+      service: "doula",
     },
   },
   {
@@ -663,7 +663,9 @@ var train_stops = [
       address1: "",
       address2: "",
       contact: "",
-      iconUrl: `sankofa-small.png`,
+      iconUrl: ` <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+  <image height="200" width="300" href="sankofa-small.png" />
+</svg>`,
       service: "hold",
     },
   },
@@ -724,7 +726,7 @@ var train_stops = [
       name: "Maryam Reproductive Health + Wellness",
       show_on_map: "yes",
       image:
-        "https://cdn.cheerfulgiving.com/uploads/5f214fd6-a1a3-480d-8c17-0967bb8a1a4f_darkgreenmaryamlogo.png",
+        "https://images.squarespace-cdn.com/content/v1/657a00722c3d0555a4d0f56c/c7555b80-b0be-4a92-87ca-0fd0517a5d70/cad_mar_logo_secondary_onecolor_light.png",
       about:
         "Maryam is a women’s health clinic with a dedicated community space. Here, we extend comprehensive reproductive care and wellness visits, while also providing a versatile space for gatherings, workshops, and more.",
       description: "hold",
@@ -790,7 +792,7 @@ var train_stops = [
     },
     properties: {
       state: "GA",
-      name: "Patchwork City Farm (Black Farmer)",
+      name: "Patchwork City Farm",
       show_on_map: "yes",
       image:
         "https://images.squarespace-cdn.com/content/v1/59b2ec53f14aa14c97a217b2/b00cb917-f757-4e14-9848-439d170f6edf/pcf_fulllogo_LB.jpg",
@@ -800,7 +802,7 @@ var train_stops = [
       url: "https://www.patchworkcityfarms.com/",
       address1: "902 Pinehurst Terrace SW",
       address2: "Atlanta, GA 30310⁠",
-      contact: "farmerj@patchworkcityfarms.com",
+      contact: "mailto:farmerj@patchworkcityfarms.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -822,7 +824,7 @@ var train_stops = [
       url: "https://www.patientsrwaiting.com/",
       address1: "100 South Queen Street, Suite 212",
       address2: "Lancaster, PA 17603",
-      contact: "drlivingston@patientsrwaiting.com",
+      contact: "mailto:drlivingston@patientsrwaiting.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -868,7 +870,7 @@ var train_stops = [
       url: "https://www.queenscollectivebirthing.com/",
       address1: "",
       address2: "",
-      contact: "thequeenscollectivebirthing@gmail.com",
+      contact: "mailto:thequeenscollectivebirthing@gmail.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -959,7 +961,7 @@ var train_stops = [
       url: "https://www.drsayidauplifts.com/",
       address1: "",
       address2: "",
-      contact: "drsayida@drsayidauplifts.com",
+      contact: "mailto:drsayida@drsayidauplifts.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -1004,7 +1006,7 @@ var train_stops = [
       url: "https://shafiamonroe.com/",
       address1: "",
       address2: "",
-      contact: "Shafia@ShafiaMonroe.com",
+      contact: "mailto:Shafia@ShafiaMonroe.com",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -1050,7 +1052,7 @@ var train_stops = [
       url: "https://www.tamaraakuahunter.com/",
       address1: "",
       address2: "",
-      contact: "tamaraakuahunter@gmail.com",
+      contact: "mailto:tamaraakuahunter@gmail.com",
       iconUrl: `adinkrahene-small.png`,
       service: "hold",
     },
@@ -1068,7 +1070,7 @@ var train_stops = [
       image:
         "https://static.wixstatic.com/media/0b93f9_1faac09f94734ff7a141f084c190d5a0~mv2.png",
       about:
-        "The ARIAH Foundation<p style='color: white'>Advancement of Reproductive Innovation<p style='color: white'>Through Artistry and Healing <p style='color: white'>The ARIAH Foundation was established in 2019 after the tragic and preventable death of Shamony Makeba Gibson due to a birth related pulmonary embolism. Shamony represents so many powerful women of color whose lives were cut short due to birth inequities and reproductive injustice in the United States. The foundation seeks to support individuals, families and communities who experience the devastating Aftershock associated with maternal/infant morbidity and mortality. ARIAH provides mental, physical, emotional and/or spiritual assistance to support the affected families as they navigate the impact of these traumatic experiences.",
+        "<p style='color: white'>The ARIAH (Advancement of Reproductive Innovation Through Artistry and Healing) Foundation was established in 2019 after the tragic and preventable death of Shamony Makeba Gibson due to a birth related pulmonary embolism. Shamony represents so many powerful women of color whose lives were cut short due to birth inequities and reproductive injustice in the United States. The foundation seeks to support individuals, families and communities who experience the devastating Aftershock associated with maternal/infant morbidity and mortality. ARIAH provides mental, physical, emotional and/or spiritual assistance to support the affected families as they navigate the impact of these traumatic experiences.",
       description: "hold",
       url: "https://www.theariahfoundation.org/",
       address1: "",
@@ -1141,7 +1143,7 @@ var train_stops = [
       url: "https://uzazivillage.org/",
       address1: "4232 Troost Avenue",
       address2: "Kansas City, MO 64110",
-      contact: "(816) 541-3718",
+      contact: "tel:816-541-3718",
       iconUrl: `sankofa-small.png`,
       service: "hold",
     },
@@ -1154,10 +1156,9 @@ var train_stops = [
     },
     properties: {
       state: "DC",
-      name: "Dr. Ebony Marcelle",
+      name: "Dr. Ebony Marcelle - Midwife Community of Hope Birth Center",
       show_on_map: "yes",
-      image:
-        "Ebony_Marcelle.jpg",
+      image: "Ebony-Marcelle.jpg",
       about:
         "Ebony Marcelle is the director of midwifery at Community of Hope, which includes Family Health and Birth Center. Marcelle was previously administrative chief of midwifery service at Medstar Washington Hospital Center. She completed her nursing education at Georgetown University and Midwifery at Jefferson University, and received her Doctorate degree at Frontier University. She is a fellow of the American College of Nurse Midwives and adjunct faculty at Georgetown University.<p style='color: white'>Her advocacy work has included multiple congressional briefings creating awareness around the need for policy changes to reduce maternity care disparities. Known for her passion in midwifery and midwifery’s role in reproductive justice, Marcelle has built culturally aware clinical care models for under-resourced Black women. She serves on the boards of the National Association for the Advancement of Black Birth, March for Moms, and American Association of Birth Centers and is a member of the District of Columbia’s inaugural Maternal Mortality Review Committee.<p style='color: white'>In 2023, Community of Hope reached 1,521 families overcoming or threatened by homelessness and about 15,785 patients in over 82,243 visits.<p style='color: white'>And we will keep working until everyone in Washington, DC is healthy, housed and hopeful.",
       description: "hold",
@@ -1488,29 +1489,6 @@ var train_stops = [
       address2: "",
       contact: "https://chocolatemilkcafe.org/contact-us/",
       iconUrl: `sankofa-small.png`,
-      service: "hold",
-    },
-  },
-  {
-    type: "Feature",
-    geometry: {
-      type: "Point",
-      coordinates: [-73.70100601815294, 41.25867977739855],
-    },
-    properties: {
-      state: "NY",
-      name: "PUSH for Empowered Pregnancy",
-      show_on_map: "yes",
-      image:
-        "https://pushforempoweredpregnancy.myshopify.com/cdn/shop/files/PUSH_Logo_Transparent_1700px_728c78e2-ca7b-44f1-bdf2-d7d538a8ea36.png",
-      about:
-        "<center>ENDING PREVENTABLE STILLBIRTH.</center><br>PUSH is a nonprofit organization founded by bereaved parents working to end preventable stillbirth in the US through education, advocacy, and community.",
-      description: "hold",
-      url: "https://www.pushpregnancy.org/",
-      address1: "34 Quicks Ln,",
-      address2: "Katonah, NY 10536",
-      contact: "https://www.pushpregnancy.org/contact",
-      iconUrl: `bi-nka-bi-medium.png`,
       service: "hold",
     },
   },
