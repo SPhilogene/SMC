@@ -38,11 +38,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Orbitron&family=Lobster&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Audiowide&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Kablammo&family=Niconne&family=Orbitron&family=Lobster&family=Style+Script&display=swap"
       rel="stylesheet"
     />
 
-    <link
+      <link
       rel="stylesheet"
       href="https://opengeo.tech/maps/leaflet-search/src/leaflet-search.css"
     />
@@ -66,7 +66,7 @@
       charset="utf-8"
     ></script>
 
-	  <link href=
+    <link href=
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
               rel="stylesheet" />
     <style>
@@ -184,6 +184,41 @@
         font-weight: 400;
         font-style: normal;
       }
+      .niconne-regular {
+        font-family: "Niconne", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .style-script-regular {
+        font-family: "Style Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+/* Legend semitransparent option  */
+ .legend {
+  background: white;
+  padding: 10px;
+  line-height: 18px;
+  color: #333;
+  border-radius: 5px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.2);
+
+  /* semitransparent by default */
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+  pointer-events: auto; /* make hover detectable  */
+}
+
+/* fully opaque when hovered */
+.legend:hover {
+  opacity: 1;
+} 
+
+
+.legend img {
+  vertical-align: middle;
+  margin-right: 6px;
+}
 
       /* @keyframes pulsate {
         0% {
@@ -321,25 +356,25 @@ li.dropdown {
   </head>
   <body>
     <header style="background-color: #201b22; color:#cf8e3f; font-size: 40px;">
-        <a href="https://www.speakmovechange.net/"><img src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px;"/></a>
-               Reproductive Freedom Train Toolkit
+        <img src="https://images.squarespace-cdn.com/content/v1/6058fc3795970b5892f20533/ca1db53a-d78f-4197-a254-559a0f58e60e/SMC+Logo+2024.png" alt="logo" width=118 style="vertical-align:middle; margin-left: 23.5px; margin-top: 1px; margin-right: 30px;"/>
+               Reproductive Freedom Train <span style="font-size: 40px; font-style: italic;">Navigation Guide</span>
       </header>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="national.html">Health Ratings</a></li>
-        <li><a href="tester.html">Resource Directory</a></li>
-        <li><a href="xx.html">National Resources</a></li>
-	      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScNyhsEp-mW0EWkfBJqJX9CsKZzH3PCYSTLqDJn6BuYOQ85LA/viewform?usp=dialog">Suggest A Stop</a></li>
+        <li><a href="national.html">Health Ratings</a></li> <!-- ratings -->
+        <li><a href="tester.html">Resource Directory</a></li> <!-- directory -->
+        <li><a href="xx.html">National Resources</a></li> <!-- national -->
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScNyhsEp-mW0EWkfBJqJX9CsKZzH3PCYSTLqDJn6BuYOQ85LA/viewform?usp=dialog">Suggest a Stop</a></li>
         <!-- <li><a href="https://www.speakmovechange.net/">Speak!Move!Change</a></li> -->
         <li><a href="https://www.speakmovechange.net/contact-1">Contact Us</a></li>
-        <!-- <li class="dropdown">
-          <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+        <li class="dropdown">
+          <a href="javascript:void(0)" class="dropbtn">Storymaps</a>
           <div class="dropdown-content">
-            <a href="#">Link 1</a>
-            <a href="tester.html">Directory</a>
-            <a href="https://www.speakmovechange.net/">Speak!Move!Change</a>
+            <a href="index fultz.html">Henrietta Lacks</a>
+            <a href="https://sphilogene.github.io/fultz-quadruplets-storymap/">The Fultz Quads</a>
+            <!-- <a href="#">Captain Mary Lee Mills</a> -->
           </div>
-        </li> -->
+        </li>
       </ul>
 
 
@@ -349,24 +384,18 @@ li.dropdown {
           <b>The Reproductive Freedom Toolkit</b>
         </p> -->
         <p class="ebgaramond" style="color: white">
-          On Friday April 25th & Saturday April 26th, hundreds gathered with us
-          to embark on a powerful session entitled
-          <b
-            >“The Reproductive Freedom Train: An Afrofuturistic Journey To
-            Liberation”</b
-          >, a metaphorical journey across the United States, modeled by the
-          historical Underground Railroad and the Negro Motorist Green Book on
-          Zoom!</p><p class="ebgaramond" style="color: white">The freedom journey followed Black women, birthing people, their
-          babies and families as they sought to “liberate” themselves from the
-          bondage of racism, oppression, injustice and adverse outcomes in the
-          reproductive healthcare system. The stops that they encountered on the
-          “Freedom Train” allowed travelers to experience individuals,
-          organizations and/or events that offer them support, education,
-          healing, resources and inspiration to counteract the adverse impact
-          and outcomes associated with reproductive injustice and disparities.
-          Each stop on the journey reflected the critical elements of
-          reproductive justice, including birth equity, trauma-informed care,
-          advocacy, cultural competency, and anti-oppression practices.
+          Continuing the journey to reproductive freedom, we gathered on April 19th and April 21st, 2026
+          for the <b>“Reproductive Freedom Train: The Journey to Liberation Continues”.</b><br><br>
+          This year’s journey was an immersive and transformative experience guiding 
+          participants toward reproductive liberation, grounded in the resilience, 
+          brilliance, and ancestral technologies of Black, Indigenous, and People 
+          of Color (BIPOC). Inspired by historical pathways to freedom like the 
+          Underground Railroad and the Negro Motorist Green Book, the Freedom Train 
+          bridges past, present, and future strategies for survival, safety, and 
+          sovereignty in reproductive healthcare. Participants embarked on an 
+          Afrofuturistic passage across symbolic “stops” on the Freedom Train, each 
+          representing real-world people, organizations, and resources shaping the 
+          future of reproductive justice.
         </p>
         <p class="ebgaramond" style="color: white">
           This interactive toolkit gives you access to a comprehensive resource
@@ -394,9 +423,9 @@ li.dropdown {
     <br /><br /><br /><br />
 
     <script type="text/javascript" src="stop.js"></script>
-    <script type="text/javascript" src="contig copy.js"></script>
+    <!-- <script type="text/javascript" src="contig copy.js"></script> -->
     <script type="text/javascript" src="contig.js"></script>
-    <script type="text/javascript" src="GeorgiaPoints.js"></script>
+    <!-- <script type="text/javascript" src="GeorgiaPoints.js"></script> -->
     <script type="text/javascript" src="train stops.js"></script>
     <script type="text/javascript" src="stopsTrain.js"></script>
     <script>
@@ -444,8 +473,8 @@ li.dropdown {
             color: "#00fbff", //cinnabar-2
             weight: 1,
             opacity: 0.5,
-            fillColor: false,
-            fillOpacity: 0,
+            fillColor: "#3D615Fff",
+            fillOpacity: 0.2,
           };
         } else {
           return {
@@ -503,7 +532,8 @@ li.dropdown {
         layer.bindPopup(popupContent);
         var content = `<center><h2 class='ebgaramond' style="color: white"><b>${feature.properties.name}</b></h2></center> <p style="color: white">${feature.properties.about}</p>
           <p style="color: white"><center><h3 class='ebgaramond' style="color: white">Get in touch!</h3><i class="fa fa-globe" aria-hidden="true" style="color: white"></i> <a href ="${feature.properties.url}" target="_blank" class='montserrat' style="color: #69f1e4">Visit the website</a><br>
-            <br><i class="fa fa-address-book" aria-hidden="true" style="color: white"></i> <a href ="${feature.properties.contact}" target="_blank" class='montserrat' style="color: #69f1e4">Contact ${feature.properties.name}</a></center>`; //${feature.properties.address1}<br>${feature.properties.address2}<br>
+            <br><i class="fa fa-address-book" aria-hidden="true" style="color: white"></i> <a href ="${feature.properties.contact}" target="_blank" class='montserrat' style="color: #69f1e4">Contact ${feature.properties.name}</a>
+          </center>`; //${feature.properties.address1}<br>${feature.properties.address2}<br>
         layer.on("popupopen", function (feature) {
           document.getElementById("sidebar").innerHTML = content;
         });
@@ -533,11 +563,11 @@ li.dropdown {
       // }
       ///////////////////////////////////////////
       
-      var states = L.geoJson(statesDataO, {
+      var states = L.geoJson(stateBoundaries, {
         style,
       }).addTo(map);
 
-      var visit = L.geoJson(stops, {
+      var visit = L.geoJson(resourcedStates, {
         style: pop,
         onEachFeature,
       }).addTo(map);
@@ -557,22 +587,23 @@ li.dropdown {
         },
       }); //.addTo(map);
 
-      var GeorgiaMarkers = new L.FeatureGroup();
+      var resourceMarkers = new L.FeatureGroup();
 
-      GeorgiaMarkers.addLayer(trainStop);
+      resourceMarkers.addLayer(trainStop);
 
-      function clusterPop() {
-        this.unbindTooltip();
-      }
+      // function clusterPop() {
+      //   this.unbindTooltip();
+      // }
 
       var markers = L.markerClusterGroup({
-        spiderfyOnMaxZoom: true,
+        spiderfyOnMaxZoom: false,
         showCoverageOnHover: false,
         zoomToBoundsOnClick: true,
-        maxClusterRadius: 25,
+        maxClusterRadius: 40,
         animateAddingMarkers: true,
         disableClusteringAtZoom: 9,
         spiderfyDistanceMultiplier: 2,
+        // removeOutsideVisibleBounds: false,
       })
         .on("clusterclick", function (a) {
           a.layer.zoomToBounds({ padding: [40, 40] });
@@ -592,11 +623,11 @@ li.dropdown {
           a.propagatedFrom.unbindTooltip();
         });
 
-      markers.addLayer(GeorgiaMarkers);
+      markers.addLayer(resourceMarkers);
 
       map.on("zoomend", function () {
-        // console.log(map.getZoom());
-        if (map.getZoom() < 5) {
+        console.log(map.getZoom());
+        if (map.getZoom() < 4) {
           map.removeLayer(markers);
         } else {
           map.addLayer(markers);
@@ -613,9 +644,7 @@ li.dropdown {
         keys: [
           "properties.name",
           "properties.description",
-          // 'properties.about',
           "properties.address2",
-          //'properties.operator'
         ],
       });
 
@@ -661,6 +690,43 @@ initialZoomLevel: 9,
 		       },
   })
   .addTo(map);
+
+
+var legend = L.control({ position: "bottomright" });
+
+legend.onAdd = function (map) {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML += "<strong>Legend</strong>";
+  div.innerHTML +=
+    '<div><img src="kuronti-ne-akwamu-medium.png" width="16" height="16">Community Coalitions</div>';
+  div.innerHTML +=
+    '<div><img src="nea-ope-se-obedi-hene-small.png" width="16" height="16">Community Leaders</div>';
+  div.innerHTML +=
+    '<div><img src="nea-onnim-medium.png" width="16" height="16">Education</div>';
+  div.innerHTML +=
+    '<div><img src="fihankra-medium.png" width="16" height="16">Holistic Support</div>';
+  div.innerHTML +=
+    '<div><img src="aya-medium.png" width="16" height="16">Maternal Health Activism</div>';
+  div.innerHTML +=
+    '<div><img src="abusua-pa-medium.png" width="16" height="16">Mutual Aid</div>';
+  div.innerHTML +=
+    '<div><img src="okuafo-pa-medium.png" width="16" height="16">Nutrition Support</div>';
+  div.innerHTML +=
+    '<div><img src="safe-spot-logo.png" width="16" height="16">Perinatal Safe Spot</div>';
+  div.innerHTML +=
+    '<div><img src="epa-medium.png" width="16" height="16">Policy Work</div>';
+  return div;
+
+
+    // Prevent map interactions when interacting with legend
+    L.DomEvent.disableClickPropagation(div);
+    return div;
+};
+
+legend.addTo(map);
+
+
+
     </script>
   </body>
 </html>
@@ -714,7 +780,7 @@ initialZoomLevel: 9,
       //   layer.bindPopup(layer.feature.properties.STATE_NAME);
       // });
 
-      // GeorgiaMarkers.eachLayer((layer) => {
+      // resourceMarkers.eachLayer((layer) => {
       //   layer.bindPopup(layer.feature.properties.description);
       // });
       // const myCustomColour = '#5f93ed'
