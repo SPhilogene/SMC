@@ -1,7 +1,7 @@
-trainStops = [
-       {
-         "type": "Feature",
-         "geometry": {
+const trainStops = [
+  {
+    type: "Feature",
+    geometry: {
             "type": "Point",
             "coordinates":  [ -122.2824954,37.78334456 ]
          },
@@ -15,7 +15,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://forms.gle/DTSfnKijZoXAFdvm8",
-         "iconUrl":`nserewa-small.png`
+         "iconUrl":`abusua-pa-medium.png`
          }
        },
        {
@@ -34,7 +34,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://forms.gle/DTSfnKijZoXAFdvm8",
-         "iconUrl":`nserewa-small.png`
+         "iconUrl":`abusua-pa-medium.png`
          }
        },
        {
@@ -53,7 +53,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://forms.gle/DTSfnKijZoXAFdvm8",
-         "iconUrl":`nserewa-small.png`
+         "iconUrl":`abusua-pa-medium.png`
          }
        },
        {
@@ -72,7 +72,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://forms.gle/DTSfnKijZoXAFdvm8",
-         "iconUrl":`nserewa-small.png`
+         "iconUrl":`abusua-pa-medium.png`
          }
        },
        {
@@ -103,7 +103,7 @@ trainStops = [
          "properties": {
          "state":"Alabama",
          "name":"Alabama Birth Center",
-         "image":"ABC-Logo-Final-Color.png",
+         "image":"https://static.wixstatic.com/media/3446b8_f7865a82806c42379197bd150cdade72~mv2.png/v1/crop/x_0,y_0,w_477,h_467/fill/w_516,h_504,al_c,lg_1,q_85,enc_avif,quality_auto/ABC-Logo-Final-Color.png",
          "about":"<p class='ebgaramond' style='color: white'>Alabama Birth Center is a nurturing and holistic birth facility dedicated to low-risk pregnancies and follows the midwifery model of care. Staffed by skilled professionals, including midwives who prioritize a woman-centered approach, our center provides personalized and comprehensive maternity care. We offer a welcoming environment for expectant mothers, emphasizing natural birthing options and a supportive community.</p>",
          "description":"nurturing and holistic birth facility dedicated to low-risk pregnancies and follows the midwifery; natural birthing options and a supportive community.",
          "url":"https://www.alabamabirthcenter.com/",
@@ -123,13 +123,13 @@ trainStops = [
          "state":"New York",
          "name":"Ancient Song",
          "image":"https://images.squarespace-cdn.com/content/v1/6255bedd8e8610285e9a485b/edd2ae08-8371-4e1e-b4a2-2b8d3298bbb2/AS_Horizontal_Chocolate.png",
-         "about":"<p class='ebgaramond' style='color: white'>Ancient Song is a national birth justice organization working to eliminate maternal and infant mortality and morbidity among low-income Black and Latinx people. We do this by ensuring that all pregnant, postpartum, and parenting people of color have access to high-quality, holistic doula care and services regardless of their ability to pay. We provide doula training and services, offer community education, and advocate for policy change to support reproductive and birth justice.</p>",
-         "description":"national birth justice organization;  maternal and infant mortality and morbidity among low-income Black and Latinx people; pregnant, postpartum, and parenting people of color; holistic doula care; Doula Training  / Postpartum Care / Advocacy",
+         "about":"<p class='ebgaramond' style='color: white'>Ancient Song is a national birth justice organization working to eliminate maternal and infant mortality and morbidity among low-income Black and Latinx people. We do this by ensuring that all pregnant, postpartum, and parenting people of color have access to high-quality, holistic doula care and services regardless of their ability to pay. We provide doula training and services, offer community education, and advocate for policy change to support reproductive and birth justice.<br><br>Full Spectrum Doula Services<br><br>Are you looking for doula services? Ancient Song is here to support you through all of your reproductive health choices. Want more information on our services click below to schedule some time to talk with us.<br><br>Offering Free and Low Cost doula services to women in the community throughout NYC & Northern New Jersey</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"national birth justice organization;  maternal and infant mortality and morbidity among low-income Black and Latinx people; pregnant, postpartum, and parenting people of color; holistic doula care; Doula Training  / Postpartum Care / Advocacy; Safe Spot, Doula",
          "url":"https://www.ancientsongdoulaservices.com/about",
          "address1":"521 Halsey Street ",
          "address2":"Brooklyn, New York",
          "contact":"mailto:info@ancientsongdoulaservices.com",
-         "iconUrl":`epa-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -161,13 +161,13 @@ trainStops = [
          "state":"South Carolina",
          "name":"BEE Collective",
          "image":"https://i0.wp.com/beecollective.co/wp-content/uploads/2023/09/logo.png?w=500&ssl=1",
-         "about":"<p class='ebgaramond' style='color: white'>Our Mission<p class='ebgaramond' style='color: white'>The Beloved Early Education and Care Collective (BEE Collective) was formed in 2017, to build an integrated mental health framework to increase the social-emotional development outcomes of children, birth to 6, in Berkeley County, SC.</p><p class='ebgaramond' style='color: white'>The Collective began by addressing exclusion and expulsion in early learning settings that disproportionately affects children of color and children with disabilities. The group also supports family resilience from the beginning, through doula services, reproductive health information and parent groups.</p>",
-         "description":"Beloved Early Education and Care Collective; mental health framework; children, birth to 6; learning settings; disabilities;  doula services, reproductive health information and parent groups. Full Spectrum Community support",
+         "about":"<p class='ebgaramond' style='color: white'>Our Mission<p class='ebgaramond' style='color: white'>The Beloved Early Education and Care Collective (BEE Collective) was formed in 2017, to build an integrated mental health framework to increase the social-emotional development outcomes of children, birth to 6, in Berkeley County, SC.</p><p class='ebgaramond' style='color: white'>The Collective began by addressing exclusion and expulsion in early learning settings that disproportionately affects children of color and children with disabilities. The group also supports family resilience from the beginning, through doula services, reproductive health information and parent groups.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"Beloved Early Education and Care Collective; mental health framework; children, birth to 6; learning settings; disabilities;  doula services, reproductive health information and parent groups. Full Spectrum Community support;  Safe spot",
          "url":"https://beecollective.co/",
          "address1":"PO Box 41304",
          "address2":"North Charleston, SC 29423",
          "contact":"mailto:help@beecollective.co",
-         "iconUrl":`nea-onnim-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -180,13 +180,13 @@ trainStops = [
          "state":"Michigan",
          "name":"Birth Detroit",
          "image":"https://nfg-sofun.s3.amazonaws.com/uploads/ui_configuration/main_logo/28221/welcome_logo_logo.png",
-         "about":"<p class='ebgaramond' style='color: white'>Birth Detroit Care is a community-based maternal health practice, offering prenatal and postpartum care by midwives, as well as childbirth education and postpartum support. Birth Detroit Care is for every birthing person with a low-risk pregnancy. During your first visit, the Birth Detroit care team will talk with you about your health, your pregnancy, your goals for your care, and help determine whether or not community based midwifery care is right for you. If more specialized care is needed, we will refer you to an appropriate trusted healthcare provider. Birth Detroit Care is patterned after the JJWay® maternal health model Easy Access Clinic™, which centers access, connection, knowledge and empowerment as keys to a healthy pregnancy, healthy birth and healthy baby. Birth Detroit provides safe, quality, loving care through pregnancy, birth and beyond. No one will be turned away.</p>",
-         "description":"community-based maternal health practice, offering prenatal and postpartum care by midwives, childbirth education and postpartum support. Care birthing low-risk pregnancy. healthy pregnancy, birth and baby. Birthing Services Birthing Center",
+         "about":"<p class='ebgaramond' style='color: white'>Birth Detroit Care is a community-based maternal health practice, offering prenatal and postpartum care by midwives, as well as childbirth education and postpartum support. Birth Detroit Care is for every birthing person with a low-risk pregnancy. During your first visit, the Birth Detroit care team will talk with you about your health, your pregnancy, your goals for your care, and help determine whether or not community based midwifery care is right for you. If more specialized care is needed, we will refer you to an appropriate trusted healthcare provider. Birth Detroit Care is patterned after the JJWay® maternal health model Easy Access Clinic™, which centers access, connection, knowledge and empowerment as keys to a healthy pregnancy, healthy birth and healthy baby. Birth Detroit provides safe, quality, loving care through pregnancy, birth and beyond. No one will be turned away.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"community-based maternal health practice, offering prenatal and postpartum care by midwives, childbirth education and postpartum support. Care birthing low-risk pregnancy. healthy pregnancy, birth and baby. Birthing Services Birthing Center; Safe Spot, Easy Access Clinic",
          "url":"https://www.birthdetroit.com",
          "address1":"8575 Heritage Place",
          "address2":"Detroit, MI 48204",
          "contact":"mailto:info@birthdetroit.com",
-         "iconUrl":`abusua-pa-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -205,7 +205,7 @@ trainStops = [
          "address1":"2101 N. Tatum Blvd #160-939",
          "address2":"Phoenix, Arizona 85050",
          "contact":"https://birthingmagic.org/contact-us",
-         "iconUrl":`nea-onnim-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -243,7 +243,7 @@ trainStops = [
          "address1":"PO Box 571894",
          "address2":"Atlanta, Georgia 30357",
          "contact":"mailto:info@blackmamasmatter.org",
-         "iconUrl":`nea-onnim-medium.png`
+         "iconUrl":`kuronti-ne-akwamu-medium.png`
          }
        },
        {
@@ -262,7 +262,7 @@ trainStops = [
          "address1":"19750 Burt Rd., Room 205,",
          "address2":"Detroit, MI 48219",
          "contact":"mailto:info@BMBFA.org",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -300,7 +300,7 @@ trainStops = [
          "address1":"477 Windsor St SW, Suite 309",
          "address2":"Atlanta, GA, 30312",
          "contact":"mailto:info@cbww.org",
-         "iconUrl":`akoko-nan-medium.png`
+         "iconUrl":`abusua-pa-medium.png`
          }
        },
        {
@@ -319,7 +319,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -338,7 +338,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -357,7 +357,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -376,7 +376,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -395,7 +395,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -414,7 +414,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -433,7 +433,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -452,7 +452,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -471,7 +471,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -490,7 +490,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -509,7 +509,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -528,7 +528,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -547,7 +547,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -566,7 +566,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -585,7 +585,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://chocolatemilkcafe.org/contact-us/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -604,7 +604,7 @@ trainStops = [
          "address1":"213 South Dillard Street, Suite 340",
          "address2":"Winter Garden, FL 34787",
          "contact":"mailto:office@commonsensechildbirth.org",
-         "iconUrl":`akoko-nan-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -623,7 +623,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://www.linkedin.com/in/dr-crystal-m-hayes-msw-26585114/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bvc6dH%2B4JTRaI6KMKydMSlg%3D%3D",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`aya-medium.png`
          }
        },
        {
@@ -635,14 +635,14 @@ trainStops = [
          "properties": {
          "state":"Washington, D.C.",
          "name":"Dr. Ebony Marcelle",
-         "image":"Ebony-Marcelle.jpg",
+         "image":"https://drive.google.com/file/d/1IJ1Kyb3325ej1wNXQacZIpwg_U0wVFM3/view?usp=drive_link",
          "about":"<p class='ebgaramond' style='color: white'>Ebony Marcelle is the director of midwifery at Community of Hope, which includes Family Health and Birth Center. Marcelle was previously administrative chief of midwifery service at Medstar Washington Hospital Center. She completed her nursing education at Georgetown University and Midwifery at Jefferson University, and received her Doctorate degree at Frontier University. She is a fellow of the American College of Nurse Midwives and adjunct faculty at Georgetown University.</p><p class='ebgaramond' style='color: white'>Her advocacy work has included multiple congressional briefings creating awareness around the need for policy changes to reduce maternity care disparities. Known for her passion in midwifery and midwifery’s role in reproductive justice, Marcelle has built culturally aware clinical care models for under-resourced Black women. She serves on the boards of the National Association for the Advancement of Black Birth, March for Moms, and American Association of Birth Centers and is a member of the District of Columbia’s inaugural Maternal Mortality Review Committee.</p><p class='ebgaramond' style='color: white'>In 2023, Community of Hope reached 1,521 families overcoming or threatened by homelessness and about 15,785 patients in over 82,243 visits.</p><p class='ebgaramond' style='color: white'>And we will keep working until everyone in Washington, DC is healthy, housed and hopeful.</p>",
          "description":"midwifery at Community of Hope, which includes Family Health and Birth Center; Nurse Midwives; policy changes to reduce maternity care disparities; reproductive justice; homeless; doctor; Birth Justice Activist",
          "url":"https://www.communityofhopedc.org/clinicians/ebony-marcelle/",
          "address1":"2155 Champlain Street NW",
          "address2":"Washington, DC",
          "contact":"https://www.communityofhopedc.org/contact-us/",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`aya-medium.png`
          }
        },
        {
@@ -680,7 +680,7 @@ trainStops = [
          "address1":"5051 Greenspring Avenue, Suite 100",
          "address2":"Baltimore, MD 21209",
          "contact":"tel:410-664-8304",
-         "iconUrl":`fihankra-medium.png`
+         "iconUrl":`nea-ope-se-obedi-hene-small.png`
          }
        },
        {
@@ -718,7 +718,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://www.iamnikiagrayson.com/contact/",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`nea-onnim-medium.png`
          }
        },
        {
@@ -729,7 +729,7 @@ trainStops = [
          },
          "properties": {
          "state":"North Carolina",
-         "name":"Venus Standard",
+         "name":"Dr. Venus Standard",
          "image":"https://www.med.unc.edu/fammed/wp-content/uploads/sites/454/2018/03/Standard3.jpg",
          "about":"<p class='ebgaramond' style='color: white'>Venus Standard is a Certified Nurse Mid-wife, caring for women, pregnant women, and delivering comprehensive primary care for families. She serves as the Director of Health Equity Education and Community Engagement for the Department of Family Medicine.</p><p class='ebgaramond' style='color: white'>“I believe in educating women and their families to live a healthy lifestyle by supporting family planning, promoting healthy natural childbirth and encouraging breastfeeding,” says Standard. “I enjoy partnering with my patients to ensure that their physical, mental, emotional, spiritual and cultural needs are met.” Venus’s motto is “Textbooks taught me the science of obstetrics but I learned the art of birth from babies and their mothers” (Vincent, 2002).</p>",
          "description":"Nurse Midwife, caring for women, pregnant women, and delivering comprehensive primary care for families; family planning, promoting healthy natural childbirth and encouraging breastfeeding; physical, mental, emotional, spiritual and cultural need; birth babies and mothers",
@@ -788,13 +788,13 @@ trainStops = [
          "state":"Pennsylvania",
          "name":"Genesis Birth Services",
          "image":"https://static.ucraft.net/fs/ucraft/userFiles/newgenesisbirth/images/logo.png",
-         "about":"<p class='ebgaramond' style='color: white'>Genesis Birth Services was officially established in 2016 by, Gerria Coffee after her own births and observing others identified major gaps in Pregnancy, Pregnancy Loss, and Childbirth support, specifically for marginalized groups. Already aiding parents in infant feeding/breastfeeding support and attending births, she wanted to create a space where anyone who needed support would be able to find it. Genesis Birth Services provides culturally competent support for families of diverse backgrounds. It can be a challenge to find support from someone who understands and respects your background and lived experiences. Representation does make a big difference.</p>",
-         "description":"Gerria Coffee; Pregnancy, Pregnancy Loss, and Childbirth support, specifically for marginalized group; infant feeding/breastfeeding support and attending births",
+         "about":"<p class='ebgaramond' style='color: white'>Genesis Birth Services was officially established in 2016 by, Gerria Coffee after her own births and observing others identified major gaps in Pregnancy, Pregnancy Loss, and Childbirth support, specifically for marginalized groups. Already aiding parents in infant feeding/breastfeeding support and attending births, she wanted to create a space where anyone who needed support would be able to find it. Genesis Birth Services provides culturally competent support for families of diverse backgrounds. It can be a challenge to find support from someone who understands and respects your background and lived experiences. Representation does make a big difference.<br><br>Doula Support, Lactation Support, Childbirth Education, Safe Sleep Education, Pumping Supplies, Bereavement Support, Midwifery Care</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"Gerria Coffee; Pregnancy, Pregnancy Loss, and Childbirth support, specifically for marginalized group; infant feeding/breastfeeding support and attending births; safe spot; Doula Support, Lactation Support, Childbirth Education, Safe Sleep Education, Pumping Supplies, Bereavement Support, Midwifery Care",
          "url":"https://www.genesisbirth.org/",
          "address1":"1307 Park Ave #10",
          "address2":"Williamsport, PA 17701",
          "contact":"https://www.genesisbirth.org/contact",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -864,13 +864,13 @@ trainStops = [
          "state":"New York",
          "name":"Mama Glow",
          "image":"https://mamaglow.com/wp-content/uploads/2017/11/MamaGlow_Logo.png",
-         "about":"<p class='ebgaramond' style='color: white'>Mama Glow is an abundant, radiant energy that comes from within. It’s your initiation, birthing yourself as a powerful woman, as you prepare to give birth to your bundle of joy. Birth is our rite of passage, a ceremony marking a transformative stage in your life, and Mama Glow is our birthright—to walk in immense grace, power, and wisdom, to have understanding, reverence, and the deepest trust in our bodies. Having faith in the benevolent universe and being an active participant in the co-creation of your beautiful life. This act of standing in your power ignites a force within that glows from the inside out. This is a call to all women to reclaim their bodies and the birth process as sacred. It’s a personal style that reflects confidence, beauty, radiance, and balance.</p><p class='ebgaramond' style='color: white'>Mama Glow is New York’s premiere maternity lifestyle brand committed to supporting women along the childbearing continuum. We support women and families during the fertility period, during pregnancy, after birth and into new motherhood offering a full spectrum approach to holistic wellness. We are the first company to offer doula support at every stage along the childbearing continuum - including our premium fertility doula service for hopeful expectants. Mama Glow also offers a globally recognized doula immersion program educating doula-trainees from around the world to become the next generation of leaders that will help transform our modern health care system for women and babies. Having cultivated partnerships with some of the nation’s leading health organizations, Mama Glow is deeply committed to education, advocacy and impact. Our innovative programing takes space at our new women’s center in Brooklyn, Circle By Mama Glow, supporting women from menarche through menopause.</p><p class='ebgaramond' style='color: white'>We at Mama Glow seek to support women at the most powerful and most vulnerable time in their lives- at the threshold of new motherhood. We hold the hands of our clients along every phase of their journey, before, during and after pregnancy, providing full spectrum service based offerings, education inspiration and advocacy. We do this in a holistic fashion, addressing the physical, emotional and spiritual needs of the women who make up our community. We belive in the power and wisdom of the female body. We offer an inclusive and safe space we and welcomes and support all types of family configurations.</p><p class='ebgaramond' style='color: white'>About the Founder: After giving birth to her son Fulano in 2003, Latham Thomas set out on a mission to help women reclaim birth. A graduate of Columbia University & The Institute for Integrative Nutrition, Latham is a maternity lifestyle maven, world renown wellness leader and master birth doula on the vanguard of transforming the wellness movement. Named one of Oprah Winfrey's Super Soul 100, Latham is bridging the gap between optimal wellness, spiritual growth, and radical self care and is the go-to-guru for modern holistic lifestyle for women. She authored the bestselling book titled, “Mama Glow: A Hip Guide to a Fabulous and Abundant Pregnancy”, foreword by Dr. Christiane Northrup in 2012 and most recently published bestseller OWN YOUR GLOW: A Soulful Guide to Luminous Living and Crowning the Queen Within. Latham serves on the TUFTS University Nutrition Council and is also a member of the Well + Good Council where she provides expertise in women's wellness, pregnancy and self-care. In March of 2018, Latham released the meditation audio program, BEDITATIONS: Guided Meditations and Rituals for Rest and Renewal. She teaches at universities and teaching hospitals around the country, helping to improve the pateint labor and delivery experience.</p>\n",
+         "about":"<p class='ebgaramond' style='color: white'>Mama Glow is an abundant, radiant energy that comes from within. It's your initiation, birthing yourself as a powerful woman, as you prepare to give birth to your bundle of joy. Birth is our rite of passage, a ceremony marking a transformative stage in your life, and Mama Glow is our birthright—to walk in immense grace, power, and wisdom, to have understanding, reverence, and the deepest trust in our bodies. Having faith in the benevolent universe and being an active participant in the co-creation of your beautiful life. This act of standing in your power ignites a force within that glows from the inside out. This is a call to all women to reclaim their bodies and the birth process as sacred. It’s a personal style that reflects confidence, beauty, radiance, and balance.</p><p class='ebgaramond' style='color: white'>Mama Glow is New York's premiere maternity lifestyle brand committed to supporting women along the childbearing continuum. We support women and families during the fertility period, during pregnancy, after birth and into new motherhood offering a full spectrum approach to holistic wellness. We are the first company to offer doula support at every stage along the childbearing continuum - including our premium fertility doula service for hopeful expectants. Mama Glow also offers a globally recognized doula immersion program educating doula-trainees from around the world to become the next generation of leaders that will help transform our modern health care system for women and babies. Having cultivated partnerships with some of the nation’s leading health organizations, Mama Glow is deeply committed to education, advocacy and impact. Our innovative programing takes space at our new women’s center in Brooklyn, Circle By Mama Glow, supporting women from menarche through menopause.</p><p class='ebgaramond' style='color: white'>We at Mama Glow seek to support women at the most powerful and most vulnerable time in their lives- at the threshold of new motherhood. We hold the hands of our clients along every phase of their journey, before, during and after pregnancy, providing full spectrum service based offerings, education inspiration and advocacy. We do this in a holistic fashion, addressing the physical, emotional and spiritual needs of the women who make up our community. We belive in the power and wisdom of the female body. We offer an inclusive and safe space we and welcomes and support all types of family configurations.</p><p class='ebgaramond' style='color: white'>About the Founder: After giving birth to her son Fulano in 2003, Latham Thomas set out on a mission to help women reclaim birth. A graduate of Columbia University & The Institute for Integrative Nutrition, Latham is a maternity lifestyle maven, world renown wellness leader and master birth doula on the vanguard of transforming the wellness movement. Named one of Oprah Winfrey's Super Soul 100, Latham is bridging the gap between optimal wellness, spiritual growth, and radical self care and is the go-to-guru for modern holistic lifestyle for women. She authored the bestselling book titled, “Mama Glow: A Hip Guide to a Fabulous and Abundant Pregnancy”, foreword by Dr. Christiane Northrup in 2012 and most recently published bestseller OWN YOUR GLOW: A Soulful Guide to Luminous Living and Crowning the Queen Within. Latham serves on the TUFTS University Nutrition Council and is also a member of the Well + Good Council where she provides expertise in women's wellness, pregnancy and self-care. In March of 2018, Latham released the meditation audio program, BEDITATIONS: Guided Meditations and Rituals for Rest and Renewal. She teaches at universities and teaching hospitals around the country, helping to improve the pateint labor and delivery experience.</p>",
          "description":"energy; birthing; ceremony; grace, power, and wisdom, faith; reclaim bodies and birth process as sacred. confidence, beauty, radiance, and balance.",
          "url":"https://mamaglow.com/",
          "address1":"208 N 8th St Ground Floor, ",
          "address2":"Brooklyn, NY 11211",
          "contact":"mailto:info@lathamt.sg-host.com",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -882,14 +882,14 @@ trainStops = [
          "properties": {
          "state":"Washington, D.C.",
          "name":"Mamatoto Village",
-         "image":"https://www.mamatotovillage.org/wp-content/themes/elevation_theme/assets/images/logo.svg",
-         "about":"<p class='ebgaramond' style='color: white'>Healthy Mamas. Healthy Babies. Healthy Communities.<p class='ebgaramond' style='color: white'>As we celebrate our 10th anniversary, we want to take a moment to reflect on the work that we’ve done. This video shows our journey – from supporting expectant mamas to advocating for policy changes. We are proud of the impact we’ve made on Black families in our community.</p>",
-         "description":"Healthy Mamas. Babies. Communities; advocating for policy changes; Training for Community Members to become pregnancy/birth supporters",
+         "image":"https://perinataltaskforce.com/wp-content/uploads/2021/04/Mamatoto-Village-Logo.png",
+         "about":"<p class='ebgaramond' style='color: white'>Healthy Mamas. Healthy Babies. Healthy Communities.<p class='ebgaramond' style='color: white'>Mamatoto Village is a 501 (c)(3) non-profit organization, devoted to training the next generation of Community Birthworkers and Maternal Health professional; and empowering women with the necessary tools to make the most informed decisions and choices in their maternity care, their parenting, and their lives.<br><br>Our mission is two fold: to provide complimentary and low-cost maternal health services to women and their families during pregnancy through the first year of the child's life, and to facilitate the increase of qualified women of color serving in the profession of Community Birthworkers and/or Midwives. By promoting health equity, which will aid in the reduction of barriers and inequality in maternal and child health for women of color in the D.C. Metro Area, we aim to foster healthy individuals, healthy families and healthy communities.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"Healthy Mamas. Babies. Communities; advocating for policy changes; Training for Community Members to become pregnancy/birth supporters;  safe spot",
          "url":"https://www.mamatotovillage.org/",
          "address1":"4315 Sheriff Rd NE",
          "address2":"Washington DC, 20019",
          "contact":"mailto:info@mamatotovillage.org",
-         "iconUrl":`akoko-nan-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -977,14 +977,14 @@ trainStops = [
          "properties": {
          "state":"Pennsylvania",
          "name":"Patients R Waiting",
-         "image":"https://images.app.goo.gl/hkhujn7MBFeWJYF57",
+         "image":"https://images.squarespace-cdn.com/content/5e46a30245ad885e87a209a2/1600441673622-HKN1IIP4G7LNRBC95YH1/Screen+Shot+2020-09-18+at+11.07.28+AM.png?format=1000w&content-type=image%2Fpng",
          "about":"<p class='ebgaramond' style='color: white'>Dr. Sharee Livingston and Dr. Cherise Hamblin lead Patients R Waiting. PRW is an organization committed to eliminating health disparities by increasing diversity in medicine. We have three areas of focus: 1) increase the pipeline of minority clinicians, 2) make that pipeline less leaky, and 3) support minority clinicians in practice. Our PRW headquarters is The Black Doctor Factory. Our BDF is a 1600 square foot office that houses a 1,000 square foot mural highlighting 20 Black physicians and scientists.</p>",
          "description":"Dr. Sharee Livingston and Dr. Cherise Hamblin, PRW, health disparities diversity in medicine; Black Doctor Factory;  physicians and scientists; doctor; Obstetrics & Gynecology also provides doula services  Training",
          "url":"https://www.patientsrwaiting.com/",
          "address1":"100 South Queen Street, Suite 212",
          "address2":"Lancaster, PA 17603",
          "contact":"mailto:drlivingston@patientsrwaiting.com",
-         "iconUrl":`akoko-nan-medium.png`
+         "iconUrl":`nea-onnim-medium.png`
          }
        },
        {
@@ -995,15 +995,15 @@ trainStops = [
          },
          "properties": {
          "state":"New Jersey",
-         "name":"Perinatal Equity",
+         "name":"Perinatal Health Equity Initiative",
          "image":"https://perinatalequity.org/wp-content/uploads/2022/02/cropped-cropped-cropped-Perinatal-Health-Equity-Initiative_Logo_color-1-1.png",
          "about":"<p class='ebgaramond' style='color: white'>The Perinatal Health Equity Initiative is a grassroots community organization. We are dedicated to actively working towards eliminating health care disparities in black infant and maternal health through advocacy, education, community engagement, research, collaboration, and direct clinical support.</p>",
-         "description":"grassroots community organization;  infant and maternal health; advocacy, education, community engagement, research, collaboration, and clinical support. Breastfeeding Support Monetary Support For Families After Maternal Mortality \nPostpartum Wrap Around Support Services ",
+         "description":"grassroots community organization;  infant and maternal health; advocacy, education, community engagement, research, collaboration, and clinical support. Breastfeeding Support Monetary Support For Families After Maternal Mortality \nPostpartum Wrap Around Support Services. Safe Spot",
          "url":"https://perinatalequity.org/",
          "address1":"280 South Harrison Street Suite 311 ",
          "address2":"East Orange, NJ 07018",
          "contact":"mailto:info@perinatalequity.org",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -1054,13 +1054,13 @@ trainStops = [
          "state":"Georgia",
          "name":"Reaching Our Sisters Everywhere (ROSE)",
          "image":"https://breastfeedingrose.org/wp-content/uploads/2021/05/ROSE_300dpi-vector-web-1-768x323-1.png",
-         "about":"<p class='ebgaramond' style='color: white'>ROSE is a national nonprofit organization with a mission to serve communities, through a continued focus on centering the breastfeeding needs of Black families and impacting broader maternal, infant, and family health outcomes across the nation. Reaching Our Sisters Everywhere (ROSE) Inc. was founded to address breastfeeding disparities for communities of color. ROSE works to normalize breastfeeding by providing resources and networking opportunities for individuals and communities. As a national expert, and in partnership with communities, we build equity in maternal and child health through culturally competent training, education, advocacy, and support.</p>",
-         "description":"communities, breastfeeding; Black families; maternal, infant, and family health outcomes across the nation. child health culturally competent training, education, advocacy, and support.",
+         "about":"<p class='ebgaramond' style='color: white'>ROSE is a national nonprofit organization with a mission to serve communities, through a continued focus on centering the breastfeeding needs of Black families and impacting broader maternal, infant, and family health outcomes across the nation. Reaching Our Sisters Everywhere (ROSE) Inc. was founded to address breastfeeding disparities for communities of color. ROSE works to normalize breastfeeding by providing resources and networking opportunities for individuals and communities. As a national expert, and in partnership with communities, we build equity in maternal and child health through culturally competent training, education, advocacy, and support.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"communities, breastfeeding; Black families; maternal, infant, and family health outcomes across the nation. child health culturally competent training, education, advocacy, and support. Safe Spot",
          "url":"https://breastfeedingrose.org",
          "address1":"3035 Stone Mountain St. #1076",
          "address2":"Lithonia, GA 30058",
          "contact":"https://breastfeedingrose.org/contact/",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -1079,7 +1079,7 @@ trainStops = [
          "address1":"201 Main St",
          "address2":"Boonville, NY 13309",
          "contact":"mailto:info@restoreny.org",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1117,7 +1117,7 @@ trainStops = [
          "address1":"3303 Farm to Market 1960 Rd W Suite 130",
          "address2":"Houston, TX 77068",
          "contact":"https://www.shadesofblueproject.org/contact",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1155,7 +1155,7 @@ trainStops = [
          "address1":"P.O. Box 94408",
          "address2":"Atlanta, GA 30377",
          "contact":"mailto:info@sistersong.net",
-         "iconUrl":`nea-onnim-medium.png`
+         "iconUrl":`kuronti-ne-akwamu-medium.png`
          }
        },
        {
@@ -1212,7 +1212,7 @@ trainStops = [
          "address1":"2000 Greenmount Avenue, Suite 101,",
          "address2":"Baltimore, MD 21218",
          "contact":"https://cllctivly.org/contact/",
-         "iconUrl":`nea-ope-se-obedi-hene-small.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1226,7 +1226,7 @@ trainStops = [
          "name":"Unimed Academy",
          "image":"cropped-logo-e1696940017613.png",
          "about":"<p class='ebgaramond' style='color: white'>Unimed Academy is a proprietary school whose mission is to prioritize excellence, inclusivity, and accessibility through online Health Science and Human Service education. We aim to shape graduates who excel in their careers, embody safety, equity, and ethical care, and empower their communities. Through innovative programs, we foster secure learning environments, equipping individuals to enhance their professions and make informed health decisions while promoting personal growth and professional development.</p>",
-         "description":"school; secure learning environments; informed health decisions while promoting personal growth and professional development. healthcare professionals training, hands-on skills, and industry knowledge to excel in medical careers.\n",
+         "description":"school; secure learning environments; informed health decisions while promoting personal growth and professional development. healthcare professionals training, hands-on skills, and industry knowledge to excel in medical careers.",
          "url":"https://unimedacademy.com/",
          "address1":"3570 Holiday Dr. Suite 7A",
          "address2":"New Orleans, LA 70114",
@@ -1244,13 +1244,14 @@ trainStops = [
          "state":"Missouri",
          "name":"Uzazi Village and Village Prenatal Care",
          "image":"https://uzazi.wpengine.com/wp-content/uploads/2021/01/uzazi-logo_web22.png",
-         "about":"<p class='ebgaramond' style='color: white'>Uzazi Village is a nonprofit organization dedicated to eliminating maternal and infant health inequity among Black and Brown communities. Through education, support, and advocacy, Uzazi Village works to improve perinatal health in the Kansas City community and around the country. We work every day to build a respectful and supportive healthcare system that fosters equitable and sustainable outcomes in maternal and infant health.</p>",
-         "description":"nonprofit; maternal and infant health inequity; education, support, and advocacy; maternal and infant health; Group prenatal care",
+         "about":"<p class='ebgaramond' style='color: white'>Uzazi Village is a nonprofit organization dedicated to eliminating maternal and infant health inequity among Black and Brown communities. Through education, support, and advocacy, Uzazi Village works to improve perinatal health in the Kansas City community and around the country. We work every day to build a respectful and supportive healthcare system that fosters equitable and sustainable outcomes in maternal and infant health.<br><br>Our work is grounded in the belief that every person deserves culturally congruent care, respectful treatment, and equitable outcomes throughout pregnancy, birth, and postpartum. We exist to eliminate the persistent maternal and infant health disparities that disproportionately impact Black and Brown communities. Through education, advocacy, and community‑based support, Uzazi Village creates pathways for families to thrive.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"nonprofit; maternal and infant health inequity; education, support, and advocacy; maternal and infant health; Group prenatal care. Safe Spot, Doula",
          "url":"https://uzazivillage.org/",
          "address1":"4232 Troost Avenue",
          "address2":"Kansas City, MO 64110",
-         "contact":"tel:816-541-3718",
-         "iconUrl":`abusua-pa-medium.png`
+         "contact":"mailto:info@uzazivillage.org",
+         "iconUrl":`safe-spot-logo.png`
+
          }
        },
        {
@@ -1288,7 +1289,7 @@ trainStops = [
          "address1":"161 Webster Street",
          "address2":"Gainesville AL 35464",
          "contact":"mailto:Info@thebirthsanctuary.com",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1320,13 +1321,13 @@ trainStops = [
          "state":"Texas",
          "name":"MilkSpace",
          "image":"https://www.milkspace.co/cdn/shop/files/MilkSpace_LLC_Trademark_File_720x.png",
-         "about":"<p class='ebgaramond' style='color: white'>Mobile Lactation Space for Events! </p><p class='ebgaramond' style='color: white'>Mamas NEED AND DESERVE Access to Adequate Lactation Spaces No Matter HER Location!</p><p class='ebgaramond' style='color: white'>The MilkSpace Mission is to create \"Mother-Friendly\" & Mother-Inclusive\" experiences for women to EMPOWER mothers to reach their breastfeeding goals on THEIR terms, No Matter THEIR location.</p>",
+         "about":"<p class='ebgaramond' style='color: white'>Mobile Lactation Space for Events! </p><p class='ebgaramond' style='color: white'>Mamas NEED AND DESERVE Access to Adequate Lactation Spaces No Matter HER Location!</p><p class='ebgaramond' style='color: white'>The MilkSpace Mission is to create\"Mother-Friendly\" & Mother-Inclusive\" experiences for women to EMPOWER mothers to reach their breastfeeding goals on THEIR terms, No Matter THEIR location.</p>",
          "description":"breastfeeding; lactation; mobile van",
          "url":"https://www.milkspace.co",
          "address1":"",
          "address2":"",
          "contact":"mailto:Info@milkspace.co",
-         "iconUrl":`obohemaa-small.png`
+         "iconUrl":`okuafo-pa-medium.png`
          }
        },
        {
@@ -1339,13 +1340,13 @@ trainStops = [
          "state":"Texas",
          "name":"Paradigm Doulas",
          "image":"https://perinataltaskforce.com/wp-content/uploads/2022/03/Paradigm-Douglas-LLC-logo.png",
-         "about":"<p class='ebgaramond' style='color: white'>Paradigm Doulas is committed to improving birth outcomes and addressing inequities in maternal health, particularly in underserved communities. Their training program and services are designed to empower doulas to provide culturally competent and equitable support to families.</p>",
+         "about":"<p class='ebgaramond' style='color: white'>Paradigm Doulas is committed to improving birth outcomes and addressing inequities in maternal health, particularly in underserved communities. Their training program and services are designed to empower doulas to provide culturally competent and equitable support to families.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
          "description":"doula training and perinatal support; birth work; justice; Dallas; fort worth",
          "url":"https://paradigmdoulas.com/",
          "address1":"",
-         "address2":"",
+         "address2":"Saginaw, TX",
          "contact":"https://paradigmdoulas.com/contact/",
-         "iconUrl":`akoko-nan-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -1415,13 +1416,13 @@ trainStops = [
          "state":"Washington",
          "name":"BLKBRY",
          "image":"https://static.wixstatic.com/media/aa76d2_e8c3522e3357438aabf73a6c741388eb~mv2.png/v1/fill/w_323,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BLKBRY%20(22).png",
-         "about":"<p class='ebgaramond' style='color: white'>BLKBRY is a culturally responsive, evidence based practice that intends to interrupt harm to Black people and families by providing full spectrum wraparound support during the reproductive, prenatal, postpartum and lactation periods, and by building power and autonomy through relationships of trust and restoring community, and holistic and birthing knowledge.</p><p class='ebgaramond' style='color: white'>We believe that Black people with both learned and lived experience must be the leaders, drivers, and implementers of this work to make true change.</p><p class='ebgaramond' style='color: white'>BLKBRY also invests in the Black ecosystem. Our priority of connection and collaborative care is to build relationships and community with Black specialists, providers, and community-based organizations and clinics that reflect our community. We invest in our community by also purchasing and stocking items from Black-owned businesses. We strive to purchase from those that are local to the Pacific Northwest. We remain intentional about our impact on the Black birthing community and cultural economy of the Black community in Washington State.</p>",
-         "description":"reproductive, prenatal, postpartum and lactation; community,  holistic and birthing",
+         "about":"<p class='ebgaramond' style='color: white'>BLKBRY is a culturally responsive, evidence based practice that intends to interrupt harm to Black people and families by providing full spectrum wraparound support during the reproductive, prenatal, postpartum and lactation periods, and by building power and autonomy through relationships of trust and restoring community, and holistic and birthing knowledge.</p><p class='ebgaramond' style='color: white'>We believe that Black people with both learned and lived experience must be the leaders, drivers, and implementers of this work to make true change.</p><p class='ebgaramond' style='color: white'>BLKBRY also invests in the Black ecosystem. Our priority of connection and collaborative care is to build relationships and community with Black specialists, providers, and community-based organizations and clinics that reflect our community. We invest in our community by also purchasing and stocking items from Black-owned businesses. We strive to purchase from those that are local to the Pacific Northwest. We remain intentional about our impact on the Black birthing community and cultural economy of the Black community in Washington State.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+         "description":"reproductive, prenatal, postpartum and lactation; community,  holistic and birthing; safe spot",
          "url":"https://www.blkbry.com/",
-         "address1":"",
-         "address2":"",
+         "address1":"155 SW 152nd St # A",
+         "address2":"Burien, WA 98166",
          "contact":"https://www.blkbry.com/contact",
-         "iconUrl":`kuronti-ne-akwamu-medium.png`
+         "iconUrl":`safe-spot-logo.png`
          }
        },
        {
@@ -1440,7 +1441,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"https://www.deeplyrootedhomebirth.com/contact",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1459,7 +1460,7 @@ trainStops = [
          "address1":"449 Nostrand Avenue",
          "address2":" Brooklyn, NY 11216",
          "contact":"https://www.n-diya.com/contact-1",
-         "iconUrl":`bi-nka-bi-medium.png`
+         "iconUrl":`fihankra-medium.png`
          }
        },
        {
@@ -1478,7 +1479,7 @@ trainStops = [
          "address1":"",
          "address2":"",
          "contact":"mailto:heyblackdad@gmail.com",
-         "iconUrl":`fihankra-medium.png`
+         "iconUrl":`adinkrahene-medium.png`
          }
        },
        {
@@ -1554,7 +1555,7 @@ trainStops = [
     "address1":"",
     "address2":"",
     "contact":"https://healthinherhue.com/contact-us",
-    "iconUrl":`bi-nka-bi-medium.png`
+    "iconUrl":`fihankra-medium.png`
     }
   },
   {
@@ -1592,7 +1593,7 @@ trainStops = [
     "address1":"515 Canal Street, #1C",
     "address2":"New York NY 10013",
     "contact":"mailto:info@bridgeproject.org",
-    "iconUrl":`nserewa-small.png`
+    "iconUrl":`abusua-pa-medium.png`
     }
   },
   {
@@ -1603,7 +1604,7 @@ trainStops = [
     },
     "properties": {
     "state":"Georgia",
-    "name":"4 Kira 4 Moms",
+    "name":"4Kira4Moms",
     "image":"https://4kira4moms.com/wp-content/uploads/2024/09/Untitled-design-3.png",
     "about":"<p class='ebgaramond' style='color: white'><b>Our Mission</b></p><p class='ebgaramond' style='color: white'>Our mission is to fight for improved maternal outcomes through advocacy and coalition building, educate the public about the impact of maternal mortality in communities, provide peer support to victim’s families, and promote the idea that maternal mortality should be viewed, and discussed as a human rights issue.</p><p class='ebgaramond' style='color: white'><b>Our Story</b></p><p class='ebgaramond' style='color: white'>In 2016, our founder, Charles Johnson, lost his wife Kira, during a routine C-section at Cedar Sinai hospital in Los Angeles, California. He founded 4Kira4Moms in 2017 as a response to his experience, to be a voice for other mothers and families facing unnecessary maternal loss, and putting an end to the maternal mortality health crisis. Black women are disproportionately affected by this epidemic, where they are 3x more likely to die from pregnancy than white women. Implicit bias, access to healthcare, and a number of other factors highlight the need for legislation, support for community-based organizations focused on Black maternal health, and access to care, information, and resources for all underserved and disproportionately affected communities.</p>",
     "description":"Charles Johnson, lost his wife Kira, C-section at Cedar Sinai ",
@@ -1622,9 +1623,9 @@ trainStops = [
     },
     "properties": {
     "state":"Georgia",
-    "name":"4 Kira 4 Dads Paternal Centers Of Excellence",
-    "image":"https://4kira4dads.com/wp-content/uploads/2024/08/59640d76fbf99352e2981978fdf4c652.png",
-    "about":"<p class='ebgaramond' style='color: white'><b>EMPOWERING CHANGE with Awareness, Healing, and Advocacy</b></p><p class='ebgaramond' style='color: white'>4Kira4Dads Paternal Centers of Excellence (PCOE) focuses on educating and supporting men to advocate for maternal health. By equipping partners of Black women with the tools to navigate pregnancy, birth, and postpartum, we aim to save lives and reduce preventable Black maternal mortality.</p><p class='ebgaramond' style='color: white'>4Kira4Dads “Locker Rooms” will be the settings for our Paternal Centers of Excellence. Our virtual and physical locations will provide both aspiring and expecting fathers with resource and support hubs designed to provide: Awareness & Training | Healing Networks | Agency & Advocacy</p>",
+    "name":"4Kira4Dads",
+    "image":"https://www.4kira4dads.com/_next/image?url=%2Fimages%2F4kira4dads-logo-main.png&w=828&q=75",
+    "about":"<p class='ebgaramond' style='color: white'><b>EMPOWERING CHANGE with Awareness, Healing, and Advocacy</b></p><p class='ebgaramond' style='color: white'>🏈 Trusted by 10,000+ Fathers Nationwide! 4Kira4Dads focuses on educating and supporting men to advocate for maternal health. By equipping partners of Black women with the tools to navigate pregnancy, birth, and postpartum, we aim to save lives and reduce preventable Black maternal mortality.</p><p class='ebgaramond' style='color: white'>4Kira4Dads “Locker Rooms” will be the settings for our Paternal Centers of Excellence. Our virtual and physical locations will provide both aspiring and expecting fathers with resource and support hubs designed to provide: Awareness & Training | Healing Networks | Agency & Advocacy</p>",
     "description":"Awareness & Training | Healing Networks | Agency & Advocacy",
     "url":"https://4kira4dads.com/",
     "address1":"",
@@ -1649,26 +1650,4928 @@ trainStops = [
     "address1":"",
     "address2":"",
     "contact":"mailto:blackmaternalhealth@tufts.edu",
-    "iconUrl":`nea-ope-se-obedi-hene-small.png`
+    "iconUrl":`fihankra-medium.png`
     },
   },
-{
+  {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.74454913,35.20292293 ]
+       "coordinates":  [ -81.3940245,28.5189449 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"22nd Street House",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/22nd-street-house/",
+    "address1":"1026 22nd Street",
+    "address2":"Orlando, FL 32805",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6384451,27.7671271 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"3 Gems Birth Services FL",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/3-Gems-Birth-Services-logo.png",
+    "about":"<p class='ebgaramond' style='color: white'><strong>Where Everyone Deserves Care</strong></p>\n<p class='ebgaramond' style='color: white'>3 Gems Births Services is founded by Courtney Hopkins Doula, Nurse and Community Activist. Through the pregnancy, birth and postpartum experience with her 2nd child she realized that our community is seriously lacking in our care of emerging and growing families.<br><br>The difference between Courtney's first child and second was her support system and access to culturally competent care.  As a way to grow and heal from the trauma of her experience Courtney decided to become a resource for \"Let the Love do the Work\", non-judgmental, trauma informed, evidence based support through motherhood.  She achieved this first through becoming a Doula and pediatric nurse.  Then seeing the need was greater than she alone could provide she searched, met, interviewed, researched and found other like-minded Birth Workers to come together to \"do the work\" with her.<br><br>Through this process she found and eventually began collaborating with the world-renowned Midwife and Founder of the National Perinatal Task Force Jennie Joseph CPM.   Through hosting the COPE Training in St Pete, FL she met others to join her in creating a safe place in St Pete, FL<br><br>Joining the National Perinatal Taskforce is a logical next step.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://3gemsbirthservices.com",
+    "address1":"",
+    "address2":"St. Petersburg, FL",
+    "contact":"https://www.instagram.com/3gemsbirthservices/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "state":"Massachusetts",
+    "name":"A Bucket For The Well",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/06/a-bucket-for-the-well-logo.png",
+    "about":"- Perinatal Psychotherapy\n- Infant-Parent Mental Health Services\n- Perinatal Photography\n- Perinatal Dance Movement Therapy Services<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.abucketforthewell.com/",
+    "address1":"",
+    "address2":"Boston, MA",
+    "contact":"https//www.instagram.com/abucketforthewell/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3789269,28.5383832 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"A Helping Hand Doula Services LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/A-Helping-Hand-logo-.png",
+    "about":"<strong>Juana Browne - Certified Doula</strong><br><br>I have been a certified doula for over 11 years, serving the Orlando area. I support Mommies who have hospital births, home births and birth center births. I provide support during pregnancy, labor &amp; delivery, and postpartum. I love supporting women through their transition into motherhood. I am also surviving being a Mommy of 4!\n<strong>Birth Doula Virtual </strong>\n<strong>Doula Support</strong>\n<strong>Postpartum Doula</strong>\n<strong>Attend hospital, birth center, and home births </strong>\n<strong>Placenta Encapsulation</strong>\n<strong>Speak English and Spanish</strong>\n<strong>Specialize in Newborn Care</strong><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/a-helping-hand-doula-services-llc/",
+    "address1":"",
+    "address2":"Orlando, FL",
+    "contact":"https://www.instagram.com/ahhdoulaservices/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.448772,33.6832181 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"A Light After Nine",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/01/IMG_0240.png",
+    "about":"<p class='ebgaramond' style='color: white'>A Light After Nine is a BIPOC-led nonprofit organization dedicated to supporting families navigating infertility, pregnancy loss, and maternal trauma. Founded by Rachell Dumas, a registered nurse and maternal health advocate, after her personal journey through nine pregnancy losses, the organization provides compassionate resources and advocacy for equitable maternal care. Our mission is to illuminate the path to hope and healing for families facing the emotional and physical challenges of reproductive health. We focus on addressing systemic inequities in maternal healthcare, particularly for communities of color, by providing trauma-informed care, educational support, and direct assistance, such as care baskets for high-risk patients. As an official Perinatal Safe Spot under the National Perinatal Task Force, A Light After Nine is a trusted, inclusive space where families can feel supported, heard, and cared for during their maternal health journeys. Our designation as a Perinatal Safe Space highlights our commitment to: -Culturally Competent and Trauma-Informed Care: We recognize the unique challenges faced by diverse families, offering services and resources that honor their lived experiences. -Advocacy and Empowerment: We actively work to address disparities in maternal healthcare, using our platform to advocate for systemic reform and equitable access to quality care. -Community Support and Healing: Through initiatives like our care baskets for high-risk inpatients, virtual support groups, and storytelling events, we foster a sense of belonging and resilience among families. -Safe, Nonjudgmental Space: We provide an environment where families can share their experiences, access resources, and receive emotional and practical support without fear of stigma or judgment. At A Light After Nine, we're more than a nonprofit; we're a lifeline for families navigating the complexities of maternal health. Our work aims to shine a light on systemic gaps while empowering families to find strength, healing, and hope. Together, we can build a future where no family has to walk this journey alone.</p><br><br><p class='ebgaramond' style='color: white'>Services Offered by A Light After Nine 1. Care Baskets for High-Risk Patients Delivered to high-risk maternity inpatients, NICU families, and those navigating loss. Includes practical items (e.g., self-care essentials, journals, and comfort items) and informational resources tailored to their journey. 2. Emotional and Advocacy Support Trauma-informed care for families coping with pregnancy loss or maternal trauma. Virtual support groups to connect individuals with shared experiences. Advocacy guidance to empower families in navigating complex healthcare systems. 3. Maternal Health Education Workshops and webinars on trauma-informed care, patient advocacy, and self-care for families and healthcare professionals. Resources to educate families on maternal health rights and options. 4. Perinatal Safe Space Officially recognized by the National Perinatal Task Force, we provide a welcoming, judgment-free environment where families feel supported and heard. 5. Advocacy and Systemic Reform Collaborating with policymakers, healthcare providers, and community organizations to address disparities in maternal health. Advocacy efforts to improve access to equitable, culturally competent care for all families. 6. Community Engagement and Events Hosting events such as baby showers for underserved families, memorials for lost mothers and babies, and maternal health awareness campaigns. Annual participation in Black Maternal Health Week and other key observances to amplify voices and stories in the maternal health space.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Birth Worker, Safe Spot, ",
+    "url":"https://www.alightafternine.org/",
+    "address1":"",
+    "address2":"Atlanta, Georgia 30344",
+    "contact":"Info@alightafternine.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8213634,38.8338816 ]
+    },
+    "properties": {
+    "state":"Colorado",
+    "name":"A Mother's Choice CO",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/A-Mothers-Choice-logo.png",
+    "about":"Being a PSS provides both local and national transparency, in regards to, the collaborative grassroots efforts between multiple organizations working towards a common goal.  A Mother's Choice believes through community, we can create and improve maternal access, provide preconception, prenatal, postpartum education and decrease disparities in all women no matter what their education, race, religion, sexual orientation or social-economic status may be.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://amcmbirth.com/index.html",
+    "address1":"",
+    "address2":"Colorado Springs, CO",
+    "contact":"https://www.facebook.com/csdoulaamc",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.0542393,41.3082001 ]
+    },
+    "properties": {
+    "state":"Nebraska",
+    "name":"A Mother's Love Inc.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-71.png",
+    "about":"A Mother's Love Inc. is a Holistic Maternal Support Agency that supports & aligns strategies with community outreach to create better birth outcomes in underserved communities. We're creating a birthing community where mothers can learn, collaborate and have access to the necessary resources to lead vibrant, healthy lives. Services we provide are Community Health Workers, Doulas, Perinatal & Infant care classes, Baby Supplies, Community Resources, Medicaid redetermination Support, and Community Baby Showers.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.amothersloveinc.org",
+    "address1":"5480 North 90th Street",
+    "address2":"Omaha, Nebraska 68134",
+    "contact":"s.king@amothersloveinc.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7701431,32.7672827 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Abide Women's Health Services TX",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Abide-Womens-Health-Services-logo.png",
+    "about":"<strong>Mission</strong>:<br><br>\"Abide Women's Health Services exist to improve birth outcomes in communities with the lowest quality of care by offering healthcare and complimentary services that are easily accessible, holistic, evidence based and free from judgment.\"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.abidewomen.org",
+    "address1":"2612 Martin Luther King Jr Blvd",
+    "address2":"Dallas, TX 75215",
+    "contact":" https//www.instagram.com/abide_women/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3889664,33.7496678 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Abundance Birth Care GA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Abundance-Birth-logo.png",
+    "about":"Every community deserves a midwife. A trusted person already known in their community who understands what it takes in their community to stay safe because they are from there.<br><br><br><br>Founder of NGO Midwife of the Move, UmmSalaamah donated a bus to Bellies to Babies Foundation to start the program in Georgia, with a mobile midwife clinic visiting communities through centers, clinics, faith-based organizations, and others, to bring help and care to families who are otherwise not being seen or where there are gaps in the care. Her partner Corrinna Edwards, CPM, is the director of M.O.M Drive and collects mom and baby items and health care supplies to deliver to families at the sites and homes. There they have incentives to show up and are more likely to be screened when they are otherwise not being seen. Nobody is turned away. Consulting, resources, care, and education are provided.<br><br><br><br><a href=\"http://www.abundancebirth.com/\">Abundancebirth.com (Private Practice)</a>\n<br><br>\n<a href=\"http://www.belliestobabiesfoundation.org/\">Belliestobabiesfoundation.org (Community-led Practice/Birth Justice)</a>\n<br><br>\n<a href=\"http://www.communitymidwivesinc.org/\">communitymidwifesinc.org (Advocacy/Birth Justice)</a>\n<br><br>\n<br><br><br><br>See also - <a href=\"https://perinataltaskforce.com/directory-task_force/listing/ummsalaamah-abudullah-zaimah/\">UmmSalaamah (Sondra) Abdullah-Zaimah</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://BelliestoBabiesFoundation.org",
+    "address1":"201 Washington St SW",
+    "address2":"Atlanta, GA 30303",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5164276,35.4675602 ]
+    },
+    "properties": {
+    "state":"Oklahoma",
+    "name":"Agape Doula Services OK",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Agape-Doula-Service-logo.png",
+    "about":"Danielle Lugrand, Primary Midwife, DONA Advanced Certified Birth Doula, AdvCD(DONA), DONA Advanced Certified Postpartum Doula, AdvPCD(DONA), Certified Lactation Counselor, CLC, Lamaze Certified Childbirth Educator, LCCE &amp; Teen Specialist<br><br>Danielle Lugrand is an experienced and highly trained prenatal, birth, and postpartum support professional. In her 22 years in the field, she has served as an advocate and positive support for families, peers, and other professionals. Danielle works to empower the birthing community through evidence-based information and culturally competent practices. A staunch believer in equality in all spaces, Danielle is committed to creating community professionals and services that optimize better outcomes for families, regardless of identity, during the childbearing years.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.agapedoulaservice.com",
+    "address1":"",
+    "address2":"Oklahoma City, OK",
+    "contact":"https://www.instagram.com/agapedoula_primarymidwife/?fbclid=IwAR0T35EPLzMlpRQyXU2z0lhT5dSe-U09AfxFI9cAkBwFoM5iNvfCnGtkSLs",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7909125,40.2599864 ]
+    },
+    "properties": {
+    "state":"New Jersey",
+    "name":"Ahavah Birth & Beyond",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/ahavah-birth-beyond/",
+    "address1":"",
+    "address2":"Ewing Township, NJ",
+    "contact":" https//www.facebook.com/ahavahbirthworksorg/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9294267,29.0487059 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Alagbara Birth",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Alagbara-Birth-logo.png",
+    "about":"My name is Tosha Nichole, I am a certified full spectrum doula and the owner of Alagbara Birth.<br><br>I also serve Medicaid United Healthcare clients in Florida Regions 3, 4, &amp; 6 and hold credentials with The Doula Network.<br><br>I received my birth doula certification from Ancient Song Doula Services in Brooklyn, NY. I am HIPPA certified, CPR certified and Blood Borne Pathogens certified. I'm also now officially a Placenta Encapsulation Specialist and accepting clients for placenta encapsulation.<br><br>I specialize in supporting minority families in underprivileged communities. What I love most about supporting clients as a doula is that I am able to help them have a better birthing experience and a positive birth outcome. I'm able to ensure they're able to make informed decisions about their care and the care of their baby.<br><br>MORE INFO<br><br>About\nServing Marion and Alachua Counties in Florida.<br><br>Certified Full Spectrum Doula who specializes in communities with people of color, LGBTQ+ families and a focus on reproductive rights.<br><br>Impressum\nCertified Full Spectrum Doula<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://alagbarabirth.com/",
+    "address1":"",
+    "address2":"Oklawaha Ave, Florida 32179",
+    "contact":" https//www.instagram.com/alagbarabirth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Ancient Wisdom Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/06/Ancient-Wisdom-logo-1.png",
+    "about":"Nyasia, with her wealth of experience as an Obstetrical Surgical Technician and Certified Birth Doula, has been a transformative force in championing progressive maternal health policies. Notably, her instrumental role in implementing the Henry Ford Hospital's\"Skin to Skin in the Operating Room\" policy underscores her commitment to enhancing the birthing experience for mothers undergoing surgical procedures. By advocating for and actively participating in the implementation of the\"Skin to Skin in the Operating Room\" policy, Nyasia has played a pivotal role in ensuring that even in surgical settings, mothers have the immediate opportunity for skin-to-skin contact with their newborns. This policy not only aligns with best practices for maternal-infant bonding but also reflects Nyasia's dedication to humanizing the birthing process, fostering emotional connections from the very first moments of life.<br><br>In addition to her contributions at Henry Ford Hospital, Nyasia has been a key influencer in shaping the Doula Policy at the Detroit Medical Center. Her insights and advocacy have been crucial in establishing guidelines that recognize and integrate the essential role of Doulas in the childbirth journey. Her efforts have not only enhanced the birthing experience for countless families but have also set a standard for collaborative and patient-centered care within the Detroit Medical Center.<br><br>Her involvement in these policy initiatives showcases Nyasia's leadership and advocacy for evidence-based, patient-centric practices. By actively participating in the development and implementation of policies that prioritize the well-being of mothers and infants, she exemplifies a commitment to advancing maternal health practices and ensuring that every birth experience is supported, dignified, and empowering.<br><br><b>Mission</b><br> At Ancient Wisdom Birth Services, our mission is to honor and empower the transformative journey of childbirth by seamlessly blending modern knowledge with timeless wisdom. We are dedicated to providing compassionate, holistic, and personalized support to individuals and families throughout the sacred process of bringing new life into the world. Guided by ancient traditions and contemporary expertise, we strive to foster a nurturing and respectful environment that embraces the inherent wisdom of childbirth. Our commitment is to empower, educate, and uplift, ensuring that each birthing experience is met with reverence, dignity, and the profound recognition of the ancient wisdom inherent in the miracle of life.<br><br><b>Vision</b><br>Ancient Wisdom Birth Services envisions a world where every birthing person feels empowered, supported, and respected throughout their unique childbirth journey. We strive to foster a community that celebrates the beauty and strength inherent in bringing new life into the world.<br><br><b>Service Offerings</b><br>I am a Certified Birth Postpartum Doula, Certified Perinatal Educator, Certified Abortion Doula, Lactation Educator Counselor, Indigenous Breastfeeding Counselor, Certified Lactation Specialist, Certified VBAC doula, Obstercial Surgical Technician.<br><br>I offer full spectrum doula support, birth postpartum and lactation support to families in Metro Detroit.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, CCI Certified Perinatal Educator",
+    "url":"https://www.ancientbirth.com",
+    "address1":"",
+    "address2":"Detroit, MI",
+    "contact":" https//www.instagram.com/birthisancient/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9165839,30.668515 ]
+    },
+    "properties": {
+    "state":"Alabama",
+    "name":"Asase Ye Duru Health &amp; Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/04/AYD%20Simple%20Logo.png",
+    "about":"<p class='ebgaramond' style='color: white'>Mission Statement Asase Ye Duru Health and Wellness is an Indigenous knowledge systems-based educational collective dedicated to restoring and uplifting holistic, culturally-rooted models of education and care. We provide inclusive, affirming, and decolonized approaches to childbirth, perinatal, and community health education. Through our programs, we honor ancestral wisdom while integrating progressive, hands-on methodologies to empower the next generation of birth workers, educators, and community healers. Vision Statement Our vision is to cultivate a global network of students, educators, and caregivers who feel spiritually and socially called to transform the health and well-being of their communities. By embracing culturally affirming, compassionate care and education, our graduates carry forward their own unique medicine, rooted in ancestral legacy and community wisdom. Through our \"train-the-trainer\" approach, we ensure that each learner is equipped to teach, heal, and leadâ€”birthing new paradigms of care in their spheres of influence.</p><br><br><p class='ebgaramond' style='color: white'>Asase Ye Duru Health & Wellness offers a safe space for Inclusive care from a Global Perspective. Our Educators are also service providers in a wide range of Holistic, Full-Circle Modalities.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Lactation, Midwifery, Birth Worker, Safe Spot, ",
+    "url":"https://aydhealwell.org/",
+    "address1":"26 Danner Cir",
+    "address2":"Spanish Fort, AL 36527",
+    "contact":"tluna@aydhealwell.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8898087,46.5830305 ]
+    },
+    "properties": {
+    "state":"Wisconsin",
+    "name":"Ashland Birth Center WI",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Ashland-Birth-Center-logo.png",
+    "about":"Midwives Savita Jones and Dana Churness<br><br><br><br>The Ashland Birth Center is a center of excellence in natural childbirth and wellness, accepted as a safe and desirable option for women in Northern Wisconsin. We recognize the basic human need to feel empowered and respected, to achieve health and well-being. The Ashland Birth Center is committed to providing wellness services that reflect the healthcare needs of its region and provide an accessible program with facilitated access for vulnerable pregnant women.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://ashlandbirthcenter.com/",
+    "address1":"619 9th Ave W",
+    "address2":"Ashland, WI 54806",
+    "contact":"savita@ashlandbirthcenter.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3884913,33.7686106 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Atlanta Birth Center GA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Atlanta-Birth-Centre-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.AtlantaBirthCenter.org",
+    "address1":"1 Baltimore Pl NW",
+    "address2":"Atlanta, GA 30308",
+    "contact":" https//www.instagram.com/atlantabirthcenter/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4283487,33.7391033 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Atlanta Doula Collective GA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Atlanta-Doula-Collective-logo.png",
+    "about":"Labor Support Specialists | A team of Doulas leading a community grassroots movement, aimed to fill the gap in Black Maternal Healthcare &amp; Wellness.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.atlantadoulacollective.org/",
+    "address1":"1237 Ralph David Abernathy Blvd SW",
+    "address2":"Atlanta, GA 30310",
+    "contact":" https//www.instagram.com/atlantadoulacollective/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "state":"Illinois",
+    "name":"BA NIA Inc.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/02/Logo%20(1).png",
+    "about":"<p class='ebgaramond' style='color: white'>BA NIA Incorporated is a reproductive justice and health equity organization focused on serving BIPOC birthing people in Chicago and the surrounding area. We are humbled to implement 30 years of knowledge and experience nurturing the whole woman, child, and family. BA NIA offers an array of holistic health services for women of color, LGBTQ+ communities, regardless of income.</p><br><br><p class='ebgaramond' style='color: white'>BA NIA Inc. provides certified doula training recognized by the state of Illinois.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Birth Worker, Safe Spot, ",
+    "url":"https://www.baniainc.com/",
+    "address1":"",
+    "address2":"Chicago, IL",
+    "contact":"info@baniainc.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0222813,30.220042 ]
+    },
+    "properties": {
+    "state":"Louisiana",
+    "name":"Baby Catcher Birth Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-14.png",
+    "about":"Baby Catcher Birth Center is the 1st black owned birth center in Louisiana. Our mission is to provide safe evidence based decision making care to all expecting families. We serve a variety of demographics to low risk families during their pregnancy, birth, and postpartum period. We focus on education, nutrition, and having support throughout your pregnancy and birth. We honor the midwifery model of care and are a midwifery led facility. We are Certified Professional and Licensed Midwives. We are a safe space for all pregnant and breastfeeding people.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.babycatcherbirthcenter.com",
+    "address1":"510 W University Ave",
+    "address2":"Lafayette, LA 70501",
+    "contact":" www.instagram.com/babycatcherbirthcenter ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"BAE Culture",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/BAE-Culture-logo.png",
+    "about":"Breastfeeding Awareness and Empowerment (BAE) is an organization that integrates reproductive justice and trauma-informed care to provide community-based lactation support. The program model also addresses perinatal mental health; a key component of perinatal health that is often treated separately and left unaddressed by current lactation support models. Additionally, our unique design specifically centers marginalized communities and honors everyone's ability to make the best decisions to nourish their families. By raising awareness and creating spaces for breastfeeding empowerment, it is our goal to eliminate disparities and promote a lasting, multigenerational culture of health.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.baeculture.org/",
+    "address1":"",
+    "address2":"Philadelphia, PA",
+    "contact":"https://www.instagram.com/bae_hood/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.5319746,39.3819417 ]
+    },
+    "properties": {
+    "state":"New Jersey",
+    "name":"Beautiful W.O.M.B",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/Untitled-design.png",
+    "about":"<b><i>Toshi</i></b><b><i>ra</i></b><b><i> M</i></b><b><i>aldonado, M.Ed., CPE, CD (CCI)</i></b>\n<b>Executive Director</b><br><br><b>NJ Birth Justice Advocate</b>\n<b>Member~Atlantic County Commission on Women</b><b>\n</b><br><br><ul>\n \t<li><b>WE OFFER:</b></li>\n \t<li><b>Full Spectrum Doula Services </b></li>\n \t<li><b>Perinatal &amp; </b><b>Lactation Education &amp; Support </b></li>\n \t<li><b>Maternal Child Health Advocacy</b></li>\n \t<li><b>Concrete tangible goods to families in need</b></li>\n \t<li><b>Parent Support Coaching for Families with CPS Involvement.</b></li>\n \t<li><b>Community Referral support for parents with SUD/OUD, mental health challenges, &amp; Intimate Partner Violence</b></li>\n</ul><br><br><br><br><br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mostbeautifulwombinc.org/",
+    "address1":"1021 South Main Street",
+    "address2":"Pleasantville, NJ 08232",
+    "contact":"https://www.instagram.com/beautiful_womb/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3889664,33.7496678 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Bellies To Babies Foundation GA",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"Bellies to Babies is an IRS designated 501c3 non-profit organization. The Bellies to Babies program is designed to promote change in the community. We help provide services to those women who are medically underserved, uninsured or underinsured both locally and internationally. Specializing in education, support and the essentials for childbirth and parenting. Our primary goals are to provide evidence based care and resources, adoption and implementation of \"Best Practices\" and improving outcomes with community level programs. Strengthening the infrastructure within local health care organizations, ultimately creates opportunities to greater the continuity care to more mothers, babies and families.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://BelliestoBabiesFoundation.org",
+    "address1":"201 Washington St SW",
+    "address2":"Atlanta, GA 30303",
+    "contact":" https//www.facebook.com/BelliestoBabiesEvents",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4434696,42.1041615 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Benton Harbor Health Center",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://bhhealthcenter.wixsite.com/bhhealthcenter",
+    "address1":"756 Pipestone St ste 2",
+    "address2":"Benton Harbor, MI 49022",
+    "contact":"756bhhc@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2798914,30.8321978 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Bethany E. Birth Co.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/07/Untitled-design-4.png",
+    "about":"Bethany Branch-Erby is a certified home birth attendant and birth-worker, lactation specialist, and award-winning international  birth, newborn, and a proud mother of 3 dynamic humans of her own (and a dog!)<br><br>With more than a decade of experience in professional photography her work has been featured in Rangefinder, Toffee &amp; Honey,   Valdosta Times, and Feorce Magazine, featured on Tampa Birth Photographer's Top 15 in DFW, ranked 8 in 2017 in The Portrait Masters Awards and various featured blogs.<br><br>With a decade in birth, breastfeeding and herbal work, Branch-Erby has championed outstanding birth and lactation work in such countries as Italy, London, and Japan. She is a trained and certified lactation specialist, community outreach perinatal educator, community health care worker and advanced student community midwife.<br><br>As an international birth and breastfeeding consultant, Branch-Erby's experience also includes new parent transition assistance (with a historical focus on women and teens and women of color), infusing traditional practices of herbal support, and creating a culture of divine feminine energy love and acceptance while empowering and supporting to under-served populations.  Bethany's extensive training and skills have given her insight into the backend of birthwork and is overjoyed to use those skills in supporting families in bring forth their greatest miracles.   It's Bethany Branch-Erby's honor, and joy to work towards bringing safe, conscious, and ecstatic births back into the homes for families!<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.bethanyebirthco.com",
+    "address1":"206 N Patterson St",
+    "address2":"Valdosta, GA 31601",
+    "contact":" https//www.instagram.com/bethanyebirthco/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345034,41.2565369 ]
+    },
+    "properties": {
+    "state":"Nebraska",
+    "name":"Bijoux Baby Services NB",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Bijoux-Baby-Services-logo.png",
+    "about":"While bijoux may not mean much to the average person, to us, we know that babies are some of our most treasured connections and birth, a powerful experience. Bijoux Babies doulas respect the journey of birthing persons and parents and have dedicated their lives to ensuring all birth persons get to have the birth experience they desire.<br><br>Becoming a parent for the first time or even many times over can be over<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.bijouxbabies.com",
+    "address1":"",
+    "address2":"Omaha, NE",
+    "contact":" https//www.instagram.com/bijouxbabiesdoulas/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2068934,40.111405 ]
+    },
+    "properties": {
+    "state":"Illinois",
+    "name":"BIPOC for Better Birth",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/BIPOC-for-Better-Birth-logo.png",
+    "about":"Community Doula Training\nChildbirth Education\nLactation Support\nResource Sharing\nHomebirth Support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.ucimc.org/bipocforbetterbirth",
+    "address1":"202 S Broadway Ave #212",
+    "address2":"Urbana, IL 61801",
+    "contact":" https//www.instagram.com/bipocforbetterbirth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.767217,40.6851831 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Birth By Queens Birth and Wellness Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/12/Birth-By-Queens-Logo-2.png",
+    "about":"Birth By Queens Birth and Wellness Center is a developing birth center in Queens, NY working to provides holistic prenatal, birth, and postpartum services in the community. Our vision is for families to receive consistent welcoming, inclusive, and supportive care that is personalized, and tailored to families unique needs and experiences. Our current services include full spectrum doula services, lactation consultant services, education consultations, support groups, and community offerings such a community baby showers and literacy events.<br><br>Mission:<br><br>To establish a birth center in Queens, NY that serves as a model of comprehensive, safe, and evidence-based careâ€”setting a new standard of support for new and growing families.<br><br>Vision:<br><br>Our vision is a midwifery-led birth center that reflects the diversity of Queensâ€”grounded in cultural humility and accessible to all. We aim to create a comprehensive community hub where families receive the wraparound services they deserve, reducing barriers to care. Together, we are building a future where every family has access to safe, local, and empowering birth and family care options.<br><br>Core Values: C.H.A.N.G.E.<br><br>Community<br><br>We start and end with community in mind. We are a space where families, providers, and partners come together to share resources, build trust, and grow together. Rooted in participation, we show up as neighbors and partners, cultivating relationships and building each other's village so all families can thrive.<br><br>Humility<br><br>We lead with humility acknowledging that every family, provider, and community member brings valuable knowledge and experience to the table. We listen first, learn continuously, and recognize that true care grows from mutual respect. By honoring lived experiences and diverse perspectives, we stay grounded in the understanding that our work is not about leading from above, but walking beside families as partners in their care and healing.<br><br>Advocacy<br><br>We champion birth and family equity at every level - local, state, and national. We advocate for access to midwifery-led, community-rooted care and for the rights of all families, whether birthing at home, in a birth center, or in a hospital. Our advocacy extends beyond birth. We stand beside families through every outcome those who experience loss, survive near misses, face infertility, choose adoption, or foster with love. We address the social and economic factors that shape family well-being and work to ensure every family receives care, compassion, and community throughout their journey.<br><br>Nurture<br><br>Our care extends beyond the clinical. We nurture through compassion, cultural understanding, and connection Supporting the emotional, spiritual, and social needs that sustain families long after birth. In every interaction, we plant seeds of trust, healing, and growth that strengthen families and help them thrive for generations to come.<br><br>Generational Wisdom<br><br>We honor your lineage and your legacy. We listen to the stories of our elders, draw strength from our ancestors, and face the realities of raising children in today's world where families navigate complex systems, shifting cultures, and daily challenges in pursuit of thriving. By bridging the wisdom of the past with the truths of the present, we make an equitable future more accessible. Every generation belongs here to learn, to teach, to heal, and to grow together.<br><br>Excellence<br><br>We deliver care grounded in positive patient experience, equity, and evidence. Excellence means holding ourselves to rigorous, evidence-based standards while centering the lived experiences and voices of the families we serve. We strive for birth justice by confronting inequities and dismantling systemic barriers within healthcare. We believe education is the foundation of empowerment. Through training, mentorship, and community learning, we equip professionals and families alike with the knowledge to make informed, confident, and compassionate choices.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Lactation, Birth Worker, Safe Spot, ",
+    "url":"https://www.birthbyqueens.org/",
+    "address1":"177-19 120th Ave",
+    "address2":"Jamaica, NY 11434",
+    "contact":"info@birthbyqueens.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1307434,33.7040882 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Birth Connections",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/Birth-Connections-logo.png",
+    "about":"All services can be provided in-person and virtual!\n<ul>\n \t<li>Childbirth Education</li>\n \t<li>Breastfeeding Classes</li>\n \t<li>Breastfeeding Support</li>\n \t<li>Birth Doula Support</li>\n \t<li>Postpartum Doula Support</li>\n \t<li>Community-Centered Doula Support</li>\n \t<li>Birth and Postpartum Planning</li>\n \t<li>Legal Support for Adopting and Surrogate Families</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.birth-connections.com/",
+    "address1":"",
+    "address2":"Stonecrest, GA",
+    "contact":" https//www.instagram.com/birthconnections/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8987469,40.9312099 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Birth From The Earth NY",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Birth-From-The-Earth-logo.png",
+    "about":"Nubia Earth Martin\nMasters Degree in Midwifery\nBirth &amp; Postpartum Doula\nChildbirth Educator &amp; CLC\nPresident of Birth from The Earth, Inc.<br><br>&nbsp;<br><br><br><br>Birth from The Earth Inc. became a non-profit organization in 2019, after 10 years of community engagement and building, in an effort to evoke change rapidly on a grander scale. WE as a society deserve equity, quality and love in the care that we give and receive, which means we have to create it for ourselves.<br><br><br><br><br><br>\n<strong>Seeking a Home Birth?</strong><br><br>Ask about our Consultation Services to connect you with Home Birth Midwives serving your Community<br><br>We are offering Consultation Services and Complimentary Prenatal Support in addition to your Primary Prenatal Care Provider, as well as Holistic Well Wombman Care<br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery, Doula",
+    "url":"https://birthfromtheearth.org",
+    "address1":"",
+    "address2":"Yonkers, NY",
+    "contact":"https://www.instagram.com/birthfromtheearth/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43631,37.540644 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Birth in Color RVA-VA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Birth-in-Color-logo.png",
+    "about":"Birth In Color RVA is a community of practitioners engaged in the promotion and practice of culturally centered reproductive health support in and around Richmond, VA. Aligned through membership and purpose, we offer women, families, and communities the place and space to be supported and affirmed through information and choice. The network directly provides pregnancy, birth, and postpartum support to expecting parents and families, opportunities for skill development for fellow practitioners, community engagement and advocacy initiatives to address relevant needs.</i><br><br><strong>What is our Why?</strong>\nThe journey to and through pregnancy, birth, and the postpartum period is most often filled with\njoy, excitement, anxiety, and uncertainty. Birth In Color RVA was created to help women,\nfamilies, and communities manage every pregnancy-related experience! In the city of Richmond,\nVA, women of color are overwhelmingly excluded from the popular narratives of pregnancy and\nmotherhood. Motivated by this knowledge, the mission is best shared below: \"We are women, we\nare mothers, we have stories to tell and are determined to change the narrative of birthing women,\nnot only in Richmond, but around the world. We realize it starts\nwith us.\"<br><br><strong>What Can I Expect From Birth In Color RVA?</strong><br><br>\nâ— Reproductive health education for birth workers, women, families, and communities\nâ— Community: United in the mission, members of the network will learn from, support,\nand share with one another in the practice of all things birth related\nâ— Resources:\nâ— Shared classes for clients\nâ— Skill and resources shares for birth workers\nâ— Trainings (offered at a discounted rate to members of the network\nï‚· Financial Support (scholarship funds will be available to members of the network pursuing\nrelevant training and potential clients unable to secure birth services independently)\nâ— Culturally centered and competent support\nï‚· Promotion of members' services and increased exposure to individual members' clients and networks<br><br>\n<b><i>Kenda Sutton-EL, Co-Founder</i></b><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.birthincolorrva.org",
+    "address1":"701 E Grace St",
+    "address2":"Richmond, VA 23219",
+    "contact":" https//www.instagram.com/birthincolorrva/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2858121,33.8484195 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Birth In The Tradition GA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Birth-In-The-Tradition-logo.png",
+    "about":"Your Community Midwife, Serving Georgia for over 30 years<br><br>&nbsp;<br><br>See Also: Council of Midwifery Elders:<a href=\"https://perinataltaskforce.com/directory-task_force/listing/sarahn-henderson/\"> Sarahn Henderson</a>, DEM - Traditional Community Midwife<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Midwifery, Safe Spot, ",
+    "url":"https://www.birthinthetradition.com/",
+    "address1":"",
+    "address2":"Atlanta, GA 30345",
+    "contact":" https//www.instagram.com/birthinthetradition/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4865602,35.7847649 ]
     },
     "properties": {
     "state":"North Carolina",
-    "name":"Queen City Cocoa B.E.A.N.S.",
-    "image":"https://qccocoabeans.com/wp-content/uploads/2023/01/Picture1.png",
-    "about":"<p class='ebgaramond' style='color: white'>What We Offer</p><p class='ebgaramond' style='color: white'>As Lactation consultants, we provide counselling and education specifically for breastfeeding/lactating parents. Our consultants help families create plans that facilitate a healthy feeding relationship from the start. We provide guidance prenatally and in the postpartum period to support each parent’s feeding journey and address common concerns like milk production, sore nipples, engorgement, infant feeding challenges, oral and body restrictions, parent-infant separation, weight management, and more.</p>",
-    "description":"lactation breastfeeding milk",
-    "url":"https://qccocoabeans.com/",
-    "address1":"5500 Executive Center Drive, Suite 223",
-    "address2":"Charlotte, NC 28212",
-    "contact":"mailto:info@qccocoabeans.org",
-    "iconUrl":`obohemaa-small.png`
-    },
+    "name":"Birth Sisters Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Birth-Sisters-Doula-logo.png",
+    "about":"<b><i>Birth Sisters Doula Services</i></b><br><br><p class='ebgaramond' style='color: white'>Where you are SUPPORTED, EDUCATED and EMPOWERED.</p><br><br><p class='ebgaramond' style='color: white'>\nI care for pregnant women and their families by providing guidance, education and physical support to help them have an empowering birth and postpartum experience. This initial birthing experience is the beginning of a family that thrives.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Prenatal, Labor, Postpartum Services and Support",
+    "url":"http://www.birthsistersdoula.com",
+    "address1":"",
+    "address2":"Knightdale, NC 27545",
+    "contact":" https//www.instagram.com/birthsistersdoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
   },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9589566,38.8087617 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"Birth Supporters United",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/Birth-Supporters-United-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://birthersunited.com/",
+    "address1":"5927 Fisher Rd",
+    "address2":"Fort Washington, MD 20744",
+    "contact":" https//www.instagram.com/birthsupportersunited/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.34245281,30.44958598 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Birthing Brilliance Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/11/Untitled-design-1.png",
+    "about":"<div>Keshia M. Jenkins, Founder &amp; Executive Director, The Birthing Brilliance Collective</div>\n<div></div>\n<div>Keshia M. Jenkins, affectionately known as Kay, is a maternal health and early childhood advocate, educator, and community builder. As the Founder and Executive Director of The Birthing Brilliance Collective, she leads a movement dedicated to nurturing healthy beginnings and brilliant futures for families.</div>\n<div>With a focus on the powerful connection between maternal wellness and early childhood outcomes, Keshia has devoted her career to bridging the gaps that often separate healthcare, education, and community support. Under her leadership, The Birthing Brilliance Collective empowers parents, caregivers, and professionals through education, advocacy, and collaboration ,because brilliance begins with care.</div>\n<div>In addition to her professional consulting and training work, Keshia also established The Birthing Brilliance Foundation, the nonprofit arm of the Collective. The Foundation focuses on providing essential resources and education to families with children under five, while also investing in prevention programs for middle and high school students that promote reproductive health, safe choices, and life readiness.</div>\n<div>\n<div class=\"gmail_default\">Rooted in the belief that thriving mothers build thriving communities, Keshia's work continues to inspire a generation of caregivers, educators, and young leaders to embrace wellness, connection, and growth from birth and beyond.</div>\n</div><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"",
+    "url":"https://www.kaytheadvocate.net/",
+    "address1":"",
+    "address2":"Tallahassee, Fl 32304",
+    "contact":"brainbuildingconsulting@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3631244,28.6277767 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Birthing Destiny",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/07/Birthing-Destiny-logo.png",
+    "about":"<br><br>Aisha is a mother to half a dozen children and wife to one husband. Serving Central Florida, over 18 years she has been a part of the midwifery community as both a client and birth support. Owner of Birthing Destiny, Aisha is a Certified Doula, Certified Lactation Consultant, Certified Childbirth Educator, Certified Community Healthcare Worker, Pregnancy Decision Coach, and Family Crisis Advocate. Whether coaching or catching, she has provided birth support to women of all ages and stages of pregnancy.<br><br>Currently pursuing her license in Midwifery, Aisha offers her expertise at nominal rates. Her goal is to provide affordable maternal healthcare to women in her community. With a background in Early Childhood Development Education, her clients not only receive pregnancy, labor, and birth support but postpartum and child development support as well.<br><br>\nPrenatal Healthcare resources and references\nDoula/Birth Support\nChildbirth Education\nLactation Consulting\nPregnancy Crisis Coaching<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.birthingdestiny.com",
+    "address1":"",
+    "address2":"Maitland, FL",
+    "contact":"https://www.instagram.com/birthing.destiny/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.063368,42.1370565 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"BirthRoot Community Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/07/BirthRoot_InColor_square.png",
+    "about":"BirthRoot Community Doula provides culturally responsive, community-rooted care that prioritizes Black and vulnerable birthing families in Erie, PA. Rooted in reproductive justice and health equity, BirthRoot addresses persistent disparities in maternal and infant outcomes by offering compassionate, personalized support before, during, and after birth. Core Services of the BirthRoot Care Plan: â€¢Birth Doula Support: Continuous emotional, physical, and informational assistance through pregnancy, labor, and deliveryâ€”empowering families to advocate for choices and preferences. â€¢Postpartum Care: Trained Doulas and Perinatal Community Health Workers (PCHWs) provide in-person support during the early weeks after birth, including breastfeeding guidance, infant care, mental well-being check-ins, and practical household assistance. â€¢Bereavement Support: Compassion and companionship for families navigating miscarriage, stillbirth, or other losses. â€¢Lactation Counseling &amp; Infant Nutrition: Certified lactation support and peer groups designed to boost confidence and success with breastfeeding and infant nourishment. â€¢Community Resource Navigation: Helps families identify and access essential local services. BirthRoot Community partners with community organizations to streamline referrals for areas such as housing, healthcare, nutrition, and financial support, ensuring that families have a well-rounded support network. â€¢Incentivized Educational Events: Hosting engaging and interactive workshops on perinatal health, nutrition, and parenting. Participants can engage to earn meaningful incentives like car seats, diapers, and other important baby essentials to reduce access barriers to family wellness and promote participation.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Lactation, Birth Worker, Home Visitor, Safe Spot, ",
+    "url":"https://lakeeriebirthroot.org/",
+    "address1":"650 East Ave #106",
+    "address2":"Erie, PA 16503",
+    "contact":"info@lakeeriebirthroot.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9801339,43.0895636 ]
+    },
+    "properties": {
+    "state":"Wisconsin",
+    "name":"Birthworkers United",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-74.png",
+    "about":"At Birthworkers United and A Miracle Happened Wellness and Birth Services, we believe that every birthing person deserves one on one support. We also believe that using a multi-disciplinary approach model of support makes all of the difference when supporting our community members. We are Sister Organizations that strive to exemplify, \"It Takes A Village!\"<br><br>Birthworkers United and A Miracle Happened Wellness and Birth Services were both founded in Milwaukee, Wisconsin. As purpose driven, pioneer minded health and wellness organizations, we strive to exceed global standards related to optimal perinatal health outcomes and community connection building. Empathy and Excellence in our service and collaboration, are at the forefront of our value set.<br><br>We offer full spectrum Doula Birthworker support, Complementary Health and Wellness Services (Yoga, massage, Tai Chi, Reiki, NIA, Mindful Meditation, Step Aerobics, and more), Nutrition Education, Birthworker Training, Placenta Encapsulation, Infant Massage, and more! We also host our annual, \"It Takes A Village: Community Baby Shower and Resource Fair', which is a community favorite!<br><br>All of our services take place at our sacred wellness space, \"Sankofa Village: Healing and Wellness Training Center\". Sankofa Village is in the heart of the city, and is intended to be a safe space for intentional support, advocacy, and heart work! Come visit us! We would love to meet you!<br><br>\"Many Visionaries. One Purpose.\"<br><br>Our Sister Organization Website: https://nurturingmiracles.com<br><br>One of Our Core Collaborative Initiatives: https://youtu.be/BQz1ADr9OOM?feature=shared<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":" https://birthworkersunited.org",
+    "address1":"5305 West Capitol Drive #4",
+    "address2":"Milwaukee, Wisconsin 53216",
+    "contact":"vanessajohnson@nurturingmiracles.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.655651,30.3321838 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Black Birth Healer",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/Black-Birth-Healer-logo-1.png",
+    "about":"<strong>Iya Mystique Hargrove (they/she)</strong>\n<strong>Mission &amp; Vision: </strong>\nTo heal, protect, uplift, and empower marginalized communities through holistic doula and wellness services.\n<strong>About Me:</strong>\nHolistic, full spectrum birth worker providing Caribbean-Indigenous birth and postpartum practices while helping to transform perinatal, reproductive, and wellness spaces for Black, QTBIPOC, and LGBTQ+ marginalized communities.\nServices &amp; Classes:<br><br><ul>\n \t<li>Labor &amp; Birth Doula</li>\n \t<li>Full-Spectrum Doula</li>\n \t<li>Childbirth Education</li>\n \t<li>Lactation &amp; Infant Feeding Education &amp; Support</li>\n \t<li>Prenatal and Postpartum Mental Health Wellness Support</li>\n \t<li>Birth and Postpartum Planning Assistance</li>\n \t<li>Postpartum Doula and Newborn Care</li>\n \t<li>Reiki &amp; Sound Energy</li>\n</ul><br><br><strong>Experience:</strong><br><br><ul>\n \t<li>Over 10 years of mental health and wellness</li>\n \t<li>Over 5 years of full spectrum services (I.e. birth, postpartum, grief and loss, lactation education, childbirth education, newborn care)</li>\n \t<li>QTBIPOC, LGBTQ+, BIPOC community-based support</li>\n \t<li>Expert Review Board Member (Parents Magazine)</li>\n \t<li>Editorial Advisory Board Member (USLCA'S Clinical Lactation)</li>\n \t<li>Inclusivity Specialist in Prenatal and Postpartum Care, Support, &amp; Wellness</li>\n \t<li>Mental Health Wellness and Perinatal Support Trainer</li>\n</ul><br><br>\n<strong>Certifications &amp; Training:</strong>\n<ul>\n \t<li style=\"list-style-type: none;\">\n<ul>\n \t<li style=\"list-style-type: none;\">\n<ul>\n \t<li>Certified Breastfeeding Specialist â€” Lactation Education Resources (LER)</li>\n \t<li>Trained Newborn Care Specialist â€” The Cradle Company</li>\n \t<li>Trained Evidence Based BirthÂ® Instructor â€” Evidence Based BirthÂ®</li>\n \t<li>Certified Maternal-Child Health Community Health Worker - Commonsense Childbirth Institute</li>\n \t<li>Certified Full Spectrum Doula â€” Birthing Advocacy Doula Trainings</li>\n \t<li>Certified Childbirth Educator â€” Commonsense Childbirth Institute</li>\n \t<li>Certified Lactation Educator â€” Commonsense Childbirth Institute</li>\n \t<li>Certified Reiki I &amp; II Practitionerâ€” International Association of Reiki Professionals</li>\n \t<li>CPR/AED â€” National CPR Association</li>\n \t<li>Certified Nutrition and Wellness Consultant â€” American Fitness Professionals   Association</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.blackbirthhealer.com",
+    "address1":"",
+    "address2":"Jacksonville, FL",
+    "contact":" https//www.instagram.com/blackbirthhealer/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7584557,38.2526647 ]
+    },
+    "properties": {
+    "state":"Kentucky",
+    "name":"Black Birth Justice",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/11/Black-Birth-Justice-logo.png",
+    "about":"Our mission at Black Birth Justice is advocating for maternal health rights and providing superior support for postpartum persons. Our vision is to combat the Maternal and Infant mortality rate . Our focus is to protect the birthing people of the Black community with integrity, compassion and boldness. We want to create a village of women that consist of Grannies, Aunties and Little Sisters. These women will work alongside our trained postpartum doulas and serve the freshly postpartum women of Louisville, KY. It takes a village to raise a child, but it takes that same village to give life to the mother. Our focus is women of Louisville's most vulnerable communities. The care they receive will directly combat the maternal and infant morbidity and mortality.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.blackbirthjustice.org",
+    "address1":"",
+    "address2":"Louisville, KY",
+    "contact":"https://www.facebook.com/blackbirthjustice",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.681943,30.3081307 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Black Mamas ATX- TX",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Black-Mamas-ATX-logo.png",
+    "about":"<strong>Nakeenya Wilson</strong>\nExecutive Director\nBlack Mamas Community Collective<br><br>\nBlack Mamas ATX's mission is to ensure that Black women survive and thrive before, during and after childbirth. We envision a world without maternal health disparities. Our goal is to reduce and ultimately eliminate the alarming maternal mortality and morbidity rates among Black mothers in Central Texas.<br><br>We want to hear from you! Please fill out the form below and we will get back with you as soon as possible. If you need assistance from one of our Sister Doulas, please contact them directly at <a href=\"mailto:aphrica@blackmamasatx.com\">aphrica@blackmamasatx.com</a> or <a href=\"mailto:aisha@blackmamasatx.com\">aisha@blackmamasatx.com</a>.<br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://blackmamasatx.com/",
+    "address1":"",
+    "address2":"Austin, TX 78723",
+    "contact":" https//www.instagram.com/blackmamas_atx/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7343072,34.2567705 ]
+    },
+    "properties": {
+    "state":"Mississippi",
+    "name":"Blooming Moon Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/04/Blooming-Moon-Midwifery-Services-Logo.png",
+    "about":"Blooming Moon Midwifery Services in Tupelo, Mississippi offering home birth midwifery care, SneakPeek clinical, Whole woman care, Lactation counseling, Breastfeeding Basics class, Lactation Support, Yoni steaming and Hypnotherapy.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://www.tupelomidwife.com/",
+    "address1":"1800 W Main St",
+    "address2":"Tupelo, MS 38801",
+    "contact":" https//www.instagram.com/whozyourmidwife/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5413016,39.7559386 ]
+    },
+    "properties": {
+    "state":"Delaware",
+    "name":"BMIP Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-15.png",
+    "about":"Mission: Black Mothers in Power seeks to eradicate racial health disparities for Black birthing people and Black babies throughout Delaware. Vision: Black Mothers in Power envisions a state where all Black birthing people are informed about their birthing rights, have autonomy over their reproductive decisions, and are treated equitably in the healthcare system. BMIP center is a safe space for Black families. Offering space for community partners to offer services and resources to the community (Moms Agency, Wilmington Housing Authority, etc.) Providing a space for birth workers to meet with clients Offering opportunities for Doula training and continuing education credits Hosting events and workshops focused on mental, physical, and spiritual well being of pregnant and parenting individuals (Childbirth education, Meet &amp; Greet Doula Match-up, Providing support group spaces for individuals from the community Offering weekly Lactation support to breast and chestfeeding individuals.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.blackmothersinpower.org/",
+    "address1":"2215 Washington St",
+    "address2":"Wilmington, DE 19802",
+    "contact":" https//www.instagram.com/blackmothersinpower/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Bold Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Bold-Doula-photo.png",
+    "about":"<strong>Denise Bolds Advanced Certified Birth Doula Adv.CD( DONA), CLC,CBE</strong>\nBreastfeeding Classes (virtual)\nLactation Counselor - in-home, virtual, in-hospital\nLabor Support\nChildBirth Education - Evidence Based Birth\nPlacenta Encapsulation<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.BoldDoula.com",
+    "address1":"",
+    "address2":"New York, NY",
+    "contact":"https://www.instagram.com/bolddoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7737264,30.2090408 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Breastfeeding Success",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/12/Breastfeeding-Success-logo.png",
+    "about":"<br><br><b>Services Provided</b> - <a href=\"https://www.bfsuccess.com/breastfeeding-support-services/lactation-appointments/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bfsuccess.com/breastfeeding-support-services/lactation-appointments/&amp;source=gmail&amp;ust=1670436006235000&amp;usg=AOvVaw2JPT0CZI-5SMO24h-VLNz2\">outpatient lactation support by IBCLCs</a> in our clinics, by telehealth, or home visit and <a href=\"https://www.bfsuccess.com/breastfeeding-support-services/breastfeeding-and-birth-classes/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bfsuccess.com/breastfeeding-support-services/breastfeeding-and-birth-classes/&amp;source=gmail&amp;ust=1670436006235000&amp;usg=AOvVaw36d4I3sje3tee3inz-NAw6\">comprehensive perinatal education</a> including baby feeding topics, birth topics, baby care and self-care. \n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.bfsuccess.com",
+    "address1":"111 Ramble Ln #115",
+    "address2":"Austin, TX 78745",
+    "contact":" https//www.instagram.com/breastfeedingsuccess/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0863154,35.9913342 ]
+    },
+    "properties": {
+    "state":"New Mexico",
+    "name":"Breath of My Heart Birthplace",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Breath-Of-My-Heart-logo.png",
+    "about":"Breath of My Heart Birthplace is located in EspaÃ±ola NM and we aim to serve women and families in the Upper Rio Grande Valley region. Our service region extends an hour from our office location. We serve anyone who is willing to drive to us and plans to birth in Espanola as well as home birth<br><br>If you live in northern New Mexico and are interested in the services of a midwife please call us.\n<a href=\"https://breathofmyheart.org/providers/\">https://breathofmyheart.org/providers/</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://breathofmyheart.org",
+    "address1":"905 Cll Armada",
+    "address2":"Espanola, NM 87532",
+    "contact":" https//www.instagram.com/breathofmyheart.birthplace/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6680863,42.9633599 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Bump to Birth",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"Labor/Birth Doula, Postpartum Doula, Community Based Doula, Full Spectrum Doula, Loss Support, Lactation Peer Counselor, CLC, Community Health Worker, Newborn Care, Herbalism, Resource Connection<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.bumptobirthdoulaservices.com",
+    "address1":"",
+    "address2":"Grand Rapids, MI",
+    "contact":" https//www.instagram.com/bumptobirthdoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4596201,41.8131441 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Carrier Connections RI",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-7.png",
+    "about":"I am a Certified Babywearing Consultant with additional doula and lactation certification offering services and resource connections to birthing families in and around the state of Rhode Island.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://carrierconnectionsri.wixsite.com/cc-ri",
+    "address1":"",
+    "address2":"Providence, RI 02909",
+    "contact":" https//m.facebook.com/carrierconnectionsri/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.6677479,42.5063629 ]
+    },
+    "properties": {
+    "state":"Iowa",
+    "name":"Centering Joy",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-16.png",
+    "about":"Centering Joy Doula Service is dedicated to providing compassionate, evidence-based support to expecting and new parents. We are passionate about helping to create an environment for birth and postpartum that is joy-filled, empowering, and safe. Our services are tailored to meet the individual needs of each family, ensuring that they feel supported throughout their entire pregnancy and postpartum journey.<br><br>At Centering Joy, we believe that the birthing experience is one of the most beautiful and powerful moments in life and we are honored to be part of it. We are here to provide continuous physical, emotional, and informational support to you and your family.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.centeringjoydoula.com",
+    "address1":"",
+    "address2":"Dubuque, IA",
+    "contact":"https://www.facebook.com/profile.php?id=100093673891311&mibextid=LQQJ4d",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1422464,37.4137536 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Centra Health",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.centrahealth.com/services/women-and-childrens-services",
+    "address1":"",
+    "address2":"Lynchburg, VA",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3670093,28.6025476 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Central Florida Birth Network",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/10/perinataltaskforce-safe-spot-central-florida-birth-network-logo.webp",
+    "about":"Central Florida Birth Network (CFBN) is a community resource hub that works to support and uplift birth and allied health professionals who provide care that is holistic, safe, culturally responsive, and rooted in Reproductive Justice, while advocating for families' rights and equitable access to care. We provide classes, community events, and educational opportunities that connect families and professionals, strengthen local birth support systems, and promote informed, equitable care for all. Our vision is for thriving Central Florida communities where every individual and family experiences dignified, informed, and just reproductive, birth, and postpartum care.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.centralfloridabirthnetwork.org/",
+    "address1":"501 N Orlando Ave ste 313 188",
+    "address2":"Winter Park, FL 32789",
+    "contact":"info@centralfloridabirthnetwork.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.0927935,18.3842716 ]
+    },
+    "properties": {
+    "state":"San Juan",
+    "name":"Centro MAM",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-11.png",
+    "about":"We are a non-profit organization dedicated to providing education and support to families throughout the pregnancy process. Our primary goal is to foster a culture of peaceful birth, focusing on ensuring a safe birth experience that prioritizes the physical and psychological well-being of the entire family. Our organization currently offers a comprehensive range of services, including gynecological and obstetric care, midwifery care with the option of home birth, laborsitting/monitrice, birth and postpartum doula support, chiropractic care, naturopathic medicine and acupuncture, pediatric care and lactation education, psychological counseling, legal support, and prenatal yoga, and childbirth education. Through these services, we aim to empower families with the knowledge and accessible tools necessary to make informed decisions that not only align with their needs and expectations but also support a healthy process in the emotional, mental, and physical aspects of pregnancy, birth, and child-rearing. Since our establishment in 2007, we have been deeply committed to education and empowerment. We continually expand our resources and foster networks that promote proper care for pregnant women, advocate for humanized childbirth, and empower families to exercise their right to a respected birth experience. By building a community that values these principles, we strive to create awareness and promote effective management of pregnancy care while offering families the opportunity to explore various health options available to them. We remain dedicated to our mission of education and empowerment, ensuring that families are equipped with the necessary support and resources to navigate their unique pregnancy journeys. By working together, we can continue to shape a future where every family experiences a safe, respectful, and fulfilling birth experience.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mampr.com",
+    "address1":"1390 Av. San Ignacio",
+    "address2":"San Juan, 00921, Puerto Rico",
+    "contact":" https//instagram.com/centromam",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.949875,35.6575815 ]
+    },
+    "properties": {
+    "state":"New Mexico",
+    "name":"Changing Women Initiative",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/CWI-Logo.png",
+    "about":"<p style=\"text-align: left;\">Changing Woman Initiative was dreamed up by founder Nicolle L. Gonzales, Navajo Nurse-Midwife. After years of working as a midwife in her community and seeing many Native American women struggle with navigating western medical healthcare systems, she felt there was a better way that would center the needs of the women and families she cared for.</p>\nNicolle saw assimilation being practiced from birth on which has a huge impact on a Native American family's ability to bring their loved ones into this world. She wanted to reinstate a culturally supported and include ceremonial ways into births that is representative of the community they come from.<br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://cwi-health.org/",
+    "address1":"460 St Michaels Dr Suite 804",
+    "address2":"Santa Fe, NM 87505",
+    "contact":" https//www.instagram.com/changingwomaninitiative/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3272551,28.240527 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Childbirth Options",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/12/Childbirth-Options-logo.png",
+    "about":"CNM/APRN, CPM, LM, Traditional Midwife, Out-of-hospital Birth Center, Perinatal Clinic, Homebirth support, Labor/Birth Doula, Postpartum Doula, Community Based Doula, Loss Support, Lactation Peer Counselor, CLC, IBCLC, Fertility Care, Community Health Worker, LMSW, Pelvic Floor Therapy, Newborn Care, Herbalism, Resource Connection<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.childbirthoptions.net",
+    "address1":"",
+    "address2":"Wesley Chapel, FL",
+    "contact":" www.instagram.com/childbirthoptions",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6132369,35.8051739 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Choices In Wellness PLLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/04/PSS Badge.png",
+    "about":"Choices In Wellness offers comprehensive perinatal and maternal mental health support and Doula services through our partnership with Bump.Baby.Bliss.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Home Visitor, Safe Spot, ",
+    "url":"https://choicesinwellness.com/",
+    "address1":"2409 Crabtree Blvd Ste 107",
+    "address2":"Raleigh, NC 27604",
+    "contact":"Info@choicesinwellness.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"Coco Life",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/Coco-Life-logo.png",
+    "about":"We are a nonprofit 501c3, CBO; we are a collective of birth workers, educators, social workers, financial advisors working together to support moms in 3 key maternal stages: pregnancy, postpartum, and compassion (for the loss of a child or significant loved one)<br><br>\"We are promoting a Community-empowered &amp; healed model of care\"<br><br>As a non-profit 501(c)(3) it is our mission to celebrate Black motherhood and influence favorable outcomes in Black Maternal Health by promoting a community-empowered model of care through our Mombassadors. By providing, gifts, edutainment programming, events and simplifying access to necessary and trusted resources like: birth workers, mental health professionals, business strategists, and more; we're creating an ecosystem for Black moms as they navigate this journey.<br><br>Our platform is for Black moms in three key maternal stages, pregnancy, postpartum and compassion (loss of a child or significant loved one) and the communities who love them. By enlisting Mombassadors we are cultivating a community. Including these fathers, children, cousins, grandparents, dadvocates and more, we're making a positive impact in the life of our moms.<br><br>We are addressing Social Determinants of Health (SDOH) and working to reduce the race-related disparities in Black Maternal Health caused by professional neglect and systemic racism. Together we can achieve intergenerational healing from racialized trauma.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.cocolife.black/",
+    "address1":"",
+    "address2":"Philadelphia, PA",
+    "contact":"https://www.instagram.com/cocolife.black/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7038718,30.2604766 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Communities of Color United",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/08/Communities-Of-Colour-United-logo.png",
+    "about":"<p class=\"sqsrte-large\">Since the fall of 2014, a group of BIPOC-led community based organizations, each working for social justice for their own communities, has been collaborating to address the growing racial divide in the city of Austin. As the city is in a period of accelerated growth, Austin has also become the most segregated city in the United States.</p>\n<p class=\"sqsrte-large\">In May of 2015, the coalition launched a report: Austin- A \"Family-Friendly\" City: Perspectives and Solutions from Mothers in the City. The report questioned Austin's designation as a family-friendly city with research and analysis pointing to the growing inequities we are facing locally. One recommendation in the report made by the community coalition was for the city to develop and implement an Equity Assessment Tool. The purpose of the equity tool is to evaluate the impact that existing city policies and practices have on equity, and develop recommendations for addressing current race and socioeconomic-based inequities throughout the city.</p>\n<p class=\"sqsrte-large\">These community based stakeholders worked closely with various City Council members and the mayor to develop a resolution to address these inequities.  This coalition of community based organizations organized community members to pass a resolution at Austin City Hall calling for the city to develop an Equity Assessment Tool.  Resolution # 20150507-027 passed in May 2015 and designated the city government to focus on the work of advancing racial equity in Austin.</p>\n<p class=\"sqsrte-large\">We have continued to push for a racial equity lens to be applied to our city's budget year after year to fund much needed public health, housing and parks and recreation programs by divesting from the inflated policing budget.  In 2020, an unprecedented year of pandemic, job loss and racial uprisings, we mobilized to expand our work to include a Racial and Economic Solidarity Network to provide Mutual Aid in addition to our ongoing city work.  We rallied, organized, and demanded a dramatic 50% cut to the police budget and R.E.A.L. (RISE Funds, Equity Office, Austin Public Health and Low-Income Housing) Solutions to provide real safety and security for our Black and Brown communities. While the city decreased the budget by only 5%, it was the biggest decrease we have seen during our lifetimes. We continue to reimagine a world without policing and advocate for investment into racial equity and an Austin where communities of color can thrive.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.atxccu.org/about",
+    "address1":"701 Tillery St",
+    "address2":"Austin, TX 78702",
+    "contact":" https//www.instagram.com/ccu_coalition/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0839638,30.5289896 ]
+    },
+    "properties": {
+    "state":"Louisiana",
+    "name":"Community Birth Companion",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Community-Birth-Companion-logo.png",
+    "about":"Compassionate. Confidential. Committed.  CBC's mission is to decrease infant and maternal mortality rates among low income mothers through childbirth education, breastfeeding promotion, and community doulas in Opelousas, LA.<br><br>CBC is an Infant & Maternal Mortality Prevention Non-Profit Organization<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://communitybirthcompanion.org",
+    "address1":"536 S Court St",
+    "address2":"Opelousas, Louisiana 70570",
+    "contact":"cbcopelousas@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0087171,38.8311604 ]
+    },
+    "properties": {
+    "state":"District of Columbia",
+    "name":"Community of Hope - Ebony Marcelle and Adrienne Crawford",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Community-Of-Hope-logo.png",
+    "about":"\n<strong>Adrienne Crawford</strong>\nCertified Nurse Midwife | CNM, MS, MPH, IBCLC | Family Health and Birth Center<br><br><br><br>\nAdrienne received her graduate degree from Fort Valley State University and became a board certified lactation consultant (IBCLC) in 2003. She completed her nursing and midwifery education at the University of California, San Francisco and apprenticed at a birth center. She is thrilled to bring her lactation training and out-of-hospital birth experience to the Washington, DC area and to the women and families of FHBC.\n<strong>Ebony Marcelle</strong>\nDirector of Midwifery | CNM, FACNM, MS | Family Health and Birth Center<br><br>\nEbony Marcelle is the Director of Midwifery at Community of Hope that includes Family Health and Birth Center. Formerly the Administrative Chief of Midwifery Service at Medstar Washington Hospital Center she completed her nursing education at Georgetown University and Midwifery at Philadelphia University. She was recognized by Save the Children for their \"Real Award Midwife Honoree\" in 2014. In 2015 she was recognized by the American College of Nurse Midwives with the \"Young Whippersnapper\" award for midwives excelling professionally with less than 10 years' experience. She was inducted this year as Fellow in the college. Last year she completed the Duke University and Johnson &amp; Johnson Nursing Leadership Fellowship. Mrs Marcelle is known for her passion in midwifery and midwifery's role in reproductive justice. She continues to build culturally aware midwifery with driven clinical models of care specifically for underserved African American women. She is currently serves on the following boards: March for Moms, National Association for the Advancement of Black Birth, and is a collaborator with Black Mamas Matter. Most recently she was appointed to the District's Inaugural Maternal Mortality Review Committee. She resides here in Washington, DC, with her husband, Step-son, and two fur-children.<br><br>202.407.7747<br><br>\n24-Hour Nurse Advice Line<br><br>202.540.9857\n(a nurse will call you back within 30 minutes or less)<br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://www.communityofhopedc.org/healthcare/birth-services",
+    "address1":"4 Atlantic St SW",
+    "address2":"Washington, DC 20032",
+    "contact":" https//www.instagram.com/cohdc/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3054029,32.3450091 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Community Wellness of Tyler",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/03/Community-Wellness-Of-Tyler-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.communitywellnesstyler.com/",
+    "address1":"504 S Bonner Ave",
+    "address2":"Tyler, TX 75702",
+    "contact":" https//www.instagram.com/communitywellnesstyler/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4676639,41.8535518 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Connexion Intimacy Resource Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Untitled-design-21.png",
+    "about":"Connexion provides Intimacy Literacy for curious lovers, partners, parents, and friends. It is the first multicultural, multi-lingual intimacy resource center in RI that supports adult learners through compassionate sex education, childbirth education, and application. We work via instruction, resource-sharing, open-dialogue, and activities in peer-based and personalized environments, applying concepts across public health, behavioral science, sex research - utilizing a culturally flexible approach. We stand for the improvement of sexual, relational, and maternal wellness and the prevention of unwanted sexual health consequences, sexual discomfort or pain, and abuse, and medical violence.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Childbirth",
+    "url":"https://www.meetconnexion.com",
+    "address1":"",
+    "address2":"North Providence, RI",
+    "contact":"https://www.instagram.com/meetconnexion/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9514176,39.9511064 ]
+    },
+    "properties": {
+    "state":"Ohio",
+    "name":"Cultivated Care for Perinatal Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/01/Cultivated Care 2024 Logo.png",
+    "about":"The purpose of Cultivated Care for Perinatal Wellness is to cultivate programs, services, and learning opportunities for people along their perinatal journey, as well as to those who provide related services and/or supports to those along the perinatal experience. These programs, services, and learning opportunities are meant to be source of physical, emotional, and mental care.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Lactation, Birth Worker, Safe Spot, ",
+    "url":"https://www.libbybusyby.com/cultivatedcare ",
+    "address1":"790 Bulen Ave",
+    "address2":"Columbus, OH 43205",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2673057,44.9617195 ]
+    },
+    "properties": {
+    "state":"Minnesota",
+    "name":"Cultural Wellness Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Cultural-Wellness-Center-Logo.png",
+    "about":"Akhmiri Sekhr-Ra\nAdministrative Director/Health Systems Navigator/CPE\nCultural Wellness Center\n2025 Portland Avenue South\nMinneapolis, MN. 55404\n<a target=\"_blank\" rel=\"noopener\">612.721.5745</a> office / <a target=\"_blank\" rel=\"noopener\">612.724.5461</a> fax<br><br><br><br><br><br><strong>The Cultural Wellness Center </strong>is a community-initiated organization that mines and synthesizes <strong>experience-based knowledge to both explain problems and deliver solutions. </strong>The Cultural Wellness Center is in the business of positioning community knowledge at the forefront of community health and economic development ideas.<br><br>The work of the Cultural Wellness Center is about carrying out its mission <strong>\"to unleash the power of citizens to heal themselves and to build community.\" </strong>To accomplish this mission the Cultural Wellness Center produces models to solve problems that have been created by individualism, loss of culture and loss of community - which our People's Theory of Sickness and Disease states : \"makes you sick.\"<br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://www.culturalwellnesscenter.org/",
+    "address1":"2025 Portland Ave",
+    "address2":"Minneapolis, MN 55404",
+    "contact":" https//www.instagram.com/culturalwellnesscenter/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6453506,42.9529533 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Day One Doula Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Day-One-Doula-Collective-logo.png",
+    "about":"Areas served: 49503, 49504, 49506, 49507<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://mailchi.mp/89d7a1dda8e3/day-one-doula-collective?fbclid=IwAR0gN71ItybV1mPGKe3TSCVa_ZMSFHoNRi5EFUIyk2VcGUPB5G7dNgjVqg0",
+    "address1":" 935 Baxter St SE,",
+    "address2":"Grand Rapids, MI 49506",
+    "contact":" https//www.instagram.com/dayonedoulacollective/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6680863,42.9633599 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"De la Flor Midwife",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/De-La-Flor-Midwifery-logo.png",
+    "about":"\nTiffany Townsend, LM,CPM, CLC<br><br><br><br>Se habla espaÃ±ol 616.375.1727\n<p class=\"font_3\">Certified Professional Midwife, Doula,</p>\n<p class=\"font_3\">Certified Lactation Counselor, Placenta Encapsulator</p><br><br><br><br><p class=\"font_8\">Tiffany knows and understands that how we are welcomed into the world makes a huge impact on the rest of our lives. She is commited to educating families about their options and doing all that she can to remove the fears associated with the process of natural physiologic birth.</p>\n<p class=\"font_8\">She has served her community as a birth worker, support group facilitator and lactation counselor for over 5 years. She began her journey in 2014 and her passion guided her path to midwifery. Having attended over 300 births in many capacities she felt it was important to be able to offer a more holistic approach to care. Tiffany feels that it is vital to understand that pregnancy and birth are not a one size fits all approach. Everyone should be cared for according to their individual needs.</p>\n<p class=\"font_8\">Her training and education have been completed through various organizations.</p>\n<p class=\"font_8\">-Abuelita Parteras (Grandmother Midwives)</p>\n<p class=\"font_8\">- Maternidad La Luz, MEAC Accredited</p>\n<p class=\"font_8\">- Midwives College of Utah</p>\n<p class=\"font_8\">-Indigenous Communities of Mexico</p>\n<p class=\"font_8\">-DONA International.</p>\n<p class=\"font_8\">- ALPP</p>\n<p class=\"font_8\">Tiffany has also successfully completed the NRP (Neonatal Resuscitation Program). This and hands on experience allows her to use all necessary skills to ensure that home birth is a safe option for all low risk pregnancies.</p>\n<p class=\"font_8\">Tiffany also spent time in Mexico learning under traditional Partera's (Midwives), so she has a range of ancient skills as well as current medical training.</p><br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery, Doula",
+    "url":"https://www.delaflormidwifery.com/",
+    "address1":"",
+    "address2":"Grand Rapids, MI",
+    "contact":" https//www.instagram.com/delaflormidwifery/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3857442,33.7026678 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Deep Honey",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/01/Deep-Honey-logo.png",
+    "about":"Labor/Birth Doula, Community Based Doula, Loss Support, Lactation Peer Counselor, CLC, Fertility Care, Community Health Worker, Pelvic Floor Therapy, Newborn Care, Herbalism, Resource Connection, Religious Support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.shopdeephoney.com",
+    "address1":"",
+    "address2":"Atlanta, GA 30315",
+    "contact":" https//www.instagram.com/deephoney/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3876845,33.748752 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Delena The Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Delena-The-Doula-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.delenathedoula.com/",
+    "address1":"",
+    "address2":"Atlanta, GA",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8350999,32.8024682 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Delighted To Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/Delighted-to-doula-logo.png",
+    "about":"<br><br>\nDelighted to Doula Birth Services exists to eliminate maternal mortality in communities that\nhave the lowest quality of care by offering anti-bias-based, judgment-free education and\npostpartum support to mothers.<br><br>We serve mothers in Dallas County, Texas and surrounding areas.<br><br><br><br><br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://delightedtodoula.com/",
+    "address1":"",
+    "address2":"Dallas County, TX",
+    "contact":" https//www.instagram.com/delightedtodoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.530534,33.2185914 ]
+    },
+    "properties": {
+    "state":"Alabama",
+    "name":"Diamonds For Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/IMG_6985.png",
+    "about":"Diamonds for Doulas is a non-profit organization serving Tuscaloosa and West Alabama. Our mission is to illuminate, strengthen confidence and empower expecting families through their pregnancy, birth, and postpartum journey. This is done by providing free childbirth education classes, support groups for breastfeeding and postpartum. We also host the only in person infant and pregnancy loss support group in West Alabama. Diamonds for Doulas offer free Birth and Postpartum Doula services to families who are eligible by being recipients of WIC and Medicaid.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://diamonds-for-doulas.square.site/",
+    "address1":"535 Jack Warner Pkwy suite i",
+    "address2":"Tuscaloosa, Alabama 35404",
+    "contact":"diamondsfordoulas@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"Divin Geri Endijèn",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Divin-Geri-Endijen-logo.png",
+    "about":"<p class='ebgaramond' style='color: white'>The Support and Guidance You Deserve<br><br><br><br>Bringing a new life into the world is an incredible journey - unique to each birthing person and family. Divin Geri Endijèn is committed to providing support, guidance and personalized services in order to make the birthing experience as positive as possible. This isn’t just our profession, but our true passion - so you can rest assured that you’ll be in the best of hands. We offer a flexible payment plan in addition to discounts for low income clients. If you are concerned about cost please contact us for a payment plan or discount. Now offering Home Birth Midwifery Services. </p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://empressgigidoula.wixsite.com/divingeriendijn",
+    "address1":"",
+    "address2":"Pittsburgh, PA",
+    "contact":" https//www.instagram.com/divingeriendijen/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5439961,37.6307265 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Divine Blessings Holistic Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Divine-Blessings-Holistic-Birth-Services-logo.png",
+    "about":"My name is JoAnne Stevens and I am the Founder of The Divine Wellness Group.<br><br>LMT, Dual Certified Birth &amp; Postpartum Doula, Childbirth Educator, Reiki Practitioner<br><br>We offer Holistic Birth Services\n<ul>\n \t<li>Traditional Postpartum Support (Perineum Steams, Belly Binding, Herbal/Sitz Baths)</li>\n \t<li>Holistic Fertility, Birth and Bereavement Support</li>\n \t<li>Holistic Childbirth Education</li>\n \t<li>Prenatal and Postnatal Massages</li>\n \t<li>Energy Healing/Reiki</li>\n \t<li>Perinatal Nutrition Education</li>\n \t<li>Meal Prep</li>\n \t<li>State Certified Doula</li>\n \t<li>PAILAdvocate</li>\n \t<li>Maternal Mental Health Advocate</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.joanne-stevens.com",
+    "address1":"",
+    "address2":"Henrico, VA 23294",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1641644,39.769134 ]
+    },
+    "properties": {
+    "state":"Indiana",
+    "name":"Divine Sou'las",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design.png",
+    "about":"Here at Divine Sou'las our practice is preconception to end of life. I specialize with Vbacs, home births, scheduled c sections, teen pregnancy, preeclampsia prevention, herbalism, massage therapy &amp; womb healing.<br><br>Mission statement: \"Our mission is to decrease maternal death rates for all women but especially all indigenous women of color. We aim to see more balanced and aligned individuals thriving in the birth spaces &amp; communities. Once we heal ourWombs we heal our families. Healing generations means getting right with our rebirth/death as well. So we aim to provide holistic support for those in hospice or within 3 year of transition. Why? Because it's never to late to heal from any type of trauma or to simply have a friend.\"<br><br>Vision statement: \"Our vision is to transform into an agency that provides sponsored services for all brown families that desire a companion. Whether it's for their pregnancy, labor &amp; birth, 4 trimester or end of life. If they want the support, they deserve it. With this agency we will decrease the maternal death rate for POC, reclaim the strength our communities need, support low-income families with luxury care, all while making rebirths &amp; transitions easier to manage.\"<br><br>I travel, accept payment plans for those paying, 19 &amp; under is always free<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/divine-soulas/",
+    "address1":"100 N Senate Ave",
+    "address2":"Indianapolis, IN 46204",
+    "contact":" instagram.com/Divinesoulas ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6046494,39.2998339 ]
+    },
+    "properties": {
+    "state":"Delaware",
+    "name":"Do Care Doula Foundation Inc.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/Do-Care-Doula-Foundation-logo.png",
+    "about":"Do Care Doula Foundation Inc is a 501c3 located in Delaware with the mission of decreasing Black birth disparities by providing granted funded Doula support within the Black birthing community. Our community Doula program, Central Delaware Community Doula Program, trains Black Doulas and provides compensation for the births that our Doulas support. Most of our Doulas are trained via Commonsense Childbirth Institute and hold the title of Certified Perinatal Educator which is a Doula, Childbirth and Lactation Educator all in one. We host community events providing information including but not limited to SIDS Awareness, breastfeeding, childbirth education and much more. In addition we provide resources such as pack and plays, travel systems, and more to try to offset the expenses of welcoming a new baby. We have several community partnerships which help us provide amazing resources. Overall our goal is to assist Black birthing people with welcoming their new baby in any way possible.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://docaredoulafoundationinc.org",
+    "address1":"",
+    "address2":"Smyrna, DE 19977",
+    "contact":" https//www.facebook.com/DoCareDoulaFoundationInc",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8601827,33.5967815 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Doula Divine by Gabrielle",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Doula-Divine-by-Gabrielle-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.douladivinebygabrielle.com",
+    "address1":"",
+    "address2":"Covington, GA",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7042039,29.9001052 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Doula With A Purpose LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-69.png",
+    "about":"Chaka Parker, the heart behind Doula With A Purpose, embraces the role of a nurturing guide in the sacred journey of childbirth and motherhood. With her full spectrum certification as a holistic doula, she intertwines expertise and empathy to support women and families through the intricate tapestry of pregnancy and birth. In the realms of emotional and informational support, fertility, maternity reiki, vaginal steaming, breastfeeding support, advocacy, and childbirth education.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://www.doulawithapurpose.com",
+    "address1":"8440 Greenhouse Rd",
+    "address2":"Cypress, Texas 77433",
+    "contact":"doulawithapurpose@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1568554,37.7257663 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Doula'd By Janae",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Doulad-by-Janae-logo.png",
+    "about":"Studies show that using a doula will...\n<ul>\n \t<li>decrease the risk of infant mortality</li>\n \t<li>increase your success with breastfeeding</li>\n \t<li>lower your chances of having a c-section</li>\n \t<li>lower your chances of having an epidural or needing pain medication</li>\n \t<li>decrease the actual amount of time that you are in labor</li>\n</ul>\nDoula'd by Janae serves families in the S.F. Bay Area.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.douladbyjanae.com/",
+    "address1":"",
+    "address2":"San Leandro, CA",
+    "contact":" https//www.instagram.com/douladbyjanae/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3922785,41.8906553 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Doulas Conectas of RI",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/06/Untitled-design-24.png",
+    "about":"Our collective of Spanish-speaking doulas (pronounced: du-la) is committed to supporting and empowering immigrant and Spanish-speaking families throughout their pregnancy, birth, and postpartum journeys. We provide culturally competent and Wholistic care that honors the unique needs and experiences of each family we serve. Our vision is to create a community where every Spanish-speaking family has access to compassionate, skilled, and culturally responsive doula care. We aim to break down barriers and eliminate disparities in maternal and infant health outcomes for immigrant and Spanish-speaking families. We provide bilingual doula services that includes perinatal education, support groups (prenatal/postpartum), childbirth education, and basic needs, such as diapers, wipes, baby clothes, equipment (donation/exchange), and referrals within the collective for doula clients, and community resources needed. We will provide an overall sacred space for birthing people to feel seen and heard in their own language.<br><br>Currently, we do not have a location to hold regular support groups or to store any baby needs but will be identifying spaces. We meet clients where they are, at home, or local community organizations and clinics.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/doulas-conectas-of-ri/",
+    "address1":"",
+    "address2":"Central Falls, RI 02863",
+    "contact":"https://www.instagram.com/doulasconectadasri/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5955732,34.0235914 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Dr. Vernette C Kountz",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Dr.-Vernette-Holistic-Health-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.drvernette.com",
+    "address1":"",
+    "address2":"Kennesaw, GA 30144",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8101135,31.0880485 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Dulce Birthing Center & Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/Dulce-Birthing-Centre-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://dulcebirthingservices.com",
+    "address1":"5201 S Clear Creek Rd",
+    "address2":"Killeen, TX 76549",
+    "contact":" https//www.instagram.com/dulcebirth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1894384,41.1792258 ]
+    },
+    "properties": {
+    "state":"Connecticut",
+    "name":"Earth's Natural Touch: Birth Care & Beyond",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Earths-Natural-Touch-logo.png",
+    "about":"Earth's Natural Touch: Birth Care and Beyond doulas work to reduce the risk of undesirable pregnancy and birth outcomes, promote perinatal wellness for parents and children, and support breastfeeding advocacy to all families, while also working to eliminate racial and ethnic disparities in infant and maternal health within undervalued, underrepresented and historically excluded communities. We are the largest Black owned and BIPOC focused Doula Training Organization and Collective based in New England.<br><br>&nbsp;<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://earthsnaturaltouch.com/",
+    "address1":"",
+    "address2":"Bridgeport, CT",
+    "contact":"https://www.instagram.com/EarthsNaturalTouch/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3885209,33.7501275 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Earthside with Evonna Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/07/4C3400B2-B0DB-4718-BE0B-4B4759C8211C.jpeg",
+    "about":"<p class='ebgaramond' style='color: white'>We host community-based healing spaces like the Motherhood Healing Festival and our Motherhood Moon Circles, where we gather around food, storytelling, rest, ceremony, and sisterhood. But beyond the gatherings, I also offer one-on-one doula support before, during, and after birth. If you're newly pregnant, preparing for labor, or navigating postpartum for the first or fifth time, I'm here to walk alongside you. As your doula, I provide emotional, physical, and informational support. That might look like helping you build a birth plan, teaching you how to advocate for yourself, being by your side during labor, or making sure you're eating, resting, and feeling supported in those early newborn days. At Earthside, the goal isn't to\"fix\" you. It's to hold you. To make sure you're not doing this alone. To remind you that your experience matters. Whether you're exploring your options or already deep in the journey we welcome you into a circle of care that centers love, safety, and real support. Our community is based in Atlanta, Georgia but our care has extended to Spalding County (Griffin, Georgia area) and surrounding rural counties and communities.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Safe Spot, ",
+    "url":"https://www.evonnachristmon.com/",
+    "address1":"",
+    "address2":"Atlanta, GA",
+    "contact":"earthside@evonnachristmon.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4752275,28.5533511 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Easy Access Clinic",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Easy-Access-Clinic-Logo-2.png",
+    "about":"Director: Jennie Joseph<br><br>We provide <strong>Women's Health</strong> Exams, Breast Exams, Birth Control and Family Planning, Prenatal &amp; Postpartum care as well as counseling and support services. This is your body! We educate and <strong>empower</strong> you to be involved in your care and the decision making process about your health and well being.  We believe that you are the best expert about your body and health, we are simply here to support you.<br><br><strong>Regardless of ability to pay, pending insurance, citizenship or crisis we will support you \"because every woman deserves a healthy baby\"</strong>.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://easyaccessclinic.com/",
+    "address1":"6889 W Colonial Dr",
+    "address2":"Orlando, FL 32818",
+    "contact":" https//www.facebook.com/EasyAccessClinic/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3789269,28.5383832 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Embrace Your Birth Doula",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://www.embraceyourbirthdoula.com",
+    "address1":"",
+    "address2":"Orlando, FL",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3636011,42.5399771 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Erika's Doula Do",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-14.png",
+    "about":"Erika's Doula Do supports laboring, postpartum, and breastfeeding individuals by centering them and doing all that I can to reinforce their safety, autonomy, and joy in their experiences.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/erikas-doula-do/",
+    "address1":"6725 Daly Rd",
+    "address2":"West Bloomfield Township, MI 48322",
+    "contact":" https//www.instagram.com/erikadoulado1908/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8987469,40.9312099 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Esan Doula Services - Sandra Omoye Akhareyi",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Esan-Doula-Services-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://esan-doula-services.square.site/",
+    "address1":"",
+    "address2":"Yonkers, NY",
+    "contact":" https//www.instagram.com/esan_doula_llc/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7496572,39.6837226 ]
+    },
+    "properties": {
+    "state":"Delaware",
+    "name":"Evolving Spirit Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/01/Evolving-Spirit-Wellness-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.yolandatoole.com",
+    "address1":"",
+    "address2":"Newark, DE",
+    "contact":" https//www.instagram.com/yolandaevolved/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3638032,47.3148546 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"Federal Way Birth Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-37.png",
+    "about":"Federal Way Birth Center (FWBC) is the first freestanding community birth center in the state of Washington, owned and operated by a Black midwife. Families can get all of their pregnancy care, from prenatal, labor and delivery, to postpartum care at FWBC, or just come to birth with their midwife. FWBC partners with independent midwives, such as Licensed Midwives (LM) and Certified Nurse Midwives (CNM), from the community to have their clients birth at our beautiful facility. Midwives practicing at Federal Way Birth Center abide by the standards and practice guidelines of the Midwives Association of Washington State.<br><br>Federal Way Birth Center, we believe that every pregnant person, regardless of race, gender, ethnicity, or income, is entitled to a safe and healthy birthing experience and should have the knowledge and support to feel empowered to advocate for their own healthcare.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://federalwaybirthcenter.com/",
+    "address1":"2319 SW 320th",
+    "address2":"Federal Way, WA 98023",
+    "contact":"fwbirthcenter@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.17202,32.721994 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"For The Village, Inc",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/08/Untitled-design-30.png",
+    "about":"Our mission is to provide free doula services to all families in the San Diego area with an emphasis on marginalized groups - people of color, LBGTQIA, Black Immigrant, Refugee and low-income families. Advocating for these same marginalized groups in the San Diego area. We want to support EVERYONE in their birthing journeys. We also provide Full Spectrum support, Childbirth and Lactation Education, and Postpartum Parent Companion Support.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://forthevillage.org/",
+    "address1":"",
+    "address2":"San Diego, CA 92101",
+    "contact":" https//www.instagram.com/forthevillageinc/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1723667,40.735657 ]
+    },
+    "properties": {
+    "state":"New Jersey",
+    "name":"Foremothers Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/Foremothers-Birth-Services-logo.png",
+    "about":"Foremothers Birth Services brings boldness and authority to women, birthing persons, and families by empowering families to create a birth experience centered on evidence based education and consent all while making daily health-quality improvements. Our team is comprised of traditionally centered birth attendants and doulas that are committed to reestablishing the community-families that once served as pillars for our self-sustainability. We offer local nutritional resources, Lactation education and support, Holistic Perinatal education and support, local employment resources, and educational resources for self-sustainability practices. We are a representation of the communities we service, and as such offer education, support, and resources that align with  multiple languages, lifestyles, and beliefs. We believe that the birth experiences should not a generalized standard, but rather, be as unique as the individual and/or expectant family.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.foremothersbirth.com",
+    "address1":"Federal Way, WA 98023",
+    "address2":"Newark, NJ",
+    "contact":"https://www.instagram.com/midwife_nili/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6715118,37.5120704 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Gather Grounded Midwifery: The Birth Cottage",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/01/Untitled-design-1.png",
+    "about":"CPM, LM, Traditional Midwife, Out-of-hospital Birth Center, Perinatal Clinic, Community Based Doula, Full Spectrum Doula, Loss Support, Lactation Peer Counselor, Fertility Care, Newborn Care, Herbalism<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://gathergroundedmidwifery.com/",
+    "address1":"235 Wylderose Ct",
+    "address2":"Midlothian, VA 23113",
+    "contact":" https//www.instagram.com/gathergroundedmidwifery/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Gentle Spirit Home Birth Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Gentle-Spirit-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://gentlespiritbirth.com",
+    "address1":"",
+    "address2":"New York, NY",
+    "contact":" https//www.instagram.com/gentlespiritbirth/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.0759251,36.2426217 ]
+    },
+    "properties": {
+    "state":"Oklahoma",
+    "name":"Given - Women's Health Oasis and Birth Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/IMG_1760-1-1.png",
+    "about":"We serve women and families from all walks of life. We believe everyone deserves access to holistic care. Our mission is to strengthen local communities by ushering in a generation of healthy families regardless of their socioeconomic status. We seek to provide high-quality, experienced, accessible perinatal care for families. We offer in-house breastfeeding support and also have a network of providers we partner with to offer holistic perinatal services to families. These services include but are not limited to lactation care, chiropractic care, and midwifery care. Our team is a dynamic blend of professionals united by a shared dedication to holistic wellness. We have registered nurses, an advanced holistic lactation consultant who is also a body worker and herbalist, international board-certified lactation consultants, and doulas. Additionally, we have a community birth space, Given - Women's Health Oasis & Birth Center.<br><br>We accept most major insurances, including SoonerSelect (Medicaid) for lactation services.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.ifwinc.org",
+    "address1":"7503 W 60th Pl N",
+    "address2":"Tulsa, OK 74126",
+    "contact":"hello@ifwinc.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3240331,47.4664723 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"Global Midwifery Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Global-Midwifery-Services-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.globalmidwiferyservices.com/",
+    "address1":"15203 8th Ave S",
+    "address2":"Burien, Washington 98148",
+    "contact":"globalmidwifery1@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3240331,47.4664723 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"Global Perinatal Services (Easy Access Clinic)",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-35.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.globalperinatal.org/",
+    "address1":"15203 8th Ave S",
+    "address2":"Burien, Washington 98148",
+    "contact":"info@globalperinatal.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.859051,21.3105731 ]
+    },
+    "properties": {
+    "state":"Hawaii",
+    "name":"Hale Kealaula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/12/hale.jpg",
+    "about":"Hale Kealaula, is dedicated to supporting women and babies. We believe that every client has a right to safe, satisfying health care with respect for human dignity and cultural beliefs.<br><br>We provide services that respect an individuals' needs and values and does not discriminate on the basis of language, culture, age, economic status, health status, sexual orientation and identification, gender expression, marital status, ability, race or religion. Our practice is centered upon sexuality, reproduction, menopause and the understanding of healthy individuals progressing through the cycle of life.<br><br>We believe that midwifery is a holistic practice, combining and understanding of the social, emotional, cultural, spiritual, psychological and physical ramifications of the reproductive health experience. <br><br>We believe that homebirth and birth center births allows our clients to be in control of their birthing experience, create their own community into which their child will be born, and express themselves uniquely and creatively in birth.  Our goal is to make the The Midwives Model of Careâ„¢accessible for every person and family who seek it.<br><br>The principles of informed choice, continuity of care, the client-as-decision-maker, appropriate technology, integrated education and counseling, and peer support provide the basis for our philosophy of care.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Midwifery, Safe Spot, ",
+    "url":"https://www.halekealaulallc.com/",
+    "address1":"1188 Bishop St #1509",
+    "address2":"Honolulu, HI 96813",
+    "contact":"info@halekealaulallc.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Halimah Washington",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"Labor/Birth Doula, Postpartum Doula, Community Based Doula, Full Spectrum Doula, Lactation Peer Counselor, Community Health Worker, Newborn Care<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/halimah-washington/",
+    "address1":"",
+    "address2":"New York, NY",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2880157,34.7444618 ]
+    },
+    "properties": {
+    "state":"Arkansas",
+    "name":"Harmony and Love Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-16.png",
+    "about":"My name is Maryah and I am a birth doula serving the Central Arkansas area. I have a special focus on the BIPOC community and the high maternal mortality percentages plaguing the population. I'm dedicated to providing credible, evidence-based information to families on their journey to childbirth so that they are more informed of their options and autonomy and equipped to advocate in the birth space if/when it is needed.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://harmonyandlovedoula.com",
+    "address1":"",
+    "address2":"Little Rock, AR",
+    "contact":" http//instagram.com/harmonyandlovedoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2167501,37.7272727 ]
+    },
+    "properties": {
+    "state":"Illinois",
+    "name":"Hathor Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-18.png",
+    "about":"Welcome to Hathor Birth Doula Services<br><br>Chastity Mays is a Certified Birth Doula providing services from prenatal to six weeks post-partum. Chastity and her team are here to help clients create a birth plan of goals they would like during their labor and provide education.<br><br>Chastity Mays is a Certified Birth Doula with DONA International and also sits on the Black Mother Baby Committee with DONA International. She has a passion for working with families to support them with education and emotional and physical support, while pregnant, during labor and six weeks postpartum.<br><br>Chastity has experience with hospital births and home births. She especially has a heart for working with BIPOC women (Black, Indigenous, People of Color) because we experience hardships while birthing in a hospital. Chastity continues to recruit BIPOC doulas to the profession while educating others on the Black Maternity Health Crisis in the United States.<br><br>Mikayla Wade is a Full Spectrum Doula offering education, emotional, and physical support to birthing individuals and their families from prenatal- up to 8 weeks postpartum. She also offers end-of-life services and is a safe space for her clients both entering and exiting our earthly plane.<br><br>She will help you create a birth plan, identify birth preferences, and offer supportive services to the whole family.<br><br>She's provided companionship, comfort, and guidance to those facing terminal illness or death. This is non-medical holistic support.<br><br>Alexandra Gauthier became a doula because she's always been interested in birth and she wants to support birth parents during one of the most momentous experiences of their life.<br><br>She is a Birth Doula supporting parents through pregnancy, labor, and up to 6 weeks postpartum.<br><br>Hathor Doula Services also works in connection with The Little Resource Center Carbondale to provide several services for families in the Southern Illinois Region including diapers, wipes, formula, breastfeeding support groups and much more.<br><br><a href=\"https://www.littleresource.org/carbondale\"> https://www.littleresource.org/carbondale</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.hathordoulaservices.com/",
+    "address1":"",
+    "address2":"Carbondale, IL",
+    "contact":"https://www.instagram.com/hathor_doula_services/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73791409,30.36004927 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Healing Hands Community Birthing Project",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/07/logo-only-HHCBP.png",
+    "about":"<p class='ebgaramond' style='color: white'>Healing Hands Community Birthing Project (HHCBP) is a community-based birth support organization dedicated to serving BIPOC childbearing families in the Greater Austin and Houston Texas areas. <br><br><br><br>We provide birth support starting at 16 gestational weeks through 18 months postpartum that includes pregnancy education as well as birthing & postpartum doula services.<br><br> <br><br>We also work to develop an equitable and diverse maternal health workforce by training community members to become certified Doulas and Perinatal Community Health Workers.We provide Prenatal, birth and postpartum doula support, peer breastfeeding education and support, and childbirth education.<br><br>\nAdditionally, we train doulas and have developed a workforce development program through which we provide financial stipends to the students as they complete the program. We precept doulas and help them complete certification, and are working to provide maternity care workers and to establish community based maternity programs to rural and under resourced areas across Texas. </p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, doula, lactation",
+    "url":"https://healinghandscbp.org/",
+    "address1":"2900 West Anderson Lane, Suite C200-310",
+    "address2":"Austin, Texas 78757",
+    "contact":"admin@healinghandscbp.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5480881,37.5001927 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Healthy Hearts Plus 2",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/Healthy-Hearts-Plus-2-logo.png",
+    "about":"<br><br><br><br><br><br><br><br>\n<b>\"Food is Medicine\"</b><br><br><br><br><b>Nutrition support for maternal and postpartum health.  Doula Service</b><br><br><br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.healthyheartsplus2.com",
+    "address1":"705 Twinridge Ln #6",
+    "address2":"North Chesterfield, VA 23235",
+    "contact":" https//www.facebook.com/healthyheartplus",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8614076,21.315936 ]
+    },
+    "properties": {
+    "state":"Hawaii",
+    "name":"Healthy Mothers Healthy Babies Coalition of Hawaii",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/11/healthy-mothers-healthy-babies-logo.png",
+    "about":"We have a community-based midwifery model of care program called Mana Mama with CPMs, nurses and APRN to care for people during the full spectrum of maternal, perinatal and postpartum.<br><br>-Mobile midwifery clinic/van that reach people wherever they are at and provide the full range of reproductive care services\n-Community based doula program that offers sliding scale care and resources to enable equitable access to support\n-Perinatal loss support\n-mental health counseling and services staffed with lcsws who specialize\n-lactation consultants\n-diaper program\n-Mana Ai food program that provides meals for the postpartum clients<br><br><br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.hmhb-hawaii.org",
+    "address1":"245 N Kukui St #102A",
+    "address2":"Honolulu, HI 96817",
+    "contact":" https//www.instagram.com/hmhbhawaii/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6210539,39.2963369 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"Hello Baby Baltimore",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Hello-Baby-Baltimore.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.facebook.com/hellobabybaltimore/",
+    "address1":"",
+    "address2":"Baltimore, MD 21201",
+    "contact":" https//www.facebook.com/hellobabybaltimore/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3656242,28.6611089 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Highly Blessed Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/Highly-Blessed-Doula-Services-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://behervillage.com/partners/thehighlyblessedcollectiveinc",
+    "address1":"",
+    "address2":"Altamonte Springs, FL",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7607832,29.5821811 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"I Am Woman Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://iamwoman-wellness.com",
+    "address1":"",
+    "address2":"Richmond, TX",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.503344,33.6070202 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"ICreate Holistic Pregnancy Service LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Icreate-Holistic-Midwifery-logo.png",
+    "about":"ICreate Holistic Pregnancy Service  practices the Midwifery Model of Care, monitoring the physical, psychological and social wellbeing of the Mother throughout the childbearing cycle. By providing the Mother, Father and baby with individualized education, prenatal care, continuous hands on assistance during labor, birth and delivery, and postpartum care and support.<br><br>We are a Doula friendly practice<br><br>We provide and support all Families, all racial and ethnicity, religions, and different cultural beliefs. LGBTQ, Teens, VBAC, First time Mothers, Single Mothers, Partners or any birthing family experience that is your choice.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://thegoddessmidwife.com",
+    "address1":"5536 Bluegrass Dr",
+    "address2":"Atlanta, GA 30349",
+    "contact":" https//www.instagram.com/thegoddessmidwife/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1400923,29.1871986 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"IDOULOVE",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-10.png",
+    "about":"My name is Bri and I am a full spectrum doula certified through Birthing Advocacy and a Yoni steam practitioner. My own journey of holistic healing led me to my passion for birth work and healing the womb. I believe you are the expert in your own lived experience and I am excited to support Black and Indigenous women to help create sacred &amp; healthy birth experiences.<br><br>Womb healing is so important and I truly can not wait to connect with so many other wombmen on their journey to true happiness.<br><br>\"The womb is the gateway of all human life. When the womb is honored and respected, she becomes a channel of power, creativity, and beauty- and joy reigns on earth. When her voice goes un-heard, unanswered, denied, the womb becomes a vessel of disease\" - Queen Afua<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://idoulove.square.site/?mibextid=Zxz2cZ",
+    "address1":"",
+    "address2":"Ocala, FL",
+    "contact":"https://www.instagram.com/idoulove/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6783853,45.515232 ]
+    },
+    "properties": {
+    "state":"Oregon",
+    "name":"International Center for Traditional Childbearing",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/International-Center-for-Traditional-Childbearing-logo.png",
+    "about":"Shafia M. Monroe, MPH, DEM, CDT\nPresident and CEO\nThe International Center for Traditional Childbearing (ICTC)\nP.O Box 11923\nPortland, OR 97211\n(P) <a target=\"_blank\" rel=\"noopener\">503-460-9324</a>\n(F) <a target=\"_blank\" rel=\"noopener\">503-972-0365</a>\n(M) <a target=\"_blank\" rel=\"noopener\">503-927-8357</a>\n<a href=\"mailto:shafia@ictcmidwives.org\" target=\"_blank\" rel=\"noopener\">shafia@ictcmidwives.org</a>\n<a href=\"http://www.ictcmidwives.org/\" target=\"_blank\" rel=\"noopener\">www.ictcmidwives.org</a><br><br>\n\"Healthy Babies Are Everyone's Business\" Help Make the Difference. <a title=\"Become A Member Online Today!\" href=\"http://ictcmidwives.org/membership-options-page/\" target=\"_blank\" rel=\"noopener\">Become A Member Online Today!</a><br><br>Join ICTC and help diversify the midwifery and doula workforce to improve birth outcomes and empower communities of color.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery, Doula",
+    "url":"https://www.ictcmidwives.org",
+    "address1":"",
+    "address2":"Portland, OR",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.6867939,41.5292258 ]
+    },
+    "properties": {
+    "state":"Iowa",
+    "name":"Iowa Black Doula Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/12/Iowa-Black-Doula-Collective-logo.png",
+    "about":"Homebirth support, Labor/Birth Doula, Postpartum Doula, Community Based Doula, Full Spectrum Doula, Loss Support, Lactation Peer Counselor<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.iowablackdoulas.com",
+    "address1":"",
+    "address2":"Davenport, IA 52804",
+    "contact":" https//www.facebook.com/IowaBlackDoulas",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7934287,30.2307313 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"It's More Than Milk Lactation Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/04/Its-More-Than-Milk-Logo.png",
+    "about":"Sunayana Weber, IBCLC works to help all families meet their lactation goals through individual consultations, and private and small group classes. She has taken on additional trainings focusing on trauma informed care, perinatal mood disorders, anti racist practice, and gender affirming care in the perinatal space. Because of her personal experiences and the population she serves, Sunayana is working towards obtaining a Perinatal Mental Health Certification (PMH-C) through Postpartum Support International. Clients have described Sunayana as informative, empathetic, and supportive, and report that she makes them feel very confident.<br><br>It's More Than Milk strives to help all families feel informed, supported, and empowered in their lactation and infant feeding journeys.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.itsmorethanmilk.com",
+    "address1":"2222 Western Trails Blvd Unit 101",
+    "address2":"Austin, TX 78745",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3121264,31.5477066 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"IV You Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/11/image0-2.jpeg",
+    "about":"To provide compassionate, holistic support empowering new mothers to navigate thetransformative journey of parenthood with confidence and grace. We envision a future where new mothers are cared for in a way that honors their physical, emotional, and spiritual well-being. Our holistic postnatal doula services will be a cornerstone of this vision, fostering resilience, connection, and joy in the postpartum period.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://brand.site/ivyoudoula",
+    "address1":"",
+    "address2":"Albany, GA 31721",
+    "contact":"ivyoudoula@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3052838,38.7460564 ]
+    },
+    "properties": {
+    "state":"Missouri",
+    "name":"Jamaa Birth Village",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Jamaa-Birth-Village-logo.png",
+    "about":"Okunsola M. Amadou, Founder &amp; CEO<br><br>Campaign Website: <strong>https://jamaabirthvillage.org/capital-campaign/</strong><br><br>Donations:<strong> https://jamaabirthvillage.org/donate-jamaa/</strong><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.jamaabirthvillage.org",
+    "address1":"40 N Florissant Rd",
+    "address2":"Ferguson, MO 63135",
+    "contact":" instagram.com/jamaabirthvillage ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3789269,28.5383832 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Jay Almestica",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/Doulas-787-logo.png",
+    "about":"Full spectrum doula serving hispanic patients. Virtual breastfeeding counseling.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.teamworkbirthing.com/yourteam",
+    "address1":"",
+    "address2":"https://www.teamworkbirthing.com/contact-us",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1446376,34.0028786 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"JMM Health Solutions",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/JMM-Health-Solutions-Logo.png",
+    "about":"Dr. Juan Michelle Martin\nDoctor of Physical Therapy\nSpecialties: Pelvic Floor Therapist, Sex Counselor, Full Spectrum Doula<br><br>Dr. Juan Michelle Martin, PT, DPT is a licensed physical therapist of 15 years, a doula and sex counselor, and the owner of JMM Health Solutions in Duluth, GA specializing in pelvic, perinatal, and sexual health. She specializes in working with clients with pelvic pain and complex pelvic-floor related issues, especially those surrounding sexual function.<br><br>Dr. Martin has been featured in several articles, podcasts, and publications and has recently become an international best-selling author as a contributing author to the book\"Your Life Is Worth It\" where she discusses intimacy and sexual function. Additionally, she is a member of several national organizations for women's health including ISSWSH (International Society for the Study of Women's Sexual Health), ISSM (International Society of Sexual Medicine), IPPS (International Pelvic Pain Society), and IUGA (International Urogynecological Association). Dr. Martin is a member of the American Physical Therapy Association (APTA) and the APTA's Academy of Pelvic Health where she functions as a member of the obstetrics committee and participates in teaching continuing ed courses and labs.<br><br>Dr. Martin is a mother of 3 and enjoys coaching volleyball and attending sporting events when not working.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.jmmhealthsolutions.com",
+    "address1":"",
+    "address2":"Duluth, GA",
+    "contact":"https://www.instagram.com/thepelvicperspective/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.335212,37.711075 ]
+    },
+    "properties": {
+    "state":"Kansas",
+    "name":"Kansas Birth Justice Society",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/07/KBJS-Logo-1.png",
+    "about":"<strong><a href=\"https://ksbirthjusticesociety.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://ksbirthjusticesociety.org/&amp;source=gmail&amp;ust=1762477521611000&amp;usg=AOvVaw0b5HL1dg2JdBro5vxlpRZM\">Kansas Birth Justice Society (KBJS)</a></strong>  is a Black- and Brown-led, community-driven nonprofit  organization working to eliminate inequities in maternal and infant health by developing a diverse birth workforce, expanding access to care, and advancing reproductive justice through mutual aid, education, and advocacy.\"<br><br><b>Statewide Work </b><br><br><strong>Doula Training and Workforce Development</strong>\nKBJS offers training for doulas through our <strong>Catalyst Doula Curriculum</strong>, a comprehensive hybrid training designed to equip community-based birth workers with the skills to serve people across Kansas. KBJS led statewide efforts to secure Medicaid reimbursement for doula care and is now training a growing workforce of community-based doulas. We also lead the <strong>Kansas Doula Alliance</strong>, a statewide coalition supporting doula advocacy, education, and professional development. Doulas can be listed for free and people can find community based doulas on our online doula directory, <b>The Kansas Doula Directory</b>, at <a href=\"http://ksdoulas.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://ksdoulas.org&amp;source=gmail&amp;ust=1762477521611000&amp;usg=AOvVaw1hKwk-zkPfbEvFbKAl7zMi\">ksdoulas.org</a> Information on all of our work can be found at <a href=\"http://ksbirthjusticesociety.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://ksbirthjusticesociety.org&amp;source=gmail&amp;ust=1762477521611000&amp;usg=AOvVaw3xmezykU37WUTeqzHnFzPL\">ksbirthjusticesociety.org</a><br><br>KBJS operates two public-facing projects in <b><i>Wichita, Kansas:</i></b><br><br><strong>Liberation Place</strong> - A no-barrier, no-strings-attached mutual aid hub that increases access to reproductive and sexual health care and support. Liberation Place offers free contraception, emergency contraception, Narcan, and core baby needs such as diapers, formula, and baby clothes, along with menstrual and reproductive health items. It also provides referrals for every type of reproductive and sexual health service, including abortion care, and shares information on civic engagement and issues related to birth justice and health equity. Liberation Place is proudly affirming of all pregnancy decisions and upholds the right of all people to bodily autonomy â€” including the right to decide if, when, and how to give birth and parent. The space is not supported by government funding; it exists because neighbors show up for neighbors. Liberation Place is sustained entirely by community power.<br><br>Liberation Place is located at 1803 E Douglas, Wichita KS 67211. We are open M-F noon to 6pm. There are no requirements or paperwork to fill out. Members of the public can visit us anytime we're open. Find us online at <a href=\"http://liberationplaceict.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://liberationplaceict.org&amp;source=gmail&amp;ust=1762477521611000&amp;usg=AOvVaw1i5XQ131LA_uKBuRr4BhwK\">liberationplaceict.org</a><br><br><strong>The Matrescence Center</strong> - A doula-staffed wellness and community space designed to cultivate joy, recovery, and liberation. The Center supports people in the postpartum period through:\n<ul>\n \t<li>Immersive meditation rooms and a free-use art therapy room for rest and creative healing</li>\n \t<li>The Milky Way Lactation Clinic offering free lactation support and education</li>\n \t<li>A lending library with resources on pregnancy, birth, postpartum, and lactation</li>\n \t<li>Community classes, peer support circles, and workshops that are culturally responsive and trauma-informed</li>\n</ul>\nThe Matrescence Center is an inclusive, affirming environment that centers dignity, connection, and accessible care. It is located at 220 W Douglas Suite 15, Wichita KS 67202. Hours and activities vary. Find us online at <a href=\"https://linktr.ee/matrescencecenter\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/matrescencecenter&amp;source=gmail&amp;ust=1762477521611000&amp;usg=AOvVaw3U3FgC2uBccrUzcUXl07MK\">https://linktr.ee/<wbr />matrescencecenter</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.ksbirthjusticesociety.org",
+    "address1":"1540 N Broadway St #203",
+    "address2":"Wichita, KS 67214",
+    "contact":" https//www.facebook.com/kansasbirthjusticesociety",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6121893,39.2903848 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"Kathi Barber",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Kathi-Barber-logo.png",
+    "about":"<i>Kathi Barber</i>\n<i><a target=\"_blank\" rel=\"noopener\">(443) 326-4868</a></i>\n<i>Baltimore, MD</i>\n<i><a target=\"_blank\" rel=\"noopener\">(510) 473-2438</a></i>\n<i>Oakland, CA</i>\n<i>www.kathibarber.com\n</i>\n<i><a href=\"mailto:consultkathi@gmail.com\" target=\"_blank\" rel=\"noopener\">iamkathib@gmail.com</a></i><br><br><i>My mission as a Perinatal Safe Spot is to: provide culturally competent lactation support and counseling, pregnancy and birth resources; offer support to families in the LGBTQI community; and coordinate workshops and lead trainings for lactation and birth professionals.</i><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.Kathib.com",
+    "address1":"",
+    "address2":"Baltimore, MD",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.789027,33.3528264 ]
+    },
+    "properties": {
+    "state":"Arizona",
+    "name":"Kay Clinton",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-3.png",
+    "about":"Spiritual Garden Healing mission is to empower birthing parents to have a positive and fulfilling birth experience. By providing holistic health and birth support that nourishes your mind, body, and soul, we hope to help you grow as a parent and as a person. As a doula, We are committed to providing compassionate and non-judgmental support to our clients. We value honesty, transparency, and ethical behavior in all aspects of our work. We believe in empowering our clients by sharing information and promoting informed decision-making.<br><br>We recognize the importance of building a strong and supportive community around pregnancy, birth, and postpartum. We believe that families are best served by a holistic approach to health that takes into account the mind, body, and spirit. We are committed to providing culturally congruent care to diverse groups of people and preventing trauma through proactive guidance, mediation, and advocacy.<br><br>We believe that pregnancy, birth, and postpartum are normal life events that present unique opportunities for personal growth and transformation. We are dedicated to promoting wellness by providing essential support services and continuity of care to fill gaps in existing medical and social support systems.<br><br>More educational information here: <a href=\"https://www.spiritualgardenhealing.com/blog\">https://www.spiritualgardenhealing.com/blog</a><br><br>More about our Services here: <a href=\"https://www.spiritualgardenhealing.com/ourservices-1\">https://www.spiritualgardenhealing.com/ourservices-1</a><br><br>Free Ebook \"Holistic Ways To Relieve â€¨Morning Sickness\" Here: <a href=\"https://www.spiritualgardenhealing.com/holisticwaystorelievemorningsickness\">https://www.spiritualgardenhealing.com/holisticwaystorelievemorningsickness</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.spiritualgardenhealing.com",
+    "address1":"",
+    "address2":"Gilbert, AZ",
+    "contact":"https://www.instagram.com/spiritualgardenhealing/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "state":"Tennessee",
+    "name":"Kenya's Krystals",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/09/Kenyas-Krystals-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.kenyaskrystals.com/products/doula-services",
+    "address1":"",
+    "address2":"Nashville, TN",
+    "contact":" https//www.instagram.com/kenyaskrystals/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.9817213,36.0395247 ]
+    },
+    "properties": {
+    "state":"Nevada",
+    "name":"Kijiji Sisterhood",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Kijiji-Sisterhood-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.kijijisisterhood.com/",
+    "address1":"",
+    "address2":"Henderson, NV",
+    "contact":" https//www.instagram.com/kijijisisterhood/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3219816,33.9812179 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Kindred Space LA",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/Kindred-Space-LA-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.kindredspacela.com/",
+    "address1":"2610 Southwest Dr",
+    "address2":"Los Angeles, CA 90043",
+    "contact":" https//www.instagram.com/kindredspacela/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4534046,28.5577794 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Kinship PSS",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Kinship-logo.png",
+    "about":"Making a difference in maternal and infant health.\nHelping childbearing families, connection, resource, support and empowerment.<br><br>Charity and Love, Your Community Resource Center<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/kinship-pss/",
+    "address1":"",
+    "address2":"Pine Hills, FL",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6512975,42.9454147 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Labor Together",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Labor-Together-logo.png",
+    "about":"I am a black female providing doulas services. I am here to support you in your pregnancy and birth so you can have a joyous birth. I am a part of the Day One Doula Collective. You can find me on Facebook and Instagram at Labor Together.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/labor-together/",
+    "address1":"707 Delaware St SE",
+    "address2":"Grand Rapids, MI 49507",
+    "contact":"Labortogether1@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1051939,33.7123305 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Labor With Kaci",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/Labor-with-Kaci-logo-.png",
+    "about":"Student Midwife, Community Healthcare Worker, Birth And Postpartum Doula, Fertility Doula, Placenta Encapsulation Specialist, And Yoni Steam Facilitator<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.laborwithkaci.com/",
+    "address1":"",
+    "address2":"Lithonia, GA 30058",
+    "contact":" https//www.instagram.com/laborwithkaci/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8325617,36.0850137 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Lewis & Lewis, LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Untitled-design-25.png",
+    "about":"<strong>MISSION::</strong>\nTo ensure the flourishing of growing families.<br><br><strong>OFFERINGS::</strong>\nCoaching through community resource, navigation for the needs of growing families, peer to peer lactation support, parental leave coaching, Flourishing Families Program offered to county level jail systems that ensures quality care to expectant inmates.<br><br><strong>CERTIFICATIONS/QUALIFICATIONS:: </strong>\nâ€”-trained birth and postpartum doula\nâ€”-accredited La Leche League Leader\nâ€”-Certified RETAIN Parental Leave Coach<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.leiladlewis.com",
+    "address1":"610 Pembroke Rd",
+    "address2":"Greensboro, NC 27408",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7428882,29.7035861 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"LilyGrace Doula Care",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/11/instagram-profile.jpg",
+    "about":"LilyGrace Doula Care: Your Safe Spot for Culturally Competent and Compassionate Maternal Support<br><br>Mission:\nAt LilyGrace Doula Care, we are dedicated to providing tender, culturally sensitive, and family-focused care to Black and Brown birthing persons. Our mission is to create a supportive environment where mothers can feel empowered, respected, and nurtured throughout their pregnancy, birth, and postpartum journeys. We aim to bridge the gap in maternal health disparities by offering personalized care that reflects the unique needs of the community we serve.<br><br>Vision:\nOur vision is to become a trusted maternal wellness haven for Black mothers in Richmond, Texas, and beyond. We aspire to improve maternal health outcomes by offering education, resources, and care that honors the diversity of birthing experiences. Through our work, we hope to inspire positive change in how Black and Brown mothers are supported during one of the most transformative times of their lives.<br><br>Services Offered:\nBirth & Postpartum Doula Support: Personalized care that begins during pregnancy and extends into the postpartum period to ensure mothers have continuous emotional and physical support.\nChildbirth Education: Empowering mothers with knowledge on physiological birth, Spinning Babies techniques, and evidence-based practices to help them make informed decisions.\nFloral Maternal Wellness Retreats: Monthly retreats designed to promote relaxation and bonding between mother and baby, including floral design activities, reflective journaling, and guided relaxation techniques.\nLactation Support: Guidance and education for breastfeeding moms, with resources on how to obtain breast pumps through insurance and practical tips for breastfeeding success.\nBereavement Support: Compassionate care for mothers who have experienced pregnancy loss, with a focus on emotional healing and community resources.<br><br>Key Information:\nLilyGrace Doula Care believes that calming the parasympathetic nervous system can improve birth outcomes over time, which is why we focus on education, rest, and relaxation techniques. Our Floral Maternal Wellness Retreats are designed to offer a nurturing space for mothers to unwind, bond, and receive the care they deserve. We're also committed to creating resource-rich environments by connecting mothers with mental health professionals, lactation consultants, and other essential services to ensure a holistic approach to maternal health.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Lactation, Safe Spot, ",
+    "url":"https://www.lilygracedoulacare.com/",
+    "address1":"9810 South Mason Road",
+    "address2":"Richmond, Texas 77407",
+    "contact":"lilygracedoulacare@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3511585,33.4820034 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Love 'N' Touch Midwifery Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Love-N-Touch-Midwifery-Services-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.loventouch.com",
+    "address1":"1245 Grindenwald Dr",
+    "address2":"Jonesboro, GA 30238",
+    "contact":" https//www.instagram.com/loventouch/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5333912,32.0654619 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Loving Embrace Maternal Care",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2026/02/1392-scaled.jpg",
+    "about":"Welcome to Loving Embrace Maternal Care!<br><br>Tyleesha Wilson Hall is the founder of Loving Embrace Maternal Care. She is a devoted wife, mother of four, birth and postpartum doula, certified lactation counselor, and child passenger safety technician. She brings lived experience, compassion, and culturally rooted care to every family she serves.<br><br>Inspired by her own journey through motherhood, Tyleesha created Loving Embrace Maternal Care to ensure birthing people feel supported, informed, heard, and deeply cared for. She provides continuous labor support, breastfeeding guidance, and nurturing advocacy with a calm, reassuring presence.<br><br>Tyleesha is dedicated to protecting the voice of Black birthing people. She offers breastfeeding guidance, emotional care, and culturally responsive support that affirms each family's right to a respectful and empowered birth.<br><br>Her mission is to nurture families with love, dignity, and support birthing people with compassionate care from pregnancy through postpartum.<br><br>\"Heart-centered care for life's sweet beginnings.\"<br><br>Serving Columbus, Albany, Americus, GA and surrounding areas<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Lactation, Birth Worker, Safe Spot, ",
+    "url":"https://lovingembracematernalcare.com/",
+    "address1":"40 Cemetery Rd",
+    "address2":"Preston, GA 31824",
+    "contact":"lovingembracematernalcare@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4850217,31.7618778 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Luna Tierra Casa de Partos",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Logo-Black-outline.jpg",
+    "about":"Luna Tierra is a cross-border collective of midwives with the deep belief that a strong, healthy pregnancy and birth leads to a strong, healthy community. In 2016, we launched a different kind of birth center; one that brings people together from both sides of the border to build strong families with healthy outcomes. Luna Tierra provides respectful, safe and radically affirming birth and reproductive health experiences. We feel lucky to be on the border, building a resilient community â€” one family, one birth at a time.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.lunatierrabirthcenter.com",
+    "address1":"",
+    "address2":"El Paso, TX",
+    "contact":"https://www.instagram.com/lunatierrabirthcenter/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.820728,33.7427998 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Luxury Baby Concierge",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-8.png",
+    "about":"Luxury Baby Concierge is a black-owned maternity and childcare firm, aimed at addressing maternity care, and racial disparities through out the US. We specialize in working with Black and single mothers. We specialize in providing full spectrum doula services and programs, childbirth education classes, postpartum care and recovery services, as well as tailored doula programs aimed at addressing the impacts of racial and health disparities. Thanks for considering us and we will be working with you soon.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.luxurybabyconcierge.com",
+    "address1":"345 E Main St",
+    "address2":"Tustin, CA 92780",
+    "contact":" https//www.instagram.com/luxurybabyconcierge/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6942618,30.3471401 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Luz de Atabey Midwifery Project",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/08/Luz-De-Atabey-Midwifery-Project-logo.png",
+    "about":"<strong>Elena Colon</strong>\n<div>We provided care and support for Black, Indigenous and people of color with intersecting identities throughout their reproductive spectrum. We do this through strategically placed pop up midwifery clinics which provide walk in and appointment based services, as well as telehealth and home visitation. Our offerings include midwifery care, lactation support, preconception counseling, HIV/STI testing, herbal medicine, material support, and much more!</div>\n<div><span style=\"font-family: arial, sans-serif;\"> </span></div>\n<div>\n<div><br><br><span style=\"font-family: arial, sans-serif;\">We are a multilingual practice and also have interpretation services for most languages including ASL. We provide thorough preconception care and support, especially for queer and trans people of color &amp; immigrants who are growing their families. All of our services are provided at no cost or low cost, and no one is turned away.</span><br><br>Services provided: midwifery care, lactation support, preconception counseling, HIV/STI testing, herbal medicine, material support<br><br></div>\n</div><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Lactation, Midwifery, Safe Spot, ",
+    "url":"https://www.amplifyatx.org/organizations/lampatx",
+    "address1":"8401 N Interstate Hwy 35",
+    "address2":"Austin, TX 78753",
+    "contact":" https//www.instagram.com/lampatx/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2200712,33.8958492 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Lydia O. Boyd, Lactation Consultant",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/06/Untitled-design-23.png",
+    "about":"Lydia O. Boyd is a lactation consultant based in Los Angeles, CA. She provides safe and sacred support to breastfeeding families locally and beyond LA County borders. Expectant and breastfeeding families can find support and answers to their question. Ms. Lydia provides prenatal breastfeeding classes, phone and virtual consults, and support groups. For more information go to www.lydiaoboyd.com.<br><br>Most of her support is virtual or via telephone. Clinical hours are 8-5 PM PST at the MLKCH Community Lactation Clinic To schedule during clinical hours call 424-529-6755.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.lydiaoboyd.com",
+    "address1":"",
+    "address2":"Compton, CA",
+    "contact":"www.instagram.com/lydiaoboydibclc",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5804473,35.5174913 ]
+    },
+    "properties": {
+    "state":"Tennessee",
+    "name":"M*Body Options Perinatal Support Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/MBody-options-Logo.png",
+    "about":"MoniquecolÅus Garner-Weeks\nM*Body Options Perinatal Support Services, Founder<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/mbody-options-perinatal-support-services/",
+    "address1":"",
+    "address2":"Tennessee",
+    "contact":" https//www.instagram.com/mbodyoptions/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9571069,35.9530958 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"MAAME, Inc.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/maame-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://maameinc.org/",
+    "address1":"",
+    "address2":"Durham, NC 27707",
+    "contact":" https//www.instagram.com/maameinc/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1880483,25.9303946 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Magnolia Birth House",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Magnolia-Birth-House-Logo.png",
+    "about":"Tamara Taitt, MS, LMFT, LM\n<i><b>Administrator</b></i>\n<b>MAGNOLIA BIRTH HOUSE</b><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://magnoliabirthhouse.com",
+    "address1":"16821 NE 6th Ave",
+    "address2":"North Miami Beach, FL 33162",
+    "contact":" https//www.instagram.com/magnoliabirthhouse/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7688358,30.2915328 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Mama Sana Vibrant Woman",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Mama-Sana-Logo.png",
+    "about":"Our mission at Mama Sana Vibrant Woman (MSVW) is to improve pregnancy and birth outcomes for communities of color in Central Texas by providing education and support. Through our Pregnancy and Birth Circles, Postpartum groups, and Birth Companion training program we facilitate access to culturally appropriate, quality, prenatal and postnatal care for people of color, specifically low-income African-American and Latina women, in Austin/Travis County. We are working towards a just and loving world where all parents receive, attentive, quality, loving care.<br><br>Travis County continues to be characterized by stark disparities between racial groups in reproductive health as well as quality of life. The mortality rates among African-American and Latino infants are higher than the average for the state of Texas and in the U.S. as a whole. Austin is the fastest growing metropolitan area in the US with the most rapidly declining black population. As black families are priced out of Austin, the conditions worsen for those that stay affecting birthing people disproportionately.  Institutional barriers, including systemic racism, result in experiences of social isolation and negative health outcomes among African- American mothers and infants.<br><br>Through our launching of the Pregnancy and Birth Circles (PBC) Program, MSVW has developed a program that provides care to the most vulnerable in our community, while training the next generation of midwives and birth workers of color in Texas. MSVW approaches midwifery, pregnancy and birth as existing within the context of a larger family and community. We believe that the care provided by midwives and birth companions should be based upon mutual respect, open communication, autonomy and empowerment of the woman and her family; instead of providing care to women, we provide care with women. We prioritize and support midwives and birth companions of color within our programs. MSVW approaches midwifery, pregnancy and birth as existing within the context of a larger family and community. Our practice of midwifery includes cultural reflectiveness which for Black and Latinas exists within the context of basic human rights and the ancestral rites of life and birth.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://www.msvwatx.org",
+    "address1":"",
+    "address2":"Austin, TX 78703",
+    "contact":" https//www.instagram.com/mamasanavibrantwoman/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8076358,38.1940828 ]
+    },
+    "properties": {
+    "state":"Kentucky",
+    "name":"Mama to Mama",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-11.png",
+    "about":"Mama to Mama is a 501(c)(3) located in Louisville, Ky. Our goal is to create and establish support for mothers as they make the transition into parenthood. We want to provide them with cost free or heavily reduced cost Doula services during and after pregnancy. Doing this will improve the maternal and birthing outcomes in the communities that we serve. We strive to promote healthy parenting practices in an effort to create healthier and more sustainable communities. We want to provide safe spaces of support for families and continue to build our community so that they are equipped with knowledge and advocacy.<br><br>Ultimately, our program is committed to achieving healthier outcomes for Black mothers and their babies, fostering resilience within families, and contributing to a stronger, more equitable community. The undeniable need for our program's intervention is underscored by the staggering disparities that persist. With your support, we can make a tangible difference in combating the Black maternal health crisis, bringing about a brighter and healthier future for generations to come.<br><br><a href=\"https://www.mamatomama.us/about-us?wix-vod-video-id=360c2958bc9f47249184162772f16145&amp;wix-vod-comp-id=comp-l6scemib\">https://www.mamatomama.us/about-us?wix-vod-video-id=360c2958bc9f47249184162772f16145&amp;wix-vod-comp-id=comp-l6scemib </a><br><br><a href=\"https://spectrumnews1.com/ky/louisville/news/2023/03/05/doula-pilot-program?fbclid=IwAR1HF8pzkt3esIXFMowTu2Drurl3Y6aCwGOD1IEn4EX04j1CZImWoOmfobw\">https://spectrumnews1.com/ky/louisville/news/2023/03/05/doula-pilot-program?fbclid=IwAR1HF8pzkt3esIXFMowTu2Drurl3Y6aCwGOD1IEn4EX04j1CZImWoOmfobw </a><br><br><a href=\"https://spectrumnews1.com/ky/louisville/news/2022/07/05/impact-on-doulas-and-midwives-by-reversal-of-roe-v-wade-\">https://spectrumnews1.com/ky/louisville/news/2022/07/05/impact-on-doulas-and-midwives-by-reversal-of-roe-v-wade- </a><br><br><a href=\"https://www.wlky.com/article/louisville-mama-nonprofit-minority-mothers-newborns/44536183\">https://www.wlky.com/article/louisville-mama-nonprofit-minority-mothers-newborns/44536183</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mamatomama.us/",
+    "address1":"3934 Dixie Hwy 320 a",
+    "address2":"Louisville, KY 40216",
+    "contact":" https//instagram.com/mama_to_mama_?igshid=OGQ5ZDc2ODk2ZA==",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0132114,40.7843083 ]
+    },
+    "properties": {
+    "state":"New Jersey",
+    "name":"Mamas Mosaic",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/10/Untitled-design.png",
+    "about":"Mamas Mosaic Collective unites Black mothers, healthcare partners, and community advocates to create supportive spaces and resources that promote maternal wellness and close health equity gaps.<br><br>We host/cohost events, such as the Black Maternal Joy Portrait Series, Dear Mama/Dear Daddy: Guided Journaling Series, Mom Socials, Community Conversations and Black Breastfeeding Support Group. Our monthly Mamas Mosaic meetings are held on the 3rd Sunday of every month.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/mamas-mosaic/",
+    "address1":"201 57th St",
+    "address2":"West New York, NJ 07093",
+    "contact":"heymama@mamasmosiac.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6652932,42.9489076 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Martin's Village Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-34.png",
+    "about":"Martin's Village Doula Services is a place for birthing people to receive equitable care, quality birth education, and the tools to be able to advocate for their needs. Here, you can birth in confidence and culture!<br><br>Mission:<br><br>Our mission is to uplift growing families by curating a space for education, support, and community resources for all who seek it.<br><br>Vision:<br><br>We envision creating space for our community by delivering a comprehensive approach to pregnancy support services.<br><br>Values:<br><br>Advocacy<br><br>Education<br><br>Equity<br><br>Meet the Doula:<br><br>Hi, I'm Rachel Whittington, a dedicated Full Spectrum Doula and the owner/operator of Martin's Village Doula Services in Grand Rapids, MI. I'm passionate about supporting individuals and families through the transformative journey of childbirth and postpartum. With 3 years of experience and certification in Lactation and Childbirth Education, I bring a wealth of knowledge and expertise to my practice. My approach is deeply rooted in the belief that every person deserves compassionate, personalized care throughout their perinatal experience. I strive to empower my clients by providing evidence-based information and unwavering support, honoring their choices and preferences every step of the way. My services encompass a range of offerings, including prenatal education, birth support, postpartum care, and more. Beyond the services, I am committed to fostering an environment of learning, equity, and advocacy. My clients' testimonials speak to the transformative impact of my support, and I am deeply honored to be a part of their journey. If you're seeking compassionate and knowledgeable support during this sacred time, I'm excited to connect with you. Together, we can navigate this beautiful journey of pregnancy, birth, and beyond with confidence and culture.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.martinsvillage.com",
+    "address1":"121 M.L.K. Jr St SE",
+    "address2":"Grand Rapids, Michigan 49507",
+    "contact":"Martinsvillage@outlook.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.458533,30.3118215 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Mary's Womb",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/Marys-Womb-Logo.png",
+    "about":"I am an independent doula &amp; certified childbirth educator located in North Houston. I offer birth/postpartum support, both in person and virtual. Serving in person clients in the North Houston area.\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/marys-womb/",
+    "address1":"James H .Keeshan Bulding, 301 N Thompson St,",
+    "address2":"Conroe, TX 77301",
+    "contact":" https//www.instagram.com/marys_womb/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"Maternity Maven",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-9.png",
+    "about":"Maternity Maven is birth and postpartum support designed to improve maternal outcomes by providing premier consulting and direct support to birthing people. Our goal is to support mothers from 34 weeks up to 3 months postpartum to decrease adverse birth outcomes and optimize postpartum recovery.<br><br>Lovell Desir is a full-spectrum doula and midwifery student with 2 years of experience in reproductive support.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.maternity-maven.com",
+    "address1":"",
+    "address2":"Philadelphia, PA",
+    "contact":" https//www.instagram.com/lovethedoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.6320006,39.1178782 ]
+    },
+    "properties": {
+    "state":"Kansas",
+    "name":"Melanated Maternal Therapy",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/06/Untitled-design-26.png",
+    "about":"OUR MISSION AT MELANATED MATERNAL THERAPY IS TO PROVIDE CULTURALLY SENSITIVE AND TRAUMA-INFORMED MENTAL HEALTH CARE FOR BIPOC INDIVIDUALS AND FAMILIES DURING PREGNANCY AND POSTPARTUM. WE AIM TO CREATE A SAFE AND SUPPORTIVE SPACE WHERE CLIENTS CAN HEAL FROM THE EFFECTS OF RACISM, OPPRESSION, AND INTERGENERATIONAL TRAUMA. WE STRIVE TO EMPOWER CLIENTS TO RECLAIM THEIR IDENTITY, VOICE, AND AGENCY. WE SEEK TO COLLABORATE WITH OTHER PROVIDERS AND COMMUNITY PARTNERS TO ADDRESS THE SOCIAL DETERMINANTS OF HEALTH AND REDUCE DISPARITIES IN MATERNAL AND INFANT OUTCOMES. ALTHOUGH WE SPECIALIZE IN PERINATAL MENTAL HEALTH FOR BIPOC, WE WELCOME AND RESPECT CLIENTS FROM ALL RACES AND BACKGROUNDS.<br><br>Brittany is a Licensed Clinical Social Worker in Kansas and Missouri and is also certified in Perinatal Mental Health. Brittany started Melanated Maternal Therapy to bring quality, culturally sensitive, mental health services to people of color. As a Black woman and a Kansas City, KS native, Brittany understands how important community and representation is to the healing process.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.melanatedmaternaltherapy.com",
+    "address1":"850 Nebraska Ave",
+    "address2":"Kansas City, KS 66101",
+    "contact":" https//www.facebook.com/profile.php?id=100075890174332&mibextid=LQQJ4d",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.8739217,39.9717721 ]
+    },
+    "properties": {
+    "state":"New Jersey",
+    "name":"Melanin and Maternal Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/10/Melanin-Maternal-Wellness-logo.png",
+    "about":"Doula services including labor and delivery, postpartum services, and lactation support.\nSupport and resource referral source for perinatal mood disorders.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.melaninandmaternalwellness.org",
+    "address1":"3111 NJ-38 11 316",
+    "address2":"Mt Laurel Township, NJ 08054",
+    "contact":" instagram.com/melaninmaternal ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1610838,32.715738 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Melanin Milk",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Melanin-Milk-logo.png",
+    "about":"Lactation consultations in home, office/clinic and virtual, additionally, in person and virtual chest/breastfeeding support groups and classes. Supporting all families with a focus on serving marginalized communities included but not limited to Black, Brown and LGBTQIA+ families. Also provide birth worker training and mentorship.<br><br>Full spectrum doula but not currently accepting any clients.<br><br>&nbsp;<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.melaninmilksd.com/",
+    "address1":"",
+    "address2":"San Diego, CA",
+    "contact":" https//www.instagram.com/melaninmilksd/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.282212,30.44643004 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Melanin Mothers Meet (M3)",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/02/View recent photos.png",
+    "about":"<p class='ebgaramond' style='color: white'>Melanin Mothers Meet (M3) is a nonprofit organization dedicated to supporting Black mothers and families by addressing critical issues in postpartum care, breastfeeding support, and maternal wellness. Our mission is to ensure that Black moms have access to the education, resources, and community they need to navigate motherhood without unnecessary stress, depression, or being overwhelmed. Since our founding in 2016 and official nonprofit status in 2020, M3 has been a trusted resource, offering workshops, annual conferences, online sessions, and community events that prioritize Black maternal health. We provide culturally competent support for postpartum recovery, breastfeeding success, and overall well-being. If we do not directly offer a service, we connect mothers and families to the right resources. At M3, we believe that empowering Black mothers means strengthening entire families and communities. We are always eager to partner with individuals and organizations who share our commitment to ensuring that Black mothers and their babies thrive.</p><br><br><p class='ebgaramond' style='color: white'>M3 has been recognized with two proclamations by The City of Tallahassee for Black Maternal Health Week and Black Breastfeeding Week. Mama Yata is a Postpartum Empowerment Strategist that offers postpartum support plans for moms who need to find their way during postpartum. Mamas can secure their spot by registering on our website. M3 also offers a free online postpartum pop up, which is a support group for moms and healthcare professionals in maternal healthcare. Every 3rd Mondays at Noon EST.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.melaninmothersmeet.com/",
+    "address1":"",
+    "address2":"Tallahassee, FL 32314",
+    "contact":"https://www.instagram.com/melaninmothersmeet_m3?igsh=eXVmeGRrcmtxem9r&utm_source=qr",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2456045,25.9420377 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Metro Mommy Agency",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Metro-Mommy-Agency-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://www.metromommyagency.com",
+    "address1":"",
+    "address2":"Miami Gardens, FL",
+    "contact":" https//www.instagram.com/icandoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9441579,40.6781784 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Midwife in the City",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Midwife-in-the-city-photo.png",
+    "about":"Trinisha Williams\nLM, CM, MPH, LC\nMidwife in the City\nLicensed Midwife\nTrinisha Williams has been a midwife for over a decade. After receiving a Bachelor of Science in Psychology and Masters of Public Health with a concentration in Women's Health, she became a Certified Midwife. For the last 15 years She has taught Lamaze Childbirth classes and recently received a Fellow of  American Academy of Childbirth Educators. She has supported thousands of women and their families with births. Trinisha believes women and their families need to be supported with their birth care practices. She provides prenatal care, well women gynecology, infertility and stress management.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://midwifeinthecity.love",
+    "address1":"",
+    "address2":"Brooklyn, NY",
+    "contact":" https//www.instagram.com/midwifeinthecity/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2632821,45.0860765 ]
+    },
+    "properties": {
+    "state":"Minnesota",
+    "name":"MileStone Creations",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-13-1.png",
+    "about":"<br><br>\nMISSION:<br><br>I BELIEVE IN EMPOWERING FAMILIES I WORK WITH TO BE THEIR OWN ADVOCATES AND IMAGINE THE BIRTHING EXPERIENCE THEY DESERVE AND DESIRE.<br><br>VISION:  Helping individuals develop their own goals, create strategies for self-empowerment and taking concrete steps towards building fulfilling, self-determined lives for themselves and their families.<br><br>\nFull Spectrum Doula\nCertified Lactation Counselor\nChildbirth Educator\nPrenatal Yoga Instructor\nReiki Practitioner\nBelly Binding Educator\nStudent Herbalist\nHypnobirthing Trained<br><br><br><br>YouTube: Playlist: <a href=\"https://youtube.com/playlist?list=PLLqJOKhKubi3BKR53LqiGemeRbQZuu8H5&amp;si=oatIjzOsarK5SXpE\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLLqJOKhKubi3BKR53LqiGemeRbQZuu8H5%26si%3DoatIjzOsarK5SXpE&amp;source=gmail&amp;ust=1696415407233000&amp;usg=AOvVaw30OrvSvZaFr83OB1qqc2R-\">https://youtube.com/playlist?list=PLLqJOKhKubi3BKR53LqiGemeRbQZuu8H5&amp;si=oatIjzOsarK5SXpE</a><br><br><a href=\"https://youtube.com/playlist?list=PLLqJOKhKubi2UVb6_2pN-rzEG7UWfyeTd&amp;si=HpC2_4LLvbfGhFBF\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLLqJOKhKubi2UVb6_2pN-rzEG7UWfyeTd%26si%3DHpC2_4LLvbfGhFBF&amp;source=gmail&amp;ust=1696415407233000&amp;usg=AOvVaw1kga7IyEkbUCQfwLxGlHxO\">https://youtube.com/playlist?list=PLLqJOKhKubi2UVb6_2pN-rzEG7UWfyeTd&amp;si=HpC2_4LLvbfGhFBF</a><br><br>Channel:<a href=\"https://youtube.com/playlist?list=PLLqJOKhKubi1bT1SW2FCgZU-iqgDbsISV&amp;si=6ABskunYtLTncXhi\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLLqJOKhKubi1bT1SW2FCgZU-iqgDbsISV%26si%3D6ABskunYtLTncXhi&amp;source=gmail&amp;ust=1696415407233000&amp;usg=AOvVaw1yEbXawhAv9EHL4t_ZOgLB\">https://youtube.com/playlist?list=PLLqJOKhKubi1bT1SW2FCgZU-iqgDbsISV&amp;si=6ABskunYtLTncXhi</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.milestonecreations.org",
+    "address1":"",
+    "address2":"Fridley, MN",
+    "contact":" https//www.instagram.com/milestonecreationsllc/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6212498,45.71942 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"Milk and Marigold",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/06/final_logo_with_background_under_1000kb_v2.png",
+    "about":"Milk &amp; Marigold is a BIPOC-centered, queer-affirming wellness practice offering full-spectrum doula support, ancestral herbal remedies, and community-rooted care. Founded by Syah, a trained birth and postpartum doula, Milk &amp; Marigold serves families with tenderness, advocacy, and a deep respect for the sacred nature of birth, grief, and transformation. Through personalized supportâ€”including prenatal planning, labor and postpartum care, bereavement and abortion support, placenta encapsulation, and herbal body careâ€”Milk &amp; Marigold uplifts the wisdom of the womb while honoring each client's unique story. All offerings are trauma-informed, inclusive, and culturally grounded, with a focus on nourishing BIPOC, queer, and system-impacted families. ðŸŒ¿ Services include: Birth &amp; Postpartum Doula Support (in-home, virtual, and birth center/hospital) Lactation &amp; Infant Feeding Guidance Placenta Encapsulation (pills, prints, tinctures, salves) Herbal Wellness Products (yoni steams, teas, oils, and more) Community Workshops &amp; Support Circles Whether supporting first-time parents, healing after loss, or preparing the body for fertility, Milk &amp; Marigold holds space with gentleness, honor, and ancestral care.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Lactation, Safe Spot, ",
+    "url":"https://perinataltaskforce.com/listing/milk-marigold/",
+    "address1":"",
+    "address2":"Vancouver, WA 98686",
+    "contact":" https//www.instagram.com/milk_and_marigold_doula?igsh=aGo4eDl2NjV1MHJu&utm_source=qr",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6790473,30.4661178 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Milk Diva",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Milk-Diva-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.MilkDiva.com",
+    "address1":"3116 Lions Tail St",
+    "address2":"Austin, TX 78728",
+    "contact":" https//www.instagram.com/milk_diva/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1837693,42.3396465 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Milk Like Mine",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Untitled-design-19.png",
+    "about":"Milk Like Mine is a community based, nonprofit, birthing and lactation services center. We are a disparity focused organization, however, it is our mission to provide a positive birthing experience without a financial barrier to all in our community. We provide free prenatal education, birth and postpartum doula services, lactation support, and support groups for fathers and postpartum mothers. Find more about our events and programs on Facebook and Instagram @milklikemine.<br><br>Milk Like Mine is a Shades of Blue Project ambassador.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Lactation",
+    "url":"https://www.milklikemine.com",
+    "address1":"223 E Roosevelt Ave",
+    "address2":"Battle Creek, MI 49037",
+    "contact":" https//www.instagram.com/milklikemine/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9301467,35.2787381 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"MINE-R-T Doulas",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-4.png",
+    "about":"MINE-R-T Doula Company believes in revolutionizing birth work and birthing experiences through advocacy, access, and education. With a reputation for professional excellence, endless passion, and an unapologetic commitment to improving the safety of perinatal health, we have supported hundreds of families through pregnancy and childbirth in the greater Charlotte area. MINE-R-T Doula Company is Charlotte's first black-owned doula agency. We train doulas, specifically doulas-of-color, on how to provide culturally competent care while also providing mentoring and consulting services throughout the country. MINE-R-T Doula Company's commitment to social justice and inclusive birthing experiences is reflected in their specialization in multicultural birth support, plus-size pregnancy, VBAC, multiples, and high-risk pregnancies. Information about childbirth education, birth support, lactation services, placenta services and postpartum support can be found at CharlotteDoulaCo.com<br><br>Information about doula training is available at TrainWithKira.com<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.CharlotteDoulaCo.com",
+    "address1":"7400 Old Mt Holly Rd",
+    "address2":"Paw Creek, NC 28130",
+    "contact":" instagram.com/charlottedoula",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7053085,42.9133602 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Moore 2 Love",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/11/Moore2Love-logo-2.png",
+    "about":"Moore 2 Love Doula Services provides non-judgmental, care, support, and education during pregnancy, birth,  and postpartum.  Our mission is to ensure clients have a safe and informed birthing experience, so they feel empowered and confident.<br><br>Moore 2 Love was created by Lyanna Moore to serve the West Michigan area. She is a certified doula from Commonsense Childbirth Institute, a certified Lactation Specialist from LEC, and mom of three. She saw a need in her community and wants to be a part of the solution. Lyanna believes everyone deserves to have a positive birthing experience no matter their race, socioeconomic status, gender identity, or physical ability.<br><br>\nWe offer three service packages starting at $1,000 up to $1,500.  They include prenatal visits, labor support, postpartum visits, photography, lactation counseling, and a special gift. I offer payment plans and accept Michigan Medicaid<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.moore2lovedoulaservices.com",
+    "address1":"",
+    "address2":"Wyoming, MI",
+    "contact":"https://www.instagram.com/moore2love_doulaservices",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3824374,42.4072107 ]
+    },
+    "properties": {
+    "state":"Massachusetts",
+    "name":"Mother Is Supreme",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Nneka-Hall-Logo.png",
+    "about":"Since our foundation in 2013, QUILT has fought every day to help families who have suffered pregnancy and infant loss.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.annaya.org/about-us",
+    "address1":"",
+    "address2":"Massachusetts",
+    "contact":" https//www.facebook.com/QUILT2014/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1128641,28.0186323 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Motherland Birthing and Wellness LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-5.png",
+    "about":"Our mission at Motherland Birthing and Wellness is to provide safe and accessible Midwifery care to our community.<br><br>We believe that everyone deserves a Midwife! We Envision a space where families feel heard, empowered, and informed. Our vision at Motherland Birthing and Wellness is to educate future Midwives and provide equitable care to all.<br><br>Founded in 2023 by Certified Nurse Midwife, Triana Boggs, Motherland Birthing and Wellness LLC was created to increase access to culturally competent, safe, evidenced-based Midwifery care in the community setting. Motherland Birthing and Wellness services Hillsborough and Polk Counties in Florida and offers homebirth, prenatal and postpartum care for clients who are planning a hospital birth, childbirth education, lactation support, and annual wellness care including contraceptive counseling and prescriptions. <br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.motherlandbirthandwellness.com/",
+    "address1":"",
+    "address2":"Plant City, FL",
+    "contact":"https://instagram.com/motherlandbirthingandwellness?utm_source=qr&igshid=OGIxMTE0OTdkZA==",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Mpowered Souls",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/Untitled-design-5.png",
+    "about":"Mel Graham\nFull Spectrum Doula/Birthworker, with an emphasis on Postpartum, Abortion, Fertility, and Grief/Loss support. Support for our BIPOC LGBTIQ+ families is always centered and welcomed.\nProviding these services in person in the Charlotte, NC Area as well as virtually.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mpoweredsouls.net",
+    "address1":"",
+    "address2":"Charlotte, NC",
+    "contact":" instagram.com/mpowerdsouls ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.4179324,36.778261 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Mrs. Dancing Moon",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/07/Mrs-Dancing-Moon-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mrsdancingmoon.com",
+    "address1":"",
+    "address2":"California",
+    "contact":" https//www.instagram.com/mrsdancingmoon/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8164585,30.5054168 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"My Pure Delivery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/01/Untitled-design-29.png",
+    "about":"We are here to empower, educate, and support growing families in feeding their babies. Prenatal services include classes on newborn care, lactation, and infant safety. Postpartum services include outpatient support from IBCLCs throughout the lactation journey, and weekly support groups held both virtually and in-person.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://mypuredelivery.com",
+    "address1":"301 Brushy Creek Rd Ste 106",
+    "address2":"Cedar Park, TX 78613",
+    "contact":" instagram.com/mypuredelivery ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5439961,37.6307265 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Natural Queen Essentials",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/11/Natural-Queen-Essentials-logo.png",
+    "about":"Homebirth support, Labor/Birth Doula, Postpartum Doula, Community Based Doula, Full Spectrum Doula, Loss Support, Fertility Care, Herbalism<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://linktr.ee/NaturalQueenEssentials",
+    "address1":"",
+    "address2":"Henrico, VA 23294",
+    "contact":" https//www.instagram.com/naturalqueenessentials/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0489801,35.1495343 ]
+    },
+    "properties": {
+    "state":"Tennessee",
+    "name":"Naturally Nurtured Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/12/Untitled-design-27.png",
+    "about":"Mission: To empower and support families in Memphis, TN and surrounding areas through compassionate, holistic birth and postpartum care, fostering informed choices and confident parenthood.<br><br>Vision: To create a community where all families feel respected, empowered, and nurtured during their birthing journey and beyond.<br><br>Services<br><br>Doula Support:\n<ul>\n \t<li>Birthing Guidance: Personalized one-on-one support throughout pregnancy, labor, and birth, providing physical, emotional, and informational guidance.</li>\n \t<li>Postpartum Support: Practical and emotional support during the early weeks of parenthood, assisting with breastfeeding, newborn care, and emotional adjustment.</li>\n \t<li>Placenta Encapsulation: Transforming the placenta into capsules for potential benefits such as postpartum healing and mood regulation.</li>\n</ul>\nPrenatal Education: Workshops and classes covering various topics like natural birthing, breastfeeding, newborn care, and preparing for parenthood.<br><br>Holistic Wellness:\n<ul>\n \t<li>Prenatal Yoga: Gentle yoga classes specifically designed for pregnant women to promote physical and mental well-being.</li>\n \t<li>Group Healing Care: Group sessions offering emotional support and stress reduction through mindfulness, meditation, and other holistic practices.</li>\n \t<li>Lactation Support and Counseling: Personalized guidance and support for breastfeeding mothers, addressing challenges and fostering successful breastfeeding relationships.</li>\n</ul>\nAdditional Services:\n<ul>\n \t<li>Birth pool rental</li>\n \t<li>Belly binding</li>\n \t<li>Early gender testing</li>\n \t<li>One-on-one childbirth education</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.naturallynurturedbirthservices.com",
+    "address1":"",
+    "address2":"Memphis, TN",
+    "contact":"Www.instagram.com/naturallynurturedbirth",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.7685722,32.2985103 ]
+    },
+    "properties": {
+    "state":"New Mexico",
+    "name":"New Mexico Doula Association",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/NMDA_Offical_Logo_Vertical_color-1.jpg",
+    "about":"\"The New Mexico Doula Association is a birth and reproductive-justice focused organization led by community activists, Black, Indigenous, and People of Color (BIPOC) who represent our diverse statewide communities.<br><br>Our mission is to continue the legacy of community-based doula services while advocating for systemic change in healthcare to ensure equitable access and outcomes for all. We do this through direct services, advocacy, and education.<br><br>Our Vision\nWe believe that everyone has the right to affordable, obtainable, gender-affirming, and culturally-humble support for the full-spectrum of reproductive experiences including pregnancy, birth, postpartum, abortion, and loss. <br><br>Statewide Doula Directory - Updated regularly\nhttps://nmdoula.org/nm-doula-directory/<br><br>What is a Doula?\nhttps://nmdoula.org/what-is-a-doula/<br><br>Donation Page:\nhttps://nmdoula.networkforgood.com/projects/198152-nmda-doula-services-donation<br><br>LinkedIn Page:\nhttps://www.linkedin.com/company/nmdoula/\"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://nmdoula.org/",
+    "address1":"715 E Idaho Ave bldg 3 suite c",
+    "address2":"Las Cruces, NM 88001",
+    "contact":"info@nmdoula.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8630635,40.8657317 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Not On My Watch",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/11/Not-On-My-Watch-logo.png",
+    "about":"<p class='ebgaramond' style='color: white'>Not On My Watch, Inc. (NOMW) is a 501c3 nonprofit organization.  Our services are designed to support expectant parents and families on their journey to having a safe, informed, and enjoyable birthing experience.</p>\n<p class='ebgaramond' style='color: white'>NOMW is community focused, and heart driven.  We are more than a community organization, when you walk through our doors you become part of the family.  You will have access to our support groups, professionals in the areas of mental health, nutrition, financial management, Doula, Certified Community Educators, healthy relationship workshops, birthing classes, spa days, baby showers, and a wide range of referrals.</p>\n<p class='ebgaramond' style='color: white'>Not On My Watch Teen B.L.A.S.T. (Basic Life and Safety Training) is an interactive and real-life training for teen expectant and new parents.  Our BLAST program provides what to expect when you're expecting training and access to simulator electronic baby dolls.  We delve into parenting issues such as stages of development, health and safety, costs of raising a child, education, play and other important topics relating to infants and toddlers.  Our desire is to assist young parents as they enter young parenthood.</p>\n<p class='ebgaramond' style='color: white'>We look forward to having you join our ever-growing family.</p>\n&nbsp;<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.NOMWi.org",
+    "address1":"811 Allerton Ave",
+    "address2":"Bronx, NY 10467",
+    "contact":"pamela@nomwi.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8473582,30.184917 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Nourishing New Families",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Nourishing-New-Families-logo.png",
+    "about":"Areas served: 78660 78613 78641 78666 78640<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.nourishingnewfamilies.org",
+    "address1":"9901 Brodie Ln #160",
+    "address2":"Austin, TX 78748",
+    "contact":" https//www.facebook.com/NourishingNewFamilies",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.1026872,29.1989652 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Nurtured Moons Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-66.png",
+    "about":"My name is Shatara and I am the owner of Nurtured Moons Wellness. Our mission is to provide holistic wellness and support through the various phases of womanhood with a focus on closing the Black Maternal Health disparity gap. I am a Florida certified Community Health Worker, a certified Holistic Health Coach, Self-Care Coach, Fertility Specialist, and Full Spectrum Doula and Herbalist. I believe quality care and support is a birthright and should be accessible to all and not deemed a luxury granted based on affordability. Especially as it relates to perinatal care and fertility. From moonrise (puberty) to moonset (menopause), each phase requires education, and support to successfully transition. We are here to help; offering reproductive system education,1 on 1 coaching, hormonal imbalance coaching, fertility coaching, prenatal, birth, and postpartum doula services.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://www.nurturedmoons.com",
+    "address1":"1111 NE 25th Ave unit 403",
+    "address2":"Ocala, Florida 34470",
+    "contact":"Nurturedmoons@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1237693,33.501551 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Nutritious Motherhood",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/01/NM-logo.jpg",
+    "about":"Ameenah Francois is a dedicated child development specialist and certified lactation professional with over 20 years of experience in case management and resource navigation. Passionate about empowering families, Ameenah specializes in guiding parents through the prenatal and postnatal journey, offering expert support in health and nutrition, infant development, breastfeeding, and access to essential resources. With a compassionate approach and deep expertise, Ameenah is committed to fostering healthy starts for children and confident beginnings for parents.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://linktr.ee/nutritiousmotherhood",
+    "address1":"",
+    "address2":"Temecula, CA",
+    "contact":"https://www.instagram.com/nutritiousmotherhood/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3033955,27.9332502 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Nzuri Birth Village Inc.",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-6.png",
+    "about":"Nzuri Birth Village (pronounced: n-zoo-ree) is a nonprofit organization serving all of Hillsborough County. Our village welcomes expectant families of color, where they can feel safe and empowered. We are helping to improve the health in our community by educating, nurturing, embracing and inspiring every family. Our mission is to decrease maternal and infant mortality rates by providing advice, education, inspiration, and support to expectant parents in urban communities helping them to see their vision for a happy healthy journey into parenthood. We provide Labor Support, Postpartum, Breastfeeding, Baby Infant Toddler Sign Language, Childbirth Education and Nutrition classes, Loss Support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.nzuribirthvillage.org",
+    "address1":"1315 Oakfield Dr #560",
+    "address2":"Brandon, FL 33511",
+    "contact":" www.facebook.com/NzuriBirthVillage",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2711639,37.8043514 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Oakland Better Birth Foundation",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Oakland-better-birth-foundation-logo-.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.niaoaklandbetterbirthfoundation.com/",
+    "address1":"",
+    "address2":"Oakland, CA",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6337896,33.8138767 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Orí  Birth and Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/04/Gold Luxury Initial Circle Logo (3).png",
+    "about":"As a birthworker since 2011, traditional midwife, and herbalist, my work is rooted in ancestral wisdom and a deep reverence for the sacred transitions of birth and postpartum. I currently focus on the antepartum and postpartum periods, offering holistic services that include personalized consultations, nourishing meal preparation, placenta encapsulation, and herbal wellness support. I also provide compassionate care and support services for individuals experiencing miscarriage or abortion, holding space for their healing with dignity and love. My approach is centered on nurturing the whole personâ€”physically, emotionally, and spirituallyâ€”while honoring the cultural and intuitive practices that have sustained communities for generations.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Midwifery, Birth Worker, Safe Spot, ",
+    "url":"https://www.loveandlightheal.com/",
+    "address1":"2740 Broad St",
+    "address2":"Austell, GA 30106",
+    "contact":" https//www.instagram.com/lovelighthealing1/#",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Our Journ3i, LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Journ3i-Logo.png",
+    "about":"Our Journ3i, LLC is an urban perinatal community-based founded and led wellness organization primarily focused on eliminating disparities of health and identifying social health determinants within infant and maternal health by providing empowering education and services. Our focus is on cultural diverse maternal and perinatal workforce development, training, mentorship, and professional development.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.journ3i.com/",
+    "address1":"",
+    "address2":"Providence, RI",
+    "contact":"https://www.instagram.com/ourjourn3i/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Our Nest Perinatal Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-8.png",
+    "about":"Our Nest Perinatal Services aims to support individuals during their pregnancy, birth, and postpartum journey so that they may have an experience that aligns with their preferences and feel empowered throughout each stage. Services include perinatal doula support, placenta encapsulation, breastfeeding support, and childbirth education.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.ournestri.com/",
+    "address1":"",
+    "address2":"Providence, RI",
+    "contact":"https://www.instagram.com/our_nest_ri/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9874237,36.2192394 ]
+    },
+    "properties": {
+    "state":"Nevada",
+    "name":"Pahrump Family Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/10/Pahrump-Family-Collective-logo-1.png",
+    "about":"Chiropractic, Doula, Childbirth Educator, Lactation Peer Supporter, Child Passenger Safety Technician, Community Resources, Pahrump Family Collective (local family support)<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.centeredcarechiro.com/",
+    "address1":"1601 E Basin Ave #304",
+    "address2":"Pahrump, NV 89060",
+    "contact":" https//www.instagram.com/drkat_chiro/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6031678,39.7150828 ]
+    },
+    "properties": {
+    "state":"Delaware",
+    "name":"Parent Information Center of Delaware",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.picofdel.org",
+    "address1":"6 Larch Ave #404",
+    "address2":"Newport, DE 19804",
+    "contact":" https//www.instagram.com/picofdel/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.5785667,39.0997265 ]
+    },
+    "properties": {
+    "state":"Missouri",
+    "name":"Peachy Births",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Peachy-Births-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://Peachybirths.com",
+    "address1":"",
+    "address2":"Kansas City, MO",
+    "contact":"https://www.instagram.com/peachybirths/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0368211,33.9873389 ]
+    },
+    "properties": {
+    "state":"South Carolina",
+    "name":"PHAC SC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-72.png",
+    "about":"The Pregnancy Hypertension Awareness Center of South Carolina (PHAC SC) is dedicated to raising awareness for gestational hypertension through education, community outreach, advocacy, and supportive services.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.phacofsc.org/",
+    "address1":"",
+    "address2":"Columbia, South Carolina 29201",
+    "contact":"kenishia.golden-smith@phacsc.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0476423,33.0581063 ]
+    },
+    "properties": {
+    "state":"Arizona",
+    "name":"Phoenix Birth Foundation",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-21.png",
+    "about":"Phoenix Birth Foundation<br><br>Vision<br><br>The Phoenix Birth Foundation captures, prioritizes, and employs the collective knowledge and wisdom of the community to champion improvements in maternal-fetal health of Arizona families.<br><br>Mission<br><br>The Phoenix Birth Foundation works to uplift the personal and professional development of community-based Birthworkers of Color. The Phoenix Birth Foundation actively drives forward the tenets of birth justice for Arizona families of color. The act of giving birth should be safe, in every sense of the word, for all parents.  The Phoenix Birth Foundation values the cultivation of long-standing, mutually beneficial relationships with community partners and collaborators for the sustainability of our work.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.arizonabirthworkersofcolor.com",
+    "address1":"",
+    "address2":"Maricopa, AZ",
+    "contact":"https://www.instagram.com/amothersworth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3876845,33.748752 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Positive Birthing Solutions",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Positive-Birthing-Solutions-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://positivebirthing.org",
+    "address1":"",
+    "address2":"Atlanta, GA",
+    "contact":" https//www.facebook.com/positivebirthingsolutions/about",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6037222,39.2994145 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"Postpartum Recovery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Postpartum-Recovery-logo.png",
+    "about":"DesirÃ©e Israel, MSW, LGSW\nPostpartum Recovery<br><br>\nMission: To provide mental health therapy, support groups, trainings and events to families and helping professionals to help combat perinatal mental health.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.desireeisrael.com",
+    "address1":"",
+    "address2":"East Case, MD 21202",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.5208624,30.5190775 ]
+    },
+    "properties": {
+    "state":"Louisiana",
+    "name":"Priceless Doula LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Priceless-Doula-Logo.png",
+    "about":"Messenger: m.me/Pricelessdoulalovellc<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://perinataltaskforce.com/listing/priceless-doula-llc/",
+    "address1":"",
+    "address2":"Louisiana",
+    "contact":" https//www.instagram.com/pricelessdoulalove/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9978203,42.4105298 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Radicle Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-67.png",
+    "about":"Traditional Community Midwifery Care - mission to change the current trajectory of Black Maternal Health crisis by serving the community and making more BIPOC midwives that are not institutionalized and are equipped to fight for themselves and others.<br><br>Registered Diagnostic Medical Sonographer - performing diagnostic ultrasound for health professionals and training healthcare professionals on how to utilize their POCUS equipment safely.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.radiclemidwifery.com",
+    "address1":"11550 Flanders St",
+    "address2":"Detroit, Michigan 48205",
+    "contact":"midwife@radiclemidwifery.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2115687,47.4404156 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"Rainier Valley Birth & Health Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-3.png",
+    "about":"Rainier Valley is a midwifery led collaborative care home to midwives and nurse practitioner who are dedicated to serving the community, building safe bridges to the hospital system, and acting first and always with kindness towards all who enter.<br><br>We are a non profit, for purpose organization.<br><br>We offer pregnancy, birth, perinatal mental healthcare, primary care, well person, treatment for infections and STIs, and pediatrics.<br><br>We offer water birth in our birth center.<br><br>We are grant funded and have programs we offer to support families with all of their healthcare needs.<br><br>We are trauma-informed, have hour-long visits, and offer all labs and ultrasound on site. Our family is here for your family and we look forward to serving you.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://myrvcc.org",
+    "address1":"400, 4300 Talbot Rd S, ",
+    "address2":"Renton, WA 98055",
+    "contact":" https//www.instagram.com/rainiervalleymidwives/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3128285,41.4901024 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Ready Set Latch Go",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/03/RSLG-logo.png",
+    "about":"Full Circle Doula Services: Labor/Birth, Prenatal, Postpartum, Lactation, Childbirth Education<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.readysetlatchgo.com/",
+    "address1":"",
+    "address2":"Newport, RI",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9962694,39.9567054 ]
+    },
+    "properties": {
+    "state":"Ohio",
+    "name":"Restoring Our Own Through Transformation (ROOTT)",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/ROOTT-logo.png",
+    "about":"<p class='ebgaramond' style='color: white'><strong>COMPOSITION &amp; MISSION</strong></p>\n<p class='ebgaramond' style='color: white'>Restoring Our Own Through Transformation (ROOTT) is a collective of concerned Black Families, community members, advocates &amp; interdisciplinary professionals dedicated to decreasing Black maternal &amp; infant mortality in Ohio. ROOTT's mission is to comprehensively restore our collective well-being through collaboration, resource allocation, research &amp; re-empowerment, in order to meet the needs of Black families.</p><p class='ebgaramond' style='color: white'>ROOTT is the founder of the Ohio Black Birthworker Association and the creator of TreEHR - an electronic health record, conceived, and developed by ROOTT</p>\n<strong></strong>\n<p class='ebgaramond' style='color: white'><strong></strong><strong></strong></p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.roottrj.org",
+    "address1":"118 E Main St",
+    "address2":"Columbus, OH 43215",
+    "contact":" https//www.instagram.com/roottrj/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5872286,42.2917069 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Rootead Red Birth Green",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Rootead-Red-Birth-Green-logo.png",
+    "about":"<br><br>\nWraparound Perinatal &amp; Reproductive Health Doula Services<br><br><ul>\n \t<li>Fertility</li>\n \t<li>Prenatal &amp; Birth</li>\n \t<li>Postpartum</li>\n \t<li>Parenting</li>\n</ul><br><br>\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.rootead.org",
+    "address1":"",
+    "address2":"Kalamazoo, MI",
+    "contact":"https://www.instagram.com/rootead/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3763487,43.0797758 ]
+    },
+    "properties": {
+    "state":"Wisconsin",
+    "name":"Roots 4 Change Doulas",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Roots-4-Change-Logo.png",
+    "about":"<br><br><br><br>Roots4Change (<i>RaÃ­ces para el Cambio</i>) is the first immigrant marketing cooperative in Dane County focusing on health. We are working to change the maternal and child health landscape to address inequities in perinatal well-being, by empowering families and challenging the system. Roots4Change (R4C) is owned by six independent social enterprises led by Latina and indigenous doulas and community health workers, who walk with families in their journeys of parenting, childbirth, motherhood, womanhood. Our ultimate goal is to develop a community leadership from within.<br><br>Cell phone: (608) 217-5982<br><br><br><br><br><br><br><br>\n<b>Our Mission</b><br><br>To foster allied health professions for Latinos (as) in Dane County by supporting the native and traditional knowledge nested in our community on well-being practices. Together, we want to reclaim our collective values of childbirth and parenting.<br><br><b>Our Vision</b><br><br>To live in a county where the diverse make-up of Latino families participates in the co-creation of the high quality maternal and child well-being support they deserve.<br><br><br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://roots4change.coop/",
+    "address1":"701 E Washington Ave #102",
+    "address2":"Madison, WI 53703",
+    "contact":" https//www.facebook.com/roots4change6",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8692843,35.0992202 ]
+    },
+    "properties": {
+    "state":"Tennessee",
+    "name":"Roots and River Wellness",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-19.png",
+    "about":"Roots and River Wellness, located in Memphis, TN, is a Black woman owned, perinatal and community health service created to educate, motivate and empower women, birthing people and their families looking to have a safe, calm and dignified birthing experience.<br><br>We offer holistic wraparound doula support, community health, intercontraception care and perinatal services that focuses on the overall well-being of the individual by providing mothers and birthing people with evidenced based tools, community resources and the power of self efficacy in which they need to make informed and confident decisions throughout the perinatal process.<br><br>Our services include full spectrum, community health and unbiased doula support through labor and birth, postpartum, pregnancy loss, IVF, RIVF, adoption, surrogacy, as well as family meal preparation, lactation and childbirth education, child passenger safety classes, newborn basics classes, nutritional counseling, perinatal mental health resources, alternative reiki holistic therapy, pregnancy and postnatal fitness, prenatal yoga, postnatal yoga, mindfulness, meditation, baby and children's yoga.<br><br>Our ultimate goal is to create a positive parental journey and birthing experience that's individualized, safe and culturally competent to help reduce health disparities and preventable maternal and infant deaths due to the social determinants of health, systemic racism and weathering.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.rootsandriverwellness.com",
+    "address1":"5821 Park Ave",
+    "address2":"Memphis, TN 38119",
+    "contact":" https//www.instagram.com/fitandfinallyfree/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1080656,32.735687 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Roots and Wings",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Roots-and-Wings-Logo.png",
+    "about":"Devoted Birth Services<br><br>Skype@ Elezya01<br><br>My mission is to duplicate a spirit of service to childbearing woman and their newborn children. Until every child and woman are cherished through the childbirth experience our inherit right is to fight for their equality. The villages' responsibility is to care for our most precious resource our children our future.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/roots-and-wings/",
+    "address1":"",
+    "address2":"Arlington, TX",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3036753,45.0352824 ]
+    },
+    "properties": {
+    "state":"Minnesota",
+    "name":"Roots Community Birth Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Roots-Community-Birth-Center-logo.png",
+    "about":"Roots Community Birth Center, Minneapolis, MN<br><br>We are a free standing birth center offering comprehensive prenatal care, birth center birth, and comprehensive postpartum care for mother and baby. In addition we host Mothers groups, Fathers groups, teen parenting groups, Childbirth Education classes, all are welcome. We have a Community Movement Studio and Wellness providers offering affordable acupuncture and massage.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.rootsbirthcenter.com/",
+    "address1":"1901 N 44th Ave",
+    "address2":"Minneapolis, MN 55412",
+    "contact":" https//www.instagram.com/rootsbirthcenter/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9222839,41.6206282 ]
+    },
+    "properties": {
+    "state":"Massachusetts",
+    "name":"Sacred Birthing Village Southcoast",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/08/Untitled-design-28.png",
+    "about":"Sacred Birthing Village South Coast: We are creating a dignifying and sustaining Maternal Restorative Village (Community) in the BIPOC community of the South Coast. Sacred Birthing Village SouthCoast is an affiliate of The Birthing Project USA (https://www.birthingprojectusa.org/). Together there are nearly 100 stops on the underground railroad for new life. As a chapter-based project, we are our sister's keepers and understand it takes a village to mobilize change. We are women dedicated and committed to building sisterhood and standing with and supporting the pregnant women in our community through their most sacred journey: childbirth. Our vision is a healthy community of mothers, fathers, and babies. We are the underground conductors on the underground railroad to new life, helping to close the disparity gap to give BIPOC and other mothers, fathers/partners (passengers), and families a safe, healthy, and thriving passage through pregnancy and childbirth, to have and raise a healthy baby. Birthing Project USA is a grassroots woman-led non-profit organization founded in 1988 by Kathryn Hall-Trujillo, eight other women, and one man, as a cost-effective mentoring model to reduce infant mortality and morbidity in the African American community. Using volunteers to ensure pregnant teens and women are identified, accessed, understood, and complied with prenatal care, BPUSA exerts its influence upon improving pregnancy health outcomes.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/sacred-birthing-village-southcoast/",
+    "address1":"Ingraham place, 80 Rivet St, ",
+    "address2":"New Bedford, MA 02744",
+    "contact":" https//www.facebook.com/sacredbirthingvillage/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4874416,39.0437567 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Sacred Spaces by Birth 'n' Herbs",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-25.png",
+    "about":"At Birth 'n' Herbs, our mission is to provide holistic and compassionate care to individuals and families throughout the journey of pregnancy, birth, and the postpartum period. We are committed to honoring the inherent wisdom of the body, embracing ancestral traditions, and promoting a deep connection with the source.<br><br>Our mission is rooted in the belief that every person deserves to have an empowering and transformative birth experience.<br><br>We strive to create a sacred space where individuals feel supported, informed, and empowered to make choices that align with their values and desires.<br><br>Our services:<br><br>Traditional Birthworker Support (Full Spectrum)<br><br>Birth Assistant<br><br>Lactation/Infant Feeding Consults<br><br>Education/Training : Community Doula, Sista Midwife Productions<br><br>Grandma's Hands: Pregnancy, Postpartum Herbs, &amp; Nutrition in the Southern Tradition, Divine Birth Wisdom<br><br>Level 1 Herbalism, Essence Herbs<br><br>Certified Blactation Educator, The B.L.A.C.K. Course<br><br>Community Breastfeeding Specialist, Reviving The Village Course by YOLO<br><br>Grandma's Hands Level 2: Deep Time, Divine Birth Wisdom<br><br>Neonatal Resuscitation Program (NRP) Essentials Provider<br><br>BLS CPR Provider<br><br>Student Midwife (NARM PEP Process)<br><br>Lactation Counselor, Healthy Children (in progress)<br><br>Memberships: National Black Midwives Alliance, National Black Doulas Association, Evidence Based Birth<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.birthnherbs.com",
+    "address1":"",
+    "address2":"Ashburn, VA",
+    "contact":"www.instagram.com/birthnherbs",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Sacred Wombanhood",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/Sacred-Wombanhood-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.sacredwombanhood.com",
+    "address1":"",
+    "address2":"Providence, RI",
+    "contact":" instagram.com/SacredWombanhood ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4418101,41.9110123 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"SacredPause Doula & Ayurveda",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/06/Untitled-design-22.png",
+    "about":"SacredPause Doulas invite safe and wholistic guidance as we enhance the physical, emotional, psychological, and spiritual health of birthing people through education and culturally sensitive support during pregnancy, childbirth, and postpartum so that future generations can thrive. Create more equitable care service for the BIPOC and immigrant population. I am a CPD, CCHW, Certified 300 hour Yoga teacher Certified Ayurvedic Practitioner, Herbalist, and Reiki practitioner.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.sacredpausedoula.com",
+    "address1":"",
+    "address2":"Lincoln, RI",
+    "contact":"https://www.instagram.com/sacredpause8/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2758531,29.6291962 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"San Antonio Nurse Midwife Birth & Wellness Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/San-Antonio-Nurse-Midwife-Logo.png",
+    "about":"Nikki McIver-Brown, APRN, MSN, CNM\nNikki is a Certified Nurse Midwife with a Masters of Nursing Degree obtained from the University of Cincinnati in 2012. Prior to becoming a Certified Nurse Midwife, she worked as a Labor and Delivery RN for over 13 years in the Baptist Healthcare System. With experience in the clinic, hospital, birth center, and home settings she is able to offer you the care you deserve. Holistic client care is completed according to the Standards for the Practice of Midwifery as defined by the American College of Nurse Midwives.<br><br>&nbsp;<br><br>Spending time listening to clients, providing health education and support them  empowers birthing  people  to make informed healthcare choices throughout their life. She  understands that sexuality, pregnancy, childbearing and menopause are significant, natural  life  events. Nikki offers her clients individualized care in a non rushed manner.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://sanantonionursemidwife.com/",
+    "address1":"20328 FM 2252",
+    "address2":"San Antonio, TX 78266",
+    "contact":" https//www.instagram.com/sanantonionursemidwife/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1609184,32.7347293 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"San Diego Community Birth Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-13.png",
+    "about":"The vision for services provided by San Diego Community Birth Center are comprehensive, inclusive and holistic reproductive health care support with thoughtfulness, empathy and cultural congruency. Black women are dying at 4 times the rate, on average, of any other group in this country. This statistic alone brings to life the mission of the San Diego Community Birth Center. The passion, motivation and mission of the San Diego Community Birth Center is to fill a need in the San Diego community by providing inclusive, sensitive and compassionate holistic reproductive health care.<br><br>The birth center houses a Licensed Midwife, a lactation consultant, a fertility specialist and various other holistic health care services, partnering with The People's Holistic Clinic (https://thepeoplesholisticclinic.com/), San Diego's Healthy Start Program (https://globalcommunities.org/healthy-start/), For The Village (https://forthevillage.org) and Root and Soul Acupuncture (http://rootandsoul.com) to provide families with holistic services that are family-centered.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"http://sdcommunitybirthcenter.com",
+    "address1":"2801 Fourth Ave",
+    "address2":"San Diego, CA 92103",
+    "contact":" https//www.instagram.com/sandiegocommunitybirthcenter/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1443454,43.0241975 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Sankofa Reproductive Health & Healing Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Sankofa-Reproductive-Health-Logo.png",
+    "about":"The Sankofa Reproductive Health and Healing Center is an official perinatal safe spot dedicated to providing accessible and equitable care while uplifting ancestral practices to promote healing and wellness for reproductive justice. We offer community-based doula-care, education, breastfeeding support and reproductive wellness.<br><br>We envision a  world where women &amp; birthing people  are able to actualize full liberation through sisterhood, sexual wellness, education, and ancestral practices of intuitive care work.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.sankofaheals.com/",
+    "address1":"2331 S Salina St",
+    "address2":"Syracuse, NY 13205",
+    "contact":" https//www.instagram.com/sankofaheals/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7655078,29.7141122 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Sanyika the Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-63.png",
+    "about":"Since 2019, I have been working full-time as a Doula, providing personalized, informed, and holistic support to new families during the incredible journey of childbirth. With over 100 satisfied clients, I have developed my skills in multiple areas of birth work, including birth and postpartum doula support, birth photography, lactation support, and mentorship.<br><br>I work with expecting mothers and their partners to create a customized birth plan that caters to their specific needs and preferences. I provide guidance, techniques, and strategies that enable both parents to handle this life-changing event confidently. During labor, I offer emotional and physical support by aiming to meet all of the birthing person's wishes and desires and being a calming presence to alleviate any discomfort or anxiety.<br><br>My expertise extends beyond the birth itself. I am also a certified lactation professional, providing guidance and support to new mothers as they navigate the many challenges of breastfeeding. I breastfed my own children until they were 20 and 25 months old (because when you breastfeed, every month matters), and I draw my guidance from a healthy mix of experience and comprehensive training.<br><br>In addition to my direct client work, I am passionate about mentorship and providing guidance and support to aspiring doulas as they develop the skills, knowledge, and experience needed to provide exceptional care to birthing families.<br><br>https://www.sanyikathedoula.com/birth-support<br><br>https://www.sanyikathedoula.com/postpartum-support<br><br>https://www.sanyikathedoula.com/virtual-doula<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://www.sanyikathedoula.com/",
+    "address1":"5554 South Peek Road",
+    "address2":"Katy, Texas 77450",
+    "contact":"birthmatters@sanyikathedoula.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3656242,28.6611089 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Sarah Foster, Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/09/Untitled-design-4.png",
+    "about":"\"Being a doula is not just a job, it's a passion. As an experienced educator and doula I understand the birth process and I understand how important a positive birth and postpartum experience are for the foundation of a healthy and harmonious family.<br><br>My name is Sarah, and I am a trained Childbirth Educator and Postpartum Doula that provides support and education online and in person in Central FL. I am a mother of 3 beautiful children and grandmother to one handsome grandson (so far). I also have the honor of being a co-chair and regional contact for the Central Florida Birth Network. I began my journey of supporting moms and other birthing people over 20 years ago when I was still a young mother and found myself relying on the compassion and support of wise women in my neighborhood. They gave me advise, tools, and gently guided me to navigate my own parenting path. My desire to provide support came from a place of needing and receiving nonjudgmental, nurturing support and wanting to give the same to others. Through my private practice my services center the lived experience of BIPOC, LGBTQIA2S+, and Differently Abled communities and I welcome members of these communities and our allies to experience compassionate, culturally competent, trauma informed, and whole person centered education and support that empowers you to embrace pregnancy and parenting in your own unique way.<br><br>I look forward to being a part of your village.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.sarahfoster.biz",
+    "address1":"",
+    "address2":"Altamonte Springs, FL",
+    "contact":"https://www.instagram.com/sunmoonnstars_doula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3876845,33.748752 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Sastas Blessings",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"Doula-labor and delivery, postpartum services, holistic approach. Empowering families with health and nutrition and so much more!<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/sastas-blessings/",
+    "address1":"",
+    "address2":"Atlanta, GA",
+    "contact":" https//www.instagram.com/sastablessings/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6568942,37.4315734 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Serene Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Serene-Birthing-Services-logo.png",
+    "about":"My name is Kyla Carlos owner of Serene Birth Services, I am a DONA trained Birth Doula and mother of three children with one on the way!\nI am a breastfeeding advocate, my passion for breastfeeding comes from my personal experience with my three. I breastfed my children well past the age of two and tandem nursed my two youngest who are only 14 months apart.<br><br>My background<br><br>is in childcare specifically infant and toddlers, I was a Lead Teacher for many years and went on to open a family home daycare.\nBecoming a birth worker has always been a dream of mine, October 2018 I decided to attain that goal and enter the field as a Birth Doula.\nI started my birth work journey as \"Swaz The Doula\" because of my work expanding I have chosen a business name that encompasses all services I offer, Serene Birthing Services. Serene means calm, peaceful, and untroubled; tranquil which is the type of energy I share with everyone I encounter.\nI provide my clients with on-going care by being available to answer any questions they may have about routine medical care, question prep for prenatal doctor appointments and what to expect for different birth routes. One of my main service objectives is to provide my clients with evidence based research to empower them to advocate for themselves during the pregnancy, labor &amp; delivery and their postpartum journey.<br><br>It is a honor and pleasure to serve my clients in this vulnerable and intimate setting. I love assisting families with navigating through this exciting yet scary time! I'm here to comfort, encourage, support all loved ones.<br><br>I am certain I can provide you and your loved ones with a level of care that surpasses your expectations, contact me today to see how I can assist you.\n<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.kylacarlos.com%2F%3Ffbclid%3DIwAR2FWzuDSCG6eCVSC11Q9UNbl-2k048voSpU4WLeggLHywHD3Z5Bunh0UtE&amp;h=AT3iJe-Q3gcdeDEPW0FgT4EMb2sgJR4trVR4oOVJJ2-ZFPiMQp_sJX7buv6260dITfdeZLyBR5bT73kJj12HSRm2ku8TT62fn2RZYriVW9mpSRRz0WywseTRo-66zbLdOi5hucb0JCDNCA6AQng\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" data-lynx-mode=\"asynclazy\">www.kylacarlos.com</a><br><br><br><br><br><br>Mission\nOur mission is to provide care with families that desire to learn more about birth, lactation and postpartum care. Provide support in the community to families in need.<br><br><br><br><br><br>\nCONTACT INFO<br><br><br><br><br><br><a id=\"u_fetchstream_2_0\" href=\"https://m.me/serenebirthing?fbclid=IwAR2a40ccyFocjawOYv4yEzMngF5yaAym__6UhOiHLVve0uFFUjX_9IQ0sZQ\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" data-lynx-mode=\"asynclazy\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2Fserenebirthing%3Ffbclid%3DIwAR2a40ccyFocjawOYv4yEzMngF5yaAym__6UhOiHLVve0uFFUjX_9IQ0sZQ&amp;h=AT0NQy10HGOX3kGeFDAVKW6tAHC76WUphOJdc_mPxU8JaxDnw4rrT3lH-3_2W3xRObRuX0DI4WyA8n0ZN6yv_zC3JoOqFvo_Vm8ktdDwnr5w3fdjTGiDQJ0IYYVtDWC3kTy9QnWx6sf6GgSilAU\">m.me/serenebirthing</a><br><br><br><br><br><br>\nbookkylacarlos@gmail.com<br><br><br><br><br><br><br><br>About\nSerene Birthing Services offers Birth Doula services, Lactation Support and Education and Birth Photography. Read our story for more back information!<br><br><br><br><br><br>Products\nDoula Services, Lactation Support, Lactation Education, Birth Photography<br><br><br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.kylacarlos.com",
+    "address1":"",
+    "address2":"Virginia",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6066704,43.4083637 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"She Believed Doula Care",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/08/She-Believed-Doula-Care-logo.png",
+    "about":"Birth Doula Support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/she-believed-doula-care/",
+    "address1":"",
+    "address2":"St. Louis, MI",
+    "contact":" instagram.com/shebelieveddoulacaremi ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3559001,42.3911511 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Shekita Long, CHW, CPST",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/05/IMG_3077.jpeg",
+    "about":"I am Shekita Long (she/her)â€”a passionate advocate for transformative perinatal experiences and a dedicated community health worker (CHW). As a CAAPA-trained birth and labor doula, Army veteran, yoga teacher, and Reiki practitioner, I specialize in mindfulness and wellness, guiding you through one of life's most profound journeys. With additional training in Spinning Babies techniques and certification as an A.C.T.T. Black Coalition for Safe Motherhood (BSFM) facilitator, I am committed to empowering you with evidence-based practices that prioritize your safety and well-being. As co-director of Community Outreach for The Lunar Doula Collective and a board member of the Detroit Psychedelic Society, I actively engage with our community to foster support and connection. I am deeply passionate about continuing education and volunteer as a UofM Dial-A-Doula. Additionally, I am an active member of the Motor City Doula Association, a nonprofit organization dedicated to supporting birth professionals in Metro Detroit. I believe that birth transcends being a medical event; it is a transformative life experience that deserves honor and respect. I embrace the traditions and rituals surrounding birth, advocating for informed choices and compassionate care for you and your family. My goal is to create a nurturing environment where you can thrive, embrace your journey, and celebrate the incredible power of bringing life into the world.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Birth Worker, Home Visitor, Safe Spot, ",
+    "url":"https://shekitalongdoula.com",
+    "address1":"14574 Melrose St",
+    "address2":"Livonia, MI 48154",
+    "contact":"shekitalong@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.477252,19.2025209 ]
+    },
+    "properties": {
+    "state":"Hawaii",
+    "name":"SHINE Sisterhood Initiative",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"Ka'Å« Women's Health Collective is a volunteer-run grassroots organization which practices collective decision making.   The Collective was started in 2019 by a group of moms to address reproductive justice issues impacting the health of the community; from teen pregnancy to childbirth trauma to high rates of cancer and diabetes.  Empowering women, who are the child-bearers, the caregivers and the workhorses, is the first step in finding meaningful reproductive justice for our community.  In this way we strive to decolonize beliefs about power and self worth.<br><br> \nTara is a community and traveling midwife who offers home birth midwifery services, doula services and Lomilomi to families in Ka'u and around the country as a traveling midwife. She is also the co-teacher of the<a href=\"https://www.girlfriendsistergirl.com/cbe\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.girlfriendsistergirl.com/cbe&amp;source=gmail&amp;ust=1637787795635000&amp;usg=AOvVaw2DPXDXuJEF1riAAPkKY44D\"> PIKO Childbirth Education Program: Practical and Spiritual.</a> <br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://shinesisterhoodinitiative.com",
+    "address1":"",
+    "address2":"Pahala, HI 96777",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.324998,29.6519563 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"ShugaPott",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/03/Shuga-Pott-LLC-logo.png",
+    "about":"ShugaPott Birth and Wellness offers virtual and in-person spiritual, mental, and physical perinatal support. ShugaPott's Doula Sam is a holistic birth keeper of community efforts and private patrons.\n<p class=\"noselect css-1pa678c\">Â§ Full Spectrum Holistic Doula</p>\n<p class=\"noselect css-xtqk8j\">~Currently certifying with Commonsense School of Midwifery</p>\n<p class=\"noselect css-xtqk8j\">Â§ Midwife Student</p>\n<p class=\"noselect css-xtqk8j\">~ Studying with Florida School of Traditional Midwifery</p>\n<p class=\"noselect css-xtqk8j\">Â§ Nationally Certified EMT</p>\n<p class=\"noselect css-xtqk8j\">Â§ Certified American Heart Association CPR/AED Instructor</p>\n<p class=\"noselect css-xtqk8j\">Â§ Healthcare Advocate</p>\n<p class=\"noselect css-xtqk8j\">Â§ Wellness Coach</p>\n<p class=\"noselect css-xtqk8j\">Â§ Motivational Speaker</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://Shugapott.onuniverse.com",
+    "address1":"",
+    "address2":"Gainesville, FL",
+    "contact":"https://www.instagram.com/shugapott/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8935893,40.8626184 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Sincerely Luna",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/02/Sincerely-Luna-logo-1.png",
+    "about":"Luna, CPM, MA, RMT\nFull spectrum doula, certified perinatal educator, reiki practitioner, lactation specialist and natural herbalist. Sincerely Luna is a bipoc service to support families during the time of pregnancy, labor and postpartum. We guide families to learn how to advocate for themselves, educate on child birth and the reproductive system. We provide wellness care with nutrition and healing techniques. Some communities have a high labor mortality rate and our mission is to provide guidance to families in the community to improve it.<br><br>Full Spectrum Doula - Reiki Master - Lactation Specialist - Certified Perinatal Educator - Wellness - Fertility Coach - Natural Herbalist - Homebirth Support - Labor/Birth Doula - Postpartum Doula - Community Based Doula - Loss Support - CLC - Community Health Worker - Resource Connection<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.sincerelylluna.com/",
+    "address1":"2541 Bainbridge Ave",
+    "address2":"Bronx, NY 10458",
+    "contact":" https//www.instagram.com/sincerity_luna",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.24,38.93 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Sisters In Loss",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Sisters-In-Loss-logo.png",
+    "about":"<p id=\"m_-975397155122049850gmail-docs-internal-guid-48ab754d-7fff-2522-3493-4ee126ed1dd6\" dir=\"ltr\">Sisters in Loss is a Maternal Child Health education company dedicated to replacing silence with storytelling around pregnancy and infant loss and infertility of black women.  The stigma and shame that comes with sharing loss stories prevent black women from achieving the healing they need to thrive in their new normal.  Sisters in Loss holds space to present loss and infertility stories in a resourceful culturally acceptable way to assure black women they are not alone on this journey.</p>\n<p dir=\"ltr\">Sisters in Loss provides pregnancy, birth, postpartum, bereavement, and Doula grief services to help women step beyond anxiety and fear and into trust and peace after loss.  It's self-titled podcast spotlights resilient Black mothers who share intimate details of their journey to motherhood through painful, but inspirational loss and infertility stories.  Sisters in Loss has been featured in Black Enterprise, Women's Health, The Today Show, NBC Nightline News, xoNecole, and the US House of Representatives.</p>\n<p dir=\"ltr\"><a href=\"http://youtube.com/sistersinlosstv\" target=\"_blank\" rel=\"noopener\">Sisters In Loss YouTube Channel</a></p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://sistersinloss.com",
+    "address1":"",
+    "address2":"McLean, VA 22103",
+    "contact":" https//www.instagram.com/sistersinloss/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5872286,42.2917069 ]
+    },
+    "properties": {
+    "state":"Michigan",
+    "name":"Sokhna Heathyre Mabin",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/05/Sokhna-Heathyre-Mabin-photo.png",
+    "about":"*Experienced Full Spectrum Doula\n*Certified Lactation Consultant\n*Experienced Yoga Teacher (30+ yrs, perinatal, Hatha, Kundalini, Trauma Sensitive Yoga Facilitator)\n*Clinical Herbalist\n*running a hospital doula program for at risk POC\n*Co-Admin for Baby Friendly Hospital Initiative<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.mamasutralove.com/",
+    "address1":"",
+    "address2":"Kalamazoo, MI",
+    "contact":" https//www.instagram.com/sokhnamaha/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5157535,27.6648274 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Southern Birth Justice Network",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Southern-Birth-Justice-Network-Logo.png",
+    "about":"Executive Director Jamarah Amani, LM<a href=\"https://perinataltaskforce.com/wp-content/uploads/2020/10/page0000009_high.jpg-5.jpg\">\n</a>\nBirth Justice Framework<br><br>\nBirth Justice recognizes that all peoples can birth and be parents; People of color, immigrant peoples, and LGBTQ+ communities in particular have survived a history of trauma and oppression around our decisions to have and not have babies. We know that when we, mothers and parents, are empowered, our community is transformed. If we bring our babies into the world, with justice, in the natural way, without anyone telling us how to do it, then it nurtures our innate power as mothers and parents to create a free world for our children to play and learn and grow.<br><br>Birth Justice includes access to health care during the childbearing year that is holistic, humanistic, and culturally centered. This health care is across the pregnancy spectrum including: abortion, miscarriage, prenatal, birth, and postpartum care. Birth Justice includes the right to choose whether or not to carry a pregnancy, to choose when, where how, and with whom to birth, including access to traditional and indigenous healers, such as midwives and other birth workers, and the right to breastfeeding support. The complete range of pregnancy, labor, and birth options should be available to everyone as an integral part of reproductive justice. These are our rights as mothers and parents.<br><br><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://southernbirthjustice.org/",
+    "address1":"",
+    "address2":"Florida",
+    "contact":"facebook.com/southernbirthjustice",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"Southern Roots Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/The-Afiya-Center-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.theafiyacenter.org/",
+    "address1":"",
+    "address2":"Dallas, TX",
+    "contact":"https://www.instagram.com/southernrootsdoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.085059,42.1292241 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"Sovereign Birth Rising",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/10/Sovereign-Birth-Rising-logo.png",
+    "about":"A traditional authentic midwife trained via apprenticeship and through The Matrona Midwifery Program. I graduated in 2022. My apprenticeship was 2 years. I attended over 50+ homebirths.\nThe mission of Sovereign Birth Rising is to help women to be in their power through informed consent, education on physiological birth, and choosing their birth, their way. Our vision is to support women when they are at transformation initiations in their life ( preconception, pregnancy, postpartum, menopause). We understand the power of birth and how the way we birth and are born ripples through generations to come.<br><br>I offer conscious conception classes, holistic childbirth education classes, Childbirth consultations( how do you want to birth-education of various ways), Homeopathy classes for pregnancy, baby, and postpartum, Herbalism classes for pregnancy, baby, and postpartum, free fresh food during growing season (if someone is in need),Know your rights classes for those birthing in hospitals, Free bodywork for pregnant mothers, and a space for those who need to be heard and seen.<br><br>I am currently not accepting new clients for homebirth at this time.\n<ul>\n \t<li>\nTraditional Authentic Midwife</li>\n \t<li>\nCertified Holistic Family Advocate</li>\n \t<li>\nProfessional Childbirth Consultant</li>\n \t<li>\nFull Spectrum Doula</li>\n \t<li>\nCommunity Herbalist</li>\n \t<li>\nCommunity Homeopath</li>\n \t<li>\nMyofascial Release Practitioner</li>\n \t<li>\nKnow your rights graduate</li>\n \t<li>\nHolistic Childbirth Educator</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/sovereign-birth-rising/",
+    "address1":"",
+    "address2":"Erie, PA",
+    "contact":"https://www.instagram.com/sovereignbirthrising/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5022205,44.2910915 ]
+    },
+    "properties": {
+    "state":"Wyoming",
+    "name":"Sparrow Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/11/Sparrow-Midwifery-logo.png",
+    "about":"Homebirth support, Labor/Birth Doula, Postpartum Doula, Community Based Doula, Full Spectrum Doula, Loss Support, Lactation Peer Counselor, Community Health Worker, Resource Connection, Religious Support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/sparrow-midwifery/",
+    "address1":"",
+    "address2":"Gillette, WY",
+    "contact":"",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3467245,25.6200015 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Spirit of Life Traditional Midwifery Independent Home Birth Practice",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Midwifery, Safe Spot, ",
+    "url":"https://www.miamimidwife.com/",
+    "address1":"9507 Southwest 160th Street suite #220",
+    "address2":"Miami, FL",
+    "contact":"miamimidwife@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.859101,35.328684 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Spiritual Edge LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-70.png",
+    "about":"My role as your Holistoc doula begins during prenatal meetings where we can get to know each other and discuss your birth preferences and any concerns you may have. During labor, I am available by phone or text for any questions or updates, and I join you at your chosen birth location when you are ready for me. I do not replace your partner or medical team, but rather work together with them to provide continuous support.<br><br>In the delivery room, I can assist with positioning, breathing techniques, and other comfort measures to help manage pain and promote progress. I can also act as a liaison between you and your medical team, making sure your preferences are communicated and respected. In the event of unexpected interventions or complications, I provide emotional support and help you understand your options and make informed decisions.<br><br>After delivery, I offer support with breastfeeding or any other needs you may have. I can also provide postpartum care and resources to help you navigate the early days and weeks of motherhood.<br><br>My goal as a doula is to help you have a positive and empowering birth experience, whatever that may look like for you. I believe every woman deserves to feel supported, respected, and in control during labor and delivery. I am honored to be a part of your birth journey and look forward to supporting you and your growing family.<br><br>Some of the services I provide are:<br><br>Abortion support<br><br>Belly casting and belly binding<br><br>Pelvic closing ceremony<br><br>Bereavement doula (pregnancy & infant loss)<br><br>Childbirth education services<br><br>End of Life Support<br><br>Mother blessing celebrations<br><br>Prenatal or postnatal massage<br><br>Virtual and remote doula support<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://spiritualedgellcbirthingservic.godaddysites.com/?fbclid=IwY2xjawFjoApleHRuA2FlbQIxMAABHdw_zbNrpsGai-ZffLl6DNxQz0NrRxMHf4m6He5NOo0v8OXj06YrobiZtQ_aem_mX7JkrqDGOEIFIpWMSrsfQ",
+    "address1":"9701 Trinity Rd h",
+    "address2":"Charlotte, North Carolina 28216",
+    "contact":"spirituaedge@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.589811,42.1014831 ]
+    },
+    "properties": {
+    "state":"Massachusetts",
+    "name":"Springfield Family Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-17.png",
+    "about":"Springfield Family Doula Services consist of two doulas. Laconia Fennell is a holistic doula and Tanita Council is a full spectrum doula. We provide provide prenatal, birth, and postpartum doula services. We also provide lactation counseling, placenta encapsulation, Reiki, prenatal yoga, and baby carrier education.<br><br>We aim to remind birthing people of their innate knowledge and strength to move through the uncertainty and unpredictability of birth,<br><br>Our mission is to empower, educate, support, and advocate for women and their families during pregnancy, birth, and postpartum period with compassion during this beautiful transition in their lives.<br><br>Our vision is to compassionately provide doula services for our community. We believe that support from an experienced doula should be part of routine maternity care as it improves birth outcomes and reduces postpartum mental health issues, all while reducing overall healthcare costs.<br><br>We've entered birth work to help bring confidence and trust to the birthing space. This creates a beautiful beginning to the growth of a family, serving as inspiration for parenthood.<br><br>We believe how we birth is how we live, and new life deserves to be welcomed with trust, respect, and unwavering kindness.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://springfieldfamilydoulas.com/",
+    "address1":"",
+    "address2":"Springfield, MA",
+    "contact":"https://www.instagram.com/springfieldfamilydoulas/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6768796,34.0659329 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"Tara's Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Taras-Birth-Services-logo-1-1.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://tarasbirthservices.com",
+    "address1":"",
+    "address2":"Acworth, GA",
+    "contact":" https//www.instagram.com/Trimestertreatsofficial/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1333672,32.3314561 ]
+    },
+    "properties": {
+    "state":"Mississippi",
+    "name":"Taweret Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Taweret-Midwifery-Logo.png",
+    "about":"Aisha Ralph, Taweret Midwifery\nLicensed Midwife\nCertified Professional Midwife<br><br>Taweret Midwifery offers home birth midwifery care, monitrice support for hospital birth clients, and childbirth education and preparation classes. The organization is based on the view that midwifery care that is traditional at it's root and woman-focused is the key to ensuring women and babies survive and thrive in the childbearing year.<br><br>&nbsp;<br><br>Aisha Ralph, Taweret Midwifery midwife, has a simple philosophy: as a midwife, she has skilled hands that have been trained to support birth in challenging and complex circumstances.... and she knows how to sit on them! She trusts birth as a natural, physiological event that works just fine most of the time, especially if mom and baby are supported in their work. In her approach to midwifery she centers THEM - mother and child. She understands that her role is to support the unfolding of their process. If, and only IF, it's necessary to intervene, will she do so, with those skilled hands and a respectful heart.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://www.taweretmidwifery.com/",
+    "address1":"2080 Dunbarton Dr Suite 2",
+    "address2":"Jackson, MS 39216",
+    "contact":" https//www.instagram.com/taweretmidwifery/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.984429,40.6091188 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Terry Wong (Teresa Huang), MPH, MCHES®, Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/04/Whoosah Master File-01.png",
+    "about":"<p class='ebgaramond' style='color: white'>I traveled the world as a public health advocate, but FAMILY led me to become a Doula! My sister found love later in life and was deemed high risk for having her first baby at 39 - after all my research, I learned that the best way to support her was to be her Doula. Long story short: Now I'm a full-time Doula/Birth Worker and I am never going back to an office job, ever again. Masters in Public Health 2019 Master Certified Health Education (MCHES) 2020 DONA Birth Doula training 2022 VBAC training 2024 Active Medicaid Doula Provider 2024 Child Car Seat Safety Technician 2024 PAL Advocate Training 2024 Evidence-Based BirthÂ® Instructor 2025 Pending CLC Training... Pending Spinning Babies Training... https://www.linkedin.com/in/whoosahdoula</p><br><br><p class='ebgaramond' style='color: white'>Doula Match Profiles and Reviews - https://doulamatch.net/profile/38718/terry-wong Evidence-Based BirthÂ® Childbirth Education Class schedule - https://www.whoosahdoula.com/evidence-based-birth-for-parents Whoosah Family Blog - https://www.whoosahdoula.com/the-dynamic-edd-blog</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Lactation, Birth Worker, Home Visitor, Safe Spot, ",
+    "url":"https://www.whoosahdoula.com",
+    "address1":"1541 W 11th St.",
+    "address2":"Brooklyn, NY 11204",
+    "contact":"whoosahdoula@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5645588,41.101874 ]
+    },
+    "properties": {
+    "state":"Connecticut",
+    "name":"The Alliance Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-7.png",
+    "about":"The Alliance Center is a holistic maternal mental health center located in Stamford, Connecticut. We specialize in the treatment of perinatal mood and anxiety disorders (PMADs) and provide psychological support, skills building and community connection to parents throughout their reproductive years; preconception, pregnancy, postpartum and parenting. As a private, for profit, outpatient perinatal practice, we are the first of our kind in the state of Connecticut. We aim to improve mental health outcomes in the perinatal period for birthing people and their families in Stamford(and across the state virtually) by providing individual psychotherapy, group psychotherapy, support groups, specialized yoga classes, workshops, and community gatherings by way of clinicians with advanced education and training in maternal mental health. Our diverse and multidisciplinary team is composed of social workers, doulas, lactation counselors, peer specialists, a naturopath, and a psychiatric APRN. Collectively we provide care that is accessible, affordable and culturally competent.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.thealliancecenterct.com",
+    "address1":"16 Wire Mill Rd",
+    "address2":"Stamford, CT 06903",
+    "contact":" https//www.instagram.com/thealliancecenterct/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"The Arch App",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/04/The-Arch-App-logo.png",
+    "about":"The Arch connects pregnant people, parents and families to individualized support options (ie. Doulas, Lactation support, etc), information and resources. Our services include in-person and virtual support for all of your pregnancy related needs. The Arch offers a unique blend of client-centered and concierge support to guide and prepare you for the journey to parenthood and beyond. \nOur network of support spans 25 states and 6 countries.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.thearchapp.com",
+    "address1":"",
+    "address2":"New York, NY",
+    "contact":"https://www.instagram.com/thearch.app/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5833459,28.5630005 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"The Birth Place",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/The-Birth-Place-Logo-4.png",
+    "about":"*Have YOUR baby, YOUR way*<br><br>If you are looking for patient-centered care by women who understand a woman's needs in pregnancy and birth without compromising good medical care, then a birth center is an excellent choice for a healthy pregnant woman. Our center offers a choice of midwifery prenatal care with birth center delivery, or midwifery prenatal care with physician delivery at the hospital. Our midwives follow the best evidenced-based protocols and collaborate fully with our extensive network of obstetricians, pediatricians and hospital community partners.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"http://thebirthplace.org/",
+    "address1":"213 S Dillard St STE 340",
+    "address2":"Winter Garden, FL 34787",
+    "contact":" facebook.com/thebirthplace",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0001329,40.4380959 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"The Birthing Hut LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/03/The-Birthing-Hut-logo.png",
+    "about":"The Birthing Hut is a doula collective. We connect local black doulas to black expecting and postpartum families, as doulas we provide essential services of labor preparation through education, informing and connecting families to resources available locally, and being a mental and emotional support system. The Birthing Hut is an organization that focuses on the professional growth and development of our Black doula to ensure we can provide exceptional care, and best practices for our mothers. At our core, our focus is to prevent Black mothers from becoming a maternal health statistic in the Pittsburgh region.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.birthinghut.com",
+    "address1":"213 Smithfield St",
+    "address2":"Pittsburgh, PA 15222",
+    "contact":" https//www.instagram.com/the_birthing_hut/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8830701,40.8050442 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"The Birthing Place",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/The-birthing-Place-logo.png",
+    "about":"Zip codes served:10474, 10451, 10457, 10452, 10465, 10457, 10460, 10453, 10457, 10458, 10468, 10463, 10471, 10454, 10455, 10453, 10468, 10452, 10456, 10459, 10472. 10462. 10473, 10469, 10472, 10473, 10466, 10467, 10461, 10026, 10027, 10030, 10037, 10039, 11096, 11559<br><br>The Birthing Place is a team of experienced BIPOC doulas and birthing professionals, serving families in search of a safe, serene, and deeply supportive alternative to birthing low-risk pregnancies in hospitals. In collaboration with community partners and wellness providers, we are launching The WOMB BUS, a mobile health and wellness hub, to provide education and outreach to Bronx residents. Program activity of WOMB BUS is equipped to begin in May 2022, providing perinatal education, reproductive &amp; nutrition counseling, mental health support, and increased access to supplementary bodywork modalities (such as chiropractic care and acupuncture) to historically underserved neighborhoods.<br><br>Our approach in providing individualized care reduces maternal and infant stress, promotes healthier pregnancies, and provides familial support beyond what is traditionally available in hospitals.<br><br>Our ultimate goal is to create a birth center - a sanctuary that offers personalized, loving support for the planning, expectant, and newly blossomed family. Core Values We see birth as a transformative time. We provide the highest quality of care. We are client and community centered. We cultivate a collaborative environment. We are a village that respects and uplifts one another. We believe in Birth and Reproductive Justice.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://TheBirthingPlace.co",
+    "address1":"",
+    "address2":"Bronx, NY 10474",
+    "contact":" https//www.instagram.com/birthingplacebx/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6096732,39.3126893 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"The Bloom Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/the-Bloom-collective-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.bloominbaltimore.com",
+    "address1":"2000 Greenmount Ave Ste 101",
+    "address2":"Baltimore, MD 21218",
+    "contact":" https//www.instagram.com/bloominbaltimore/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0368707,38.9071923 ]
+    },
+    "properties": {
+    "state":"District of Columbia",
+    "name":"The Cannabis Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/The-Cannabis-Doula-logo-1.png",
+    "about":"Melanie Julion\nEmergency support/ family resources, doula services, childbirth education, early childhood education<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://www.thecannabisdoula.org",
+    "address1":"",
+    "address2":"Washington, DC",
+    "contact":"https://www.instagram.com/thecannabisdoula/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6317461,32.824634 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"The Counseling Midwife",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/12/Untitled-design-26.png",
+    "about":"The Counseling Midwife provides Traditional Midwifery met with authenticity &amp; passion while providing therapeutic &amp; ancestral care. We at The Counseling Midwife believe that sovereignty is your birthright to birth right. What that means is that you are the vital heartbeat and essential in the decisions of the autonomy of your body, your birth and your family. We honor your right to make the best decisions for you and your family in the essence of co-care. Midwives have traditionally cared for families throughout their life cycle which include menarche, birth, menopause and even death. What makes The Counseling Midwife unique is that we provide emotional, spiritual and health counseling and education for the family and the community, and not just the pregnant person while serving those in the margins of \"normal pregnancy and birth.\" Overall we encourage you to also take responsibility of your own care by doing your own research and ask as many questions as needed for you to feel comfortable in your decision, experience and birth ceremony. You deserve intentional comprehensive therapeutic care.<br><br>Currently I can provide full-spectrum doula care. In summer of 2024 I will be providing midwifery care.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.thecounselingmidwife.com",
+    "address1":"",
+    "address2":"Mesquite, TX 75150",
+    "contact":" https//www.instagram.com/tinyandbrave/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"The Diverse Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/11/The-Diverse-Birth-logo.jpeg",
+    "about":"Professional Doula/Reiki Practitioner<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://thediversedoula.com/",
+    "address1":"",
+    "address2":"Richmond, VA",
+    "contact":" https//www.instagram.com/the.diverse.birth.collective/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2711639,37.8043514 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"The DOUDAD",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Untitled-design-1.png",
+    "about":"<p id=\"m_5959822036084116115docs-internal-guid-2e7a7ef0-7fff-0b78-e03c-3a17efee47d4\" dir=\"ltr\">Jessie Ray Spivey is a Doula and creator of The Doudad.</p>\n<p dir=\"ltr\">In addition to his Doula practice, Jessie Ray serves as the Director of Elder Services at The Oakland LGBTQ Community Center and Facilitator of The Black Men Connect support group.</p>\n<p dir=\"ltr\">The Doudad was created to amplify the voices of masculine identified persons involved in birth and end misandry in birthwork. Jessie Ray's journey into birthwork was inspired by his Mother's work as a Doula and pregnancy coach, as well as the infant mortality rates facing his own community.</p>\n<p dir=\"ltr\">Linktree: <a href=\"https://linktr.ee/thedoudad\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/thedoudad&amp;source=gmail&amp;ust=1679315535580000&amp;usg=AOvVaw2xtPtgHCv8N-Om2XH8hdNK\">https://linktr.ee/thedoudad</a></p>\n<p dir=\"ltr\">For Doula inquiries, Speaking engagements and Press, please email <a href=\"mailto:thedoudad@gmail.com\" target=\"_blank\" rel=\"noopener\">thedoudad@gmail.com</a></p>\nYour experience will include:<br><br>âœ“ 3 prenatal check-ins<br><br>âœ“ 24/7 video/text availability<br><br>âœ“ a customized birth plan<br><br>âœ“ complimentary prenatal yoga class<br><br>âœ“ 3 pospartum check-ins<br><br>âœ“ feeding plan &amp; lactation support<br><br>âœ“ birth bag prep<br><br>âœ“ limited edition Doudad water bottle<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.thedoudad.com/",
+    "address1":"",
+    "address2":"Oakland, CA",
+    "contact":"https://www.instagram.com/thedoudad/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"The Educated Birth",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/12/Untitled-design-28.png",
+    "about":"The Educated Birth creates inclusive, intersectional teaching tools for childbirth education and reproductive health. We believe representation is necessary to a safe + equitable health system. Our educational classes and materials are thoughtfully, beautifully, and comprehensively designed to empower parents-to-be as well as the professionals who support them.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.theeducatedbirth.com",
+    "address1":"",
+    "address2":"Richmond, VA",
+    "contact":" www.instagram.com/TheEducatedBirthbn jhh ",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4408698,35.4420062 ]
+    },
+    "properties": {
+    "state":"Oklahoma",
+    "name":"The InTune Mother LLC",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/In-Tune-Mother-Society-logo.png",
+    "about":"Virtual Location: <a href=\"http://timcenter.org/\" target=\"_blank\" rel=\"noopener noreferrer\">timcenter.org</a><br><br>Contact: RaShaunda Lugrand, Founder<br><br>The InTune Mother Society<br><br>Train With Us: <a style=\"font-size: 16px;\" href=\"http://timcenter.org/contact-us\" target=\"_blank\" rel=\"noopener noreferrer\">timcenter.org/trainings</a><br><br><b>OUR MISSION</b>\nThe InTune Mother Society is a 501c3 Charitable Health Organization, designed to build sustainable systems of care by modeling a healing justice framework for social change through Holistic Family Planning. We acknowledge that childbearing families of historically excluded populations need access to culturally curated reproductive health options, housing security, and economic independence. We are here to build capacity for community-based workforce innovation to aid in the reduction of unplanned pregnancies as communal effort to shift the way families access and experience reproductive well-being. As an organization advocating for workforce innovation we aim to serve women and families through educational programs in an online and offline. As a PSS we strive to help individuals secure the support they need to safely practice in the profession of Holistic Family Planning, thus being well equipped with skills and strategies to create a viable occupation.\n<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://timcenter.org",
+    "address1":"",
+    "address2":"Del City, OK",
+    "contact":" https//www.instagram.com/theintunemother/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "state":"Pennsylvania",
+    "name":"The Life Experience Perinatal Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/The-Life-Experience-logo.png",
+    "about":"My name is Yanna Nicole and I am a full-spectrum doula, certified lactation counselor, childbirth educator, Evidence Based BirthÂ® Instructor, and student midwife. I am also the founder of the Black Christian BirthWorkers NetworkÂ®. My aim is to support families to and through parenthood. My background is in early childhood education and special education, as well as an ABA therapist. I look forward to supporting you and your family!<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/the-life-experience-perinatal-services/",
+    "address1":"",
+    "address2":"Philadelphia, PA",
+    "contact":" https//www.facebook.com/lifeexpdoula",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1770759,30.5151535 ]
+    },
+    "properties": {
+    "state":"Louisiana",
+    "name":"The Morthered Village",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-20.png",
+    "about":"Mission Statement: The Mothered Village is a Full Spectrum Doula Collective committed to providing comprehensive maternal healthcare advocacy services and support to BIOPIC (Black, Indigenous, and People of Color) mothers and families. Our mission is to empower, uplift, and unite communities by ensuring equitable access to culturally sensitive and holistic care throughout the perinatal journey. We strive to foster a nurturing, inclusive environment that celebrates the diversity and strength of BIOPIC families, while advocating for their rights and well-being.<br><br>Vision Statement: Our vision is to build a future where every BIOPIC mother and family receives the highest quality of maternal healthcare services and support, free from systemic biases and disparities. We envision a world where all individuals are empowered with knowledge, resources, and choices throughout their perinatal experience, leading to positive birth outcomes and healthier communities. The Mothered Village aims to be the leading advocate for maternal health equity, bridging gaps in access, representation, and support, while promoting a culture of respect, dignity, and empowerment.<br><br>Services Provided by The Mothered Village:<br><br>1. Physical and Emotional Safety: Providing a secure and comfortable physical environment. This includes facilities that are clean, well-maintained, and equipped with necessary safety measures such as proper lighting, emergency exits, and sanitation protocols. We create a non-judgmental and empathetic atmosphere where pregnant individuals feel supported and understood. This is achieved through counseling services, mental health support, and peer support groups.<br><br>2. Birth Doula Support: Our doulas provide continuous emotional, physical, and informational support to BIOPIC mothers during pregnancy, labor, and birth. They work collaboratively with healthcare providers to ensure a positive and empowering birthing experience.<br><br>3. Postpartum Doula Care: Our postpartum doulas offer compassionate assistance to mothers and families during the crucial postpartum period. They provide practical support, newborn care guidance, breastfeeding support, and emotional well-being assistance to help families navigate the challenges of early parenthood.<br><br>4. Breastfeeding Support: We offer lactation consulting services to support breastfeeding mothers. Our certified lactation consultants provide personalized guidance, troubleshooting, and encouragement to ensure successful breastfeeding journeys.<br><br>5. Childbirth Education: The Mothered Village conducts comprehensive childbirth education classes that are culturally sensitive and inclusive. These classes empower expectant parents with knowledge about the birthing process, pain management techniques, informed decision-making, and strategies for a positive birth experience.<br><br>6. Perinatal Mental Health Support: Our team of volunteer perinatal mental health specialists offer counseling and therapy services to address the emotional well-being of BIOPIC mothers and families. We provide a safe space to discuss and manage perinatal mood disorders, anxiety, depression, and other mental health challenges or moms are referred out.<br><br>7. Advocacy and Education: The Mothered Village actively advocates for policy changes and improvements in maternal healthcare systems to address disparities faced by BIOPIC communities. We conduct educational workshops, seminars, and community outreach programs to raise awareness and empower individuals to become advocates for themselves and their communities.<br><br>8.Continuity of Care: We strive to assist with continuity of care throughout the perinatal period. This means providing consistent care doing pregnancy through the postpartum period, as well as facilitating appropriate referrals.<br><br>9. Community Building: We foster a supportive and nurturing community by organizing support groups, social events, and networking opportunities for BIOPIC mothers and families. These gatherings create spaces for sharing experiences, building friendships, and providing ongoing support beyond the perinatal period. Through these services and our commitment to cultural competence, The Mothered Village aims to create a transformative impact on maternal healthcare, ultimately striving for healthier, happier, and more resilient BIOPIC mothers, families, and communities.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/the-morthered-village/",
+    "address1":"7373 Scenic Hwy",
+    "address2":"Baton Rouge, LA 70807",
+    "contact":"facebook.com/slslaine",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3307658,32.7554883 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"The Natural Way Birthing Project - Nikia Lawson",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/The-Natural-Way-Logo.png",
+    "about":"The Natural Way Birthing Project~ Fort Worth\nNikia Lawson, Project Director<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/the-natural-way-birthing-project-nikia-lawson/",
+    "address1":"",
+    "address2":"Fort Worth, TX",
+    "contact":" https//www.facebook.com/TheNaturalWayBirthingProjectFtWorth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3323848,32.8820866 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"The Power Of Love Birth Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/12/Power-Of-Love-logo.png",
+    "about":"Serving Middle, GA - 31031, 31013, 31098, 30253, 31201\nFull spectrum doula, PAILadvocate, Maternal Health Consultant, Placenta encapsulator<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.thepoweroflovebirthservices.com/",
+    "address1":"",
+    "address2":"Gordon, GA 31031",
+    "contact":" https//www.instagram.com/thepoweroflovebirth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.3934303,47.6499734 ]
+    },
+    "properties": {
+    "state":"Washington",
+    "name":"The Shades of Motherhood Network",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-32.png",
+    "about":"Our mission is to ensure every Black mother and mother of an infant of color in the U.S. has a high-quality, culturally relevant childbirth experience.<br><br>Black mothers and mothers of babies of color in the United States are still facing significant problems during childbirth due to a lack of resources and support. We've established the Shades of Motherhood Network to fill in this gap by providing innovative resources like peer support groups, empowering community workshops, and comprehensive doula care.<br><br>We aim to offer no-cost doula care to 30 mothers while building the doula workforce through recruitment and development.We host inclusive peer groups where mothers and fathers of color can find a safe space to support each other. While our mission is national, we're launching in Spokane, WA. We utilize art activism, community workshops, data collection, and social media to equip Black mothers with practical knowledge and actionable steps to improve their health and well-being.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.theshadesofmotherhoodnetwork.org/",
+    "address1":"631 South Richard Allen Court",
+    "address2":"Spokane, WA",
+    "contact":"scourtney@somnetwork.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.4179324,36.778261 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"The Tatia Oden French Memorial Foundation",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Tatia-Oden-French-Memorial-Foundation-4.png",
+    "about":"Saving the lives of those giving life to others\n<a href=\"https://tatia.org/\">Tatia's Story</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://tatia.org/",
+    "address1":"",
+    "address2":"California",
+    "contact":"https://tatia.org/our-work/contact-us/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6927034,32.7948181 ]
+    },
+    "properties": {
+    "state":"Texas",
+    "name":"The Tree of Life Birth, Counseling & Wellness Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/The-Tree-Of-Life-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://thetreeoflifewellnesscenter.com",
+    "address1":"8035 E R L Thornton Fwy #328",
+    "address2":"Dallas, TX 75228",
+    "contact":" https//www.facebook.com/CECounselingServices/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8797077,35.052677 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"The Village Birth Space",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Untitled-design-14.png",
+    "about":"<br><br>Momma's Village-Fayetteville is a nonprofit organization with a mission to provide access to African-centered birth &amp; breastfeeding support, postpartum care, parenting education and mental health resources for Black families in Fayetteville/Ft. Bragg and the surrounding Sandhills region. Our focus is to provide quality care, services and resources to reduce Black maternal &amp; infant morbidity and mortality through our village of full-spectrum health professionals, peer supporters and elders from our community. In March, 2018, the FIRST Black doula training was held and 12 Black doulas were trained. Momma's Village Fayetteville has chosen to operate as a doula collective and NOT a doula agency because we wanted to make sure we were accessible to ALL women while honoring the principles of the African village concept. Often times, many doula agencies seem to be exclusive in their language, where they choose to offer their services, and how they market themselves. Our MVF Doula Sisters make sure that we follow the motto that Every Woman Deserves a Doula if it is desired. We have a total of five (5) active, trained doulas directly affiliated with MVF who provide pregnancy, birth and postpartum support, placenta encapsulation, lactation support, mental health support and a host of other services that honor our families during this special, sacred time. Our other trained doulas operate as independent doulas to increase access to Black doulas in our area. We look forward to the work that we will do in our community Perinatal Safe Spot, as we educate, promote, protect, and support our families so that we can help improve birth and health outcomes. We hope that through our service and dedication, we make a lasting impact that will benefit generations to come because it takes a village to impact a community.<br><br>Services offered (and ever expanding) include:<br><br><strong>BIRTH SERVICES </strong>\n<ul>\n \t<li>Birth Planning Consult</li>\n \t<li>Postpartum Planning Consult</li>\n \t<li>Postpartum Doula Services</li>\n \t<li>African-Centered Childbirth Education Class</li>\n \t<li>Prenatal &amp; Postpartum Nutrition Class</li>\n</ul>\n<strong>LACTATION SERVICES </strong>\n<ul>\n \t<li>Prenatal Lactation Consult</li>\n \t<li>Initial Postpartum Lactation Consult</li>\n \t<li>Oral Functional Assessment</li>\n \t<li>Relactation/Induction Consult</li>\n \t<li>Babyled Weaning Consult</li>\n \t<li>Pump/Pumping Plan Consult</li>\n</ul>\n<strong>ADDITIONAL SERVICES</strong>\n<ul>\n \t<li>Village Support Circles</li>\n \t<li>African-centered Parenting Class</li>\n \t<li>Preconception Planning Class</li>\n \t<li>Preconception Support Circle</li>\n</ul><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.mommasvillage.org",
+    "address1":"131 Hay St Ste. 201",
+    "address2":"Fayetteville, NC 28301",
+    "contact":" https//www.instagram.com/mommasvillagefay/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6267554,31.8240053 ]
+    },
+    "properties": {
+    "state":"Georgia",
+    "name":"The Village of Sacred Melanin",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"The Village of Sacred Melanin pioneers a comprehensive and cultural approach to birth work, education, and yoga that venerates Ancestral and traditional wisdom while weaving green living into the essence of our close-knit village. We are a wombman-led organization sewn by our rich culture of Afro-Indigenous roots. Still, our village is a patchwork of unified military families who we are honored to support. Our mission is to help our Military village harmonize their well being by seamlessly interweaving the tapestry of birth justice, maternal mental health, and wellness. We conceive of birthing an ecosystem that nourishes the wholistic well being of Military families throughout every stage of their reproductive journey, no matter where they are around the globe. <br><br>While Military families are frequently excluded from reproductive justice conversations, SÃ¡tin MarchÃ©, founder of The Village of Sacred Melanin, continues to challenge the conversation frameworks by advocating for justice on behalf of her Military village.<br><br>With intentions to rebirth the culture of childbirth within military culture through sustainable practices, SÃ¡tin MarchÃ© joins forces with Military Birth Resource Network Postpartum Coalition (MBRNPC), as a founding chapter leader at Fort Stewart, Hunter Army Airfield, GA.<br><br>https://www.mbrnpc.org/ft-stewart<br><br>SÃ¡tin's Certifications & Credentials include: <br><br>Kemetic Reiki I Practitioner - Ra Sekhi Arts Temple - January 2020\nKemetic Reiki II Practitioner - Ra Sekhi Arts Temple - July 2020\nWomb Yoga Dance Practitioner - Queen Afua Wellness Institute - September 2022\ndÅTERRA Essential Oil Specialist - September 2022\nWomb Wellness Facilitator and Fertility Strategist - The Mothership Institute of Womb Wellness - October 2022\nGreen Interior Decorating and Design - University of Texas, Arlington - January 2023\nChildbirth Educator - The Mothership Institute of Womb Wellness - December 2023\nAdult, Child, & Baby First Aid/CPR/AED - October 2023\nCertified Labor Doula (CLD) - Healthy Start of North Central FL (G.R.O.W Doula) - November 2023\nLactation Educator - Healthy Start of North Central FL - February 2024\nPostnatal Yoga Instructor - Awakened Spirit Yoga - June 2024\nCertified Baby Wearing Educator - Mammissi Birth Services - July 2024\nCertified Labor Doula (CLD) - Childbirth and Postpartum Professional Academy (CAPPA) at Oceanside Hypnobirthing - October 2024<br><br>We only accept Tricare insurance & private pay options from doula clients at this time.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Lactation, Birth Worker, Safe Spot, ",
+    "url":"https://www.thevillageofsacredmelanin.org/",
+    "address1":"946 Elma G Miles Pkwy Ste 101 #1006 ",
+    "address2":"Hinesville, GA 31313",
+    "contact":"contactsacredmelanin@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5033167,35.4921055 ]
+    },
+    "properties": {
+    "state":"Oklahoma",
+    "name":"The Village Sister",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/09/Untitled-design-30-1.png",
+    "about":"Arhia Ramsey of The Village Sister is a Traditional Midwife and Nurse that specializes in providing trauma informed care for those birthing outside of the hospital. Motivated by Oklahoma's maternal mortality rate, Arhia pursued midwifery as a foundational piece of liberation and birth sovereignty. She is also a trained Sexual Assault Nurse Examiner with experience in providing care to survivors of sexual assault and domestic violence.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Midwifery, Safe Spot, ",
+    "url":"https://www.thevillagesister.com",
+    "address1":"2300 N Lincoln Blvd",
+    "address2":"Oklahoma City, Oklahoma, OK 73105",
+    "contact":"thevillagesisterokc@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6841855,39.0504356 ]
+    },
+    "properties": {
+    "state":"Kansas",
+    "name":"Topeka Doula Project",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/05/Topeka-Doula-Project-logo.png",
+    "about":"We give free doula services to teens, incarcerated people, and families on Medicaid.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.topekadoula.org/",
+    "address1":"835 SW Polk St",
+    "address2":"Topeka, KS 66612",
+    "contact":" https//www.instagram.com/topekadoulaproject/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3001543,36.2216457 ]
+    },
+    "properties": {
+    "state":"North Carolina",
+    "name":"Total Maternal Support",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/09/perinataltaskforce-logo-total-maternal-support.webp",
+    "about":"Total Maternal Support (TMS) is a doula business built on a foundation of compassionate, client-centered care. Our mission is to serve mothers and their families where they are, helping them to achieve safe, satisfying, and dignified births and postpartum experiences on their terms. At TMS, we believe that your path is yours alone, and you will not be faced with judgment. We see you, we hear you, and we want what you want for you. We aim to inspire meaningful change in the landscape of outdated maternal care.<br><br>Our work is not\"\"one size fits all.\"\" Your individual needs supersede any checklist or agenda. We cater our services to our client's specific situations and tailor our support to your personal desires and needs, ensuring you feel safe, comfortable, individualized, and complete.<br><br>Our support extends far beyond the birth space. As you navigate postpartum and parenthood, TMS walks alongside you fully, wholeheartedly, and unconditionally. We also believe that every path to parenthood is valid and provide compassionate care for those using alternative reproductive solutions like surrogacy and gestational carrying as well.<br><br>As the founder and sole proprietor of Total Maternal Support, I am a certified and qualified professional committed to the well-being of families in my community backed by extensive training and expertise. I am a:<li> Red Cross certified in infant, child, and adult first aid, AED, CPR, BLS, and NRP.<li> Full spectrum doula trained by DTI.<li> Birth and postpartum doula trained by the International Doula Institute (IDI).<li> Birth doula trained by DONA.<li> WCPS trained to turn your sacred placenta into wellness tools.<li> International Doula Institute trained childbirth educator.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.totalmaternalsupport.com",
+    "address1":"741 Bitting Hall Cir",
+    "address2":"Rural Hall, NC 27045",
+    "contact":"Tmsdoula@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Transitions Women's Health Consulting",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Transitions-Womens-Health-Consulting-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"http://www.transitionswomenshealth.net",
+    "address1":"",
+    "address2":"New York, NY",
+    "contact":" https//www.instagram.com/transitionswhc/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2468148,33.9697897 ]
+    },
+    "properties": {
+    "state":"California",
+    "name":"Tribe Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/04/Tribe-Midwifery-Logo.png",
+    "about":"According to the CA Health Department:\n- Approximately one in seven African American babies are born too early or too small.\n- African American babies are more than twice as likely as White babies to die before their first birthdays.\n- African American women are much more likely than White women to die of pregnancy-related complications.\nSomething is seriously wrong with these statistics and it is our  mission to offer respectful prenatal care and contribute to reducing these disparities. We are committed to educate every pregnant woman, not just those who have access to premium care, about birth statistics and choices that will afford them their best possible birth outcome.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Midwifery",
+    "url":"https://www.tribemidwifery.com",
+    "address1":"",
+    "address2":"Firestone Park, CA 90001",
+    "contact":" https//www.facebook.com/profile.php?id=100063714754340",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6766186,27.793114 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Uma Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/01/UMA-Midwifery-logo-1.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.umamidwifery.com",
+    "address1":"3158 24th Ave N",
+    "address2":"St. Petersburg, FL 33713",
+    "contact":" https//www.instagram.com/umamidwifery/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.512617,41.8205199 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Umoja Nia Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/06/Umoja-Nia-Collective-Logo-700x400-1.png",
+    "about":"<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Our mission is to provide education and awareness through best practices in peer support services to those seeking assistance with maternal health decisions. Those most impacted by environmental and social determinants of health is our focus.</p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\"><strong>Umoja Nia Doula Collective Vision Statement</strong></p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Our vision is to create, engage and promote a collective of professionally and diversely trained doulas that identify in part or in whole as descending from the African diaspora.</p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Umoja Nia works collectively to promote and activate community-level maternal care to birthing families. We center members of our community that are most impacted by poor maternal outcomes including but not limited to, vulnerable populations, teen mothers, low resourced and low income families.</p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Reproductive justice is a cornerstone of our framework to dismantle negative determinants of health, biases and racism that continually manifest themselves in poor birth outcomes and mental health issues.</p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Umoja Nia provides safe and ethical referrals for:</p><br><br><ul class=\"n8H08c UVNKR\">\n \t<li class=\"TYR86d zfr3Q\" dir=\"ltr\">\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Culturally relevant and sensitive mental health therapists</p>\n</li>\n \t<li class=\"TYR86d zfr3Q\" dir=\"ltr\">\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Culturally competent life skill trainings</p>\n</li>\n \t<li class=\"TYR86d zfr3Q\" dir=\"ltr\">\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Best practices in maternal health education and rights</p>\n</li>\n \t<li class=\"TYR86d zfr3Q\" dir=\"ltr\">\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Empowerment and support within medical systems and institutions that are repressive to our population</p>\n</li>\n \t<li class=\"TYR86d zfr3Q\" dir=\"ltr\">\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Provision of resource connections such as pregnancy and infant loss support, insurance navigation, contraceptive education, and herbal nutrition</p>\n</li>\n</ul>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Umoja Nia Collective is a RI based Perinatal Doula collective of unique, diverse Community Based Full Spectrum Doulas who provide a range of perinatal service to families in the State.</p>\n<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\">Each doula business is independently owned and operated, while providing resources and support to each other for complementary services. If interested in any of the services, please reach out to each individual organization for more information.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://sites.google.com/view/umojaniari/home",
+    "address1":"",
+    "address2":"Johnston, RI 02919",
+    "contact":"journ3i@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "state":"Virginia",
+    "name":"Urban Baby Beginnings",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Urban-Baby-Beginnings-Logo.png",
+    "about":"<strong>Stephanie Spencer</strong>\n<strong>Founder &amp; Executive Director</strong><br><br>Urban Baby Beginnings was founded by Stephanie Spencer, a Registered Nurse, Perinatal Educator, and Doula. Our mission is to work with communities to ensure access to high quality maternal health services while intensifying efforts towards the improvement and prevention of adverse maternal and child health outcomes by addressing community risk factors.<br><br>At Urban Baby Beginnings our goal is decrease the rate of preterm birth, maternal morbidity, and infant/maternal mortality in Virginia and the surrounding areas by:<ul><li>increasing access to culturally appropriate care</li>\n \t<li>decreasing the risk of isolation by providing opportunities for social support; including doula services</li>\n \t<li>creating educational programs with a focus on empowering families to make informed decisions</li>\n \t<li>utilizing doulas trained to work with mothers who are at risk</li>\n \t<li>initiating appropriate training programs that focus on the professional development of doulas and perinatal educators through the Urban Baby Beginnings workforce innovation program</li>\n</ul>\n&nbsp;<br><br>Urban Baby Beginnings is headquartered in Richmond, Virginia. Our current offerings include pregnancy navigators, birth consultants, perinatal health workers, doula/lactation support, classes, boutique events, and more. Contact us for more information!<br><br>&nbsp;\nLike us on Facebook or donate now at: <a href=\"https://www.facebook.com/urbanbabybeginnings/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/urbanbabybeginnings/&amp;source=gmail&amp;ust=1543157644321000&amp;usg=AFQjCNG57l4qBtWvW-I8XcJQxebjCmpT1w\">https://www.facebook.com/urbanbabybeginnings/</a><br><br>\"People don't care what you know until they know that you care\"<br><br>To set a one on one appointment please visit <a href=\"https://calendly.com/urbanbabybeginnings\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://calendly.com/urbanbabybeginnings&amp;source=gmail&amp;ust=1543157644321000&amp;usg=AFQjCNGEUhsJkVP9XMvDt4gzEN-_u0rS8A\">https://calendly.com/urbanbabybeginnings</a><br><br>To refer a client please click on the link below to complete our referral form.<br><br><a href=\"https://form.jotform.com/urbanbabybeginnings/urban-baby-beginnings-community\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://form.jotform.com/urbanbabybeginnings/urban-baby-beginnings-community&amp;source=gmail&amp;ust=1543157644321000&amp;usg=AFQjCNF3TBlH3ykON0F8DeNPqkyxSCDV8w\">https://form.jotform.com/urbanbabybeginnings/urban-baby-beginnings-community</a><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.urbanbabybeginnings.org",
+    "address1":"",
+    "address2":"Richmond, VA",
+    "contact":" https//www.instagram.com/urbanbabybeginnings/?hl=en",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3726734,41.883184 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Urban Perinatal Education Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/03/Urban-Perinatal-Education-Centre-logo.png",
+    "about":"We serve all of Providence, Pawtucket and Central Falls\n02901-02909, 02860-02863\nChildbirth Education<br><br>Pre &amp; Post Prenatal Care w/ Midwife APRN<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.urbanperinatal.org",
+    "address1":"215 Cottage St.",
+    "address2":"Pawtucket, RI 02860",
+    "contact":" https//www.instagram.com/urbanperinatalri/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1637245,33.836081 ]
+    },
+    "properties": {
+    "state":"South Carolina",
+    "name":"USDI Baby Village",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2022/02/USDI-Baby-Village-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/usdi-baby-village/",
+    "address1":"",
+    "address2":"South Carolina",
+    "contact":"https://www.instagram.com/robin_usdiville/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1815515,36.2609813 ]
+    },
+    "properties": {
+    "state":"Nevada",
+    "name":"Vegas Family Doulas",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/06/Vegas-Family-Doulas-Logo-700x400-1.png",
+    "about":"Office Hours: 8am to 8pm<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.vegasfamilydoulas.com/",
+    "address1":"5575 N Simmons St 1 127 n",
+    "address2":"North Las Vegas, NV 89031",
+    "contact":" https//www.instagram.com/vegasfamilydoulas/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1675203,44.9482235 ]
+    },
+    "properties": {
+    "state":"Minnesota",
+    "name":"Vida Midwifery Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/05/Vida-Midwifery-Collective-Logo-.png",
+    "about":"Minnesota Black, Latinx &amp; Indigenous homebirth midwives offering full spectrum midwifery and lactation care for families in Minneapolis, St. Paul and surrounding suburbs. Se habla espanol!<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://vidamidwifery.org/vida-midwives",
+    "address1":"1619 Dayton Ave #111",
+    "address2":"St Paul, MN 55104",
+    "contact":" https//www.instagram.com/vida_midwifery/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1443331,43.02419 ]
+    },
+    "properties": {
+    "state":"New York",
+    "name":"Village Birth International",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/06/Village-Birth-International-Logo-700x400-1.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.villagebirthinternational.org",
+    "address1":"2331 S Salina St",
+    "address2":"Syracuse, NY 13205",
+    "contact":" https//www.instagram.com/villagebirthintl/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5242117,39.156704 ]
+    },
+    "properties": {
+    "state":"Delaware",
+    "name":"Voices Within U",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/VOICES-WITHIN-U-LLC-IS-A-HEALTHCARE-EDUCATIONAL-BRAND-HONORING-THE-LIFE-OF-ANNIE-MAE-WELLS-GRANDMOTHER-OF-FOUNDER-LA-TOYA-RENEE-MARTIN-A-BIRTHING-AND-POSTPARTUM-DANCING-FOR-BIRTH-PERINATAL-A.png",
+    "about":"VOICES WITHIN U, LLC, IS A HEALTHCARE EDUCATIONAL BRAND HONORING THE LIFE OF ANNIE MAE WELLS; GRANDMOTHER OF FOUNDER LA TOYA RENEE MARTIN; A BIRTHING AND POSTPARTUM DANCING FOR BIRTH PERINATAL AND BEREAVEMENT DOULA, BIRTHING EDUCATOR, PEANUT, BIRTHING BALL AND SAFE SLEEP AMBASSADOR, CHILD MATERNITY HEALTHCARE WORKER, LACTATION COUNSELOR, CHILD PASSENGER SAFETY TECHNICIAN, YOUTH AND ADULT MENTAL HEALTH FIRST AIDER, AUTHOR, ABSTRACT PAINTING ARTIST, AND MOM OF AN AUTISTIC AND MEDICALLY FRAGILE CHILD. \"VOICES WITHIN U, LLC\"; AIMS TO BRIDGE THE GAP IN MATERNITY HEALTHCARE TO THE BIPOC COMMUNITY, BIRTHING PEOPLE, SURVIVORS OF SEXUAL ASSAULT, MEDICALLY FRAGILE FAMILIES AND INDIVIDUALS, AUTISTIC AND MENTAL HEALTH COMMUNITIES, AS WELL AS WOMEN IN GENERAL; EXPERIENCING ADVERSITY ON THEIR JOURNEY TO MOTHERHOOD. PROCLAIMING THE MOTTO \"BIRTH YOUR WAY; REJOICE YOUR VOICE/SPEAK YOUR TRUTH\".<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/voices-within-u/",
+    "address1":"8 The Green",
+    "address2":"Dover, DE 19901",
+    "contact":" https//www.instagram.com/VoicesWithinU/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"Wild Life Doula",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/Untitled-design-18-1.png",
+    "about":"We provide Doula and Community Health Services for pregnant and postpartum people who have experienced arrest, incarceration, probation and parole, including juvenile detention.<br><br>Mission: To help create an attainable community re entry plan that provides supportive services needed to begin and sustain a healthier life filled with prosperity for themselves and their children.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://perinataltaskforce.com/listing/wild-life-doula/",
+    "address1":"",
+    "address2":"Providence, RI",
+    "contact":"https://www.instagram.com/wildtaino/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6163963,41.5896139 ]
+    },
+    "properties": {
+    "state":"Iowa",
+    "name":"Wild Olive Birth Company",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/07/Wild Olive Birth Company.png",
+    "about":"Wild Olive Birth Company offers perinatal services including national perinatal clinic, childbirth workshops, parent meetups, prenatal yoga, placenta encapsulation, and doula training, centering care for underserved families.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Childbirth, Doula, Lactation, Safe Spot, ",
+    "url":"https://www.wildolivebirth.com/",
+    "address1":"",
+    "address2":"Des Moines, IA",
+    "contact":"connect@wildolivebirth.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.2079935,30.5321104 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Wild Ros Midwifery",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/11/Untitled-design-15.png",
+    "about":"My name is Meagan Kennedy Hedger and I'm a Licensed Midwife working to bridge gaps within the birthing community and making care accessible to all. By doing so I hope to improve birth outcomes for women and babies of color.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://perinataltaskforce.com/listing/magnolia-midwifery-co/",
+    "address1":"2475 E 9 Mile Rd i",
+    "address2":"Pensacola, FL 32514",
+    "contact":" https//www.facebook.com/magnoliamidwiferyandco?mibextid=LQQJ4d",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5497632,43.0186073 ]
+    },
+    "properties": {
+    "state":"Wisconsin",
+    "name":"Wisconsin Doulas of Color Collective",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/06/Wisconsin-Doulas-of-Color-Collevtive-Logo-700x400-1.png",
+    "about":"<p class='ebgaramond' style='color: white'><strong>Tamara Thompson</strong> is an activist, lactation counselor, Doula, childbirth educator, and writer who has lived in Wisconsin since 2004. An interest in birth work grew from the years Tamara spent among peers within the African-American Breastfeeding Alliance of Dane County where social, cultural, and political intersections persistently emerged as factors to the organization's mission being realized.</p>\n<p class=\"\">Tamara attended a doula training led by the International Center for Traditional Childbirth in 2014 and made connections with like-minded people- of their shared visions the Wisconsin Doulas of Color Collective was subsequently formed. Later that year, Tamara co-founded Harambee Village, a community based organization providing direct services in Dane County, WI. Tamara is an aspiring midwife, and is also a founding member of Maroon Calabash, an Afro-Indigenous Birthwork Cooperative.</p>\n<p class=\"\">\"I am inspired by the legacies of African American midwives and because of them, I am answering a call to action to join the movement that addresses the many and complex ways race, gender, sexuality, physical ability, citizenship, incarceration, and income differentially affect birth outcomes and access to human milk in my community. I dedicate my energies toward fostering an inclusive and safe environment; advocating for (while practicing) radical self-love, mindfulness, peaceful communication, evidence based, and culturally informed work.\"  -Tamara N. Thompson</p>\n<p class=\"\">Tamara is based in Dane County, WI.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.widocc.org/ourdoulas",
+    "address1":"",
+    "address2":"Dane County, WI",
+    "contact":" https//www.instagram.com/Wisconsin_doulas_of_color/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3922785,41.8906553 ]
+    },
+    "properties": {
+    "state":"Rhode Island",
+    "name":"With Love Perinatal Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/05/With-Love-Perinatal-Services-logo.png",
+    "about":"With Love Perinatal Services LLC is a Latina/Indigenous owned Doula practice that aims to provide the BIPOC community with Full Spectrum Doula services in the state of Rhode Island. We are also very proud to be able to serve both Spanish and English speaking clients. We believe that we must approach every client with love, respect and without judgement or bias, regardless of race, religion, gender or age.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot, Doula",
+    "url":"https://www.withloveri.com/",
+    "address1":"",
+    "address2":"Central Falls, RI 02863",
+    "contact":"https://www.instagram.com/with_loveri/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6221014,39.301592 ]
+    },
+    "properties": {
+    "state":"Maryland",
+    "name":"Wombs of Wata x Writer in the Tub",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2024/11/WoW-Logo.jpg",
+    "about":"Writer in the Tub is private practice that blends traditional midwifery and evidence-based support for modern pregnant families. Our services include womb literacy, pregnancy and postpartum support, childbirth education, death support, and placenta encapsulation. WITT created Wombs of Wata in 2023 for birth workers, aspiring midwives, and perinatal community health workers to be well resourced and provided comprehensive care to pregnant families. We believe in rest, retreat, and preservation of traditional African practices. Learn more about our founder, Joyell Arvella, and inquire about womb-to-tomb care at www.writerinthetub.com. <br><br>We are based in Maryland but also travel for additional nominal fees. All of services are available on a sliding scale to be more accessible. <br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://www.wombsofwata.com/",
+    "address1":"301 W Preston St",
+    "address2":"Baltimore, MD 21201",
+    "contact":"hello@wombsofwata.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3569974,44.8543842 ]
+    },
+    "properties": {
+    "state":"Minnesota",
+    "name":"Women's Wellness and Parenting Support Center",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/06/Women's Wellness logo.png",
+    "about":"Women's Wellness &amp; Parenting Support Center (WWPSC) is a Minnesota-based nonprofit organization dedicated to providing comprehensive mental health and prenatal mental health services for women and children. We specialize in serving the Somali community through culturally tailored programs that honor clients' lived experiences and values. Our perinatal mental health and parenting support services are personalized to meet each client's unique goals. All care is delivered using trauma-informed, culturally responsive, and evidence-based practices to promote healing and resilience. Services are offered in both secure telehealth and in-person office settings to ensure accessibility and comfort for every family<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.womenswellnessmn.org",
+    "address1":"8500 Normandale Lake Blvd",
+    "address2":"Bloomington, MN 55437",
+    "contact":"wwpsc.mn@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1816093,34.0840249 ]
+    },
+    "properties": {
+    "state":"South Carolina",
+    "name":"Xola Serene Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/01/1000005734-rotated.jpg",
+    "about":"My name is Tia Tucker-Cain. The owner of Xola Serene Doula Services.  \nXola Serene's mission is to help improve birth outcomes and eliminate racial health inequities by providing compassionate, evidence based, and individualized support for our families through education,empowerment, and advocacy. I provide continuous physical, emotional, and informational support before, during, and after childbirth.In addition, postpartum and breastfeeding support is also provided. <br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://xolaserenedoulaservices.com/",
+    "address1":"7300 Woodrow Street",
+    "address2":"Irmo, SC 29063",
+    "contact":"Xolaserenedoulaservices@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9215418,36.0509965 ]
+    },
+    "properties": {
+    "state":"Oklahoma",
+    "name":"Y.S. Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/plugins/safe-spots-directory//assets/images/default_logo.png",
+    "about":"<p class='ebgaramond' style='color: white'>Y.S. Doula Services is created to serve individuals and families during their birthing journey. The birthing services provided are intentional to create a positive, supportive, and affirming birth experience for both the client and baby. Services are tailored to your values and the support you need. We intentionally prioritize serving BIPOC and 2SLGBTQIA+ Community.</p><br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Safe Spot, ",
+    "url":"https://ysdoulaservices.weebly.com/",
+    "address1":"7701 S Yale Ave",
+    "address2":"Tulsa, Oklahoma 74136",
+    "contact":"ysdoulaservices@gmail.com",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0758356,29.9508941 ]
+    },
+    "properties": {
+    "state":"Louisiana",
+    "name":"Yemaya's Village Inc",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2025/04/IMG_2011.jpeg",
+    "about":"We are 501c3 organization providing community doula support, reproductive health education and community outreach to Bipoc and Queer birthing youth ages 13-25.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Doula, Birth Worker, Safe Spot, ",
+    "url":"https://www.yemayasvillageinc.org/",
+    "address1":"",
+    "address2":"New Orleans, LA",
+    "contact":"Info@yemayasvillageinc.org",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3789269,28.5383832 ]
+    },
+    "properties": {
+    "state":"Florida",
+    "name":"Your Bold Birth",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2021/12/Your-Bold-Birth-logo.png",
+    "about":"<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.yourboldbirth.com",
+    "address1":"",
+    "address2":"Orlando, FL",
+    "contact":"https://www.instagram.com/yourboldbirth/",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5051166,41.6415654 ]
+    },
+    "properties": {
+    "state":"Iowa",
+    "name":"ZM Doula Services",
+    "image":"https://perinataltaskforce.com/wp-content/uploads/2023/10/Untitled-design-18.png",
+    "about":"Being a mother to 1 living Daughter and 4 angel babies including my son (Zeke Micheal) lost in infancy in 2022 this path was ultimately chosen for me. Having gained knowledge throughout my own natural births as well as seeing the medical disparities black women face, especially, pregnant black women. Being a mother to my own black daughter I feel as though it is a duty of mine to help continue to fill a gap that has ALWAYS been present in return helping to create more positive health outcomes to women of color. I also wish to serve families experiencing child loss of any degree as we are all connected in the most unfortunate circumstances. Empowered women, empower women. Empowered woman at your service.<br><center><a href='https://perinataltaskforce.com/safe-spots/' target='_blank'><img src='https://perinataltaskforce.com/wp-content/uploads/2024/09/NPTF-Badge-Design.png' alt='Designated Perinatal Safe Spot badge' height='auto' width='100'></a></center>",
+    "description":"Safe Spot",
+    "url":"https://www.zmdoulaservices.com",
+    "address1":"3500 8th St SW #1087",
+    "address2":"Altoona, IA 50009",
+    "contact":" https//www.facebook.com/profile.php?id=100094450388690",
+    "iconUrl":`safe-spot-logo.png`
+    }
+  }
 ];
