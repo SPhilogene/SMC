@@ -990,10 +990,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "1026 22nd Street",
-    "address2": "Orlando, FL 32805, USA",
+    "address2": "Orlando, FL 32805",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1003,10 +1003,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://3gemsbirthservices.com",
     "address1": "",
-    "address2": "St. Petersburg, FL, USA",
+    "address2": "St. Petersburg, FL",
     "contact": "https://www.instagram.com/3gemsbirthservices/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Massachusetts",
@@ -1016,10 +1016,10 @@
     "description": "Safe Spot",
     "url": "https://www.abucketforthewell.com/",
     "address1": "",
-    "address2": "Boston, MA, USA",
+    "address2": "Boston, MA",
     "contact": "https//www.instagram.com/abucketforthewell/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1029,10 +1029,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Orlando, FL, USA",
+    "address2": "Orlando, FL",
     "contact": "https://www.instagram.com/ahhdoulaservices/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1042,10 +1042,10 @@
     "description": "Childbirth, Birth Worker, Safe Spot,",
     "url": "https://www.alightafternine.org/",
     "address1": "",
-    "address2": "Atlanta, Georgia 30344, USA",
+    "address2": "Atlanta, Georgia 30344",
     "contact": "Info@alightafternine.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Colorado",
@@ -1055,10 +1055,10 @@
     "description": "Safe Spot",
     "url": "http://amcmbirth.com/index.html",
     "address1": "",
-    "address2": "Colorado Springs, CO, USA",
+    "address2": "Colorado Springs, CO",
     "contact": "https://www.facebook.com/csdoulaamc",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Nebraska",
@@ -1068,10 +1068,10 @@
     "description": "Safe Spot",
     "url": "https://www.amothersloveinc.org",
     "address1": "5480 North 90th Street",
-    "address2": "Omaha, Nebraska 68134, United States",
+    "address2": "Omaha, Nebraska 68134",
     "contact": "s.king@amothersloveinc.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1081,10 +1081,10 @@
     "description": "Safe Spot",
     "url": "https://www.abidewomen.org",
     "address1": "2612 Martin Luther King Jr Blvd",
-    "address2": "Dallas, TX 75215, USA",
+    "address2": "Dallas, TX 75215",
     "contact": "https//www.instagram.com/abide_women/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1094,10 +1094,10 @@
     "description": "Safe Spot",
     "url": "https://BelliestoBabiesFoundation.org",
     "address1": "201 Washington St SW",
-    "address2": "Atlanta, GA 30303, USA",
+    "address2": "Atlanta, GA 30303",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oklahoma",
@@ -1107,10 +1107,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.agapedoulaservice.com",
     "address1": "",
-    "address2": "Oklahoma City, OK, USA",
+    "address2": "Oklahoma City, OK",
     "contact": "https://www.instagram.com/agapedoula_primarymidwife/?fbclid=IwAR0T35EPLzMlpRQyXU2z0lhT5dSe-U09AfxFI9cAkBwFoM5iNvfCnGtkSLs",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -1120,10 +1120,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Ewing Township, NJ, USA",
+    "address2": "Ewing Township, NJ",
     "contact": "https//www.facebook.com/ahavahbirthworksorg/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1133,10 +1133,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://alagbarabirth.com/",
     "address1": "",
-    "address2": "Oklawaha Ave, Florida 32179, USA",
+    "address2": "Oklawaha Ave, Florida 32179",
     "contact": "https//www.instagram.com/alagbarabirth/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -1146,10 +1146,10 @@
     "description": "Safe Spot, Doula",
     "url": "http://www.ancientsongdoulaservices.com",
     "address1": "521 Halsey St",
-    "address2": "Brooklyn, NY 11233, USA",
+    "address2": "Brooklyn, NY 11233",
     "contact": "https//www.instagram.com/ancientsong/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1159,10 +1159,10 @@
     "description": "Safe Spot, CCI Certified Perinatal Educator",
     "url": "https://www.ancientbirth.com",
     "address1": "",
-    "address2": "Detroit, MI, USA",
+    "address2": "Detroit, MI",
     "contact": "https//www.instagram.com/birthisancient/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Alabama",
@@ -1172,10 +1172,10 @@
     "description": "Childbirth, Doula, Lactation, Midwifery, Birth Worker, Safe Spot,",
     "url": "https://aydhealwell.org/",
     "address1": "26 Danner Cir",
-    "address2": "Spanish Fort, AL 36527, USA",
+    "address2": "Spanish Fort, AL 36527",
     "contact": "tluna@aydhealwell.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Wisconsin",
@@ -1185,10 +1185,10 @@
     "description": "Safe Spot",
     "url": "https://ashlandbirthcenter.com/",
     "address1": "619 9th Ave W",
-    "address2": "Ashland, WI 54806, USA",
+    "address2": "Ashland, WI 54806",
     "contact": "savita@ashlandbirthcenter.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1198,10 +1198,10 @@
     "description": "Safe Spot",
     "url": "https://www.AtlantaBirthCenter.org",
     "address1": "1 Baltimore Pl NW",
-    "address2": "Atlanta, GA 30308, USA",
+    "address2": "Atlanta, GA 30308",
     "contact": "https//www.instagram.com/atlantabirthcenter/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1211,10 +1211,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.atlantadoulacollective.org/",
     "address1": "1237 Ralph David Abernathy Blvd SW",
-    "address2": "Atlanta, GA 30310, USA",
+    "address2": "Atlanta, GA 30310",
     "contact": "https//www.instagram.com/atlantadoulacollective/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Illinois",
@@ -1224,10 +1224,10 @@
     "description": "Childbirth, Doula, Birth Worker, Safe Spot,",
     "url": "https://www.baniainc.com/",
     "address1": "",
-    "address2": "Chicago, IL, USA",
+    "address2": "Chicago, IL",
     "contact": "info@baniainc.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Louisiana",
@@ -1237,10 +1237,10 @@
     "description": "Safe Spot",
     "url": "https://www.babycatcherbirthcenter.com",
     "address1": "510 W University Ave",
-    "address2": "Lafayette, LA 70501, USA",
+    "address2": "Lafayette, LA 70501",
     "contact": "www.instagram.com/babycatcherbirthcenter",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -1250,10 +1250,10 @@
     "description": "Safe Spot",
     "url": "https://www.baeculture.org/",
     "address1": "",
-    "address2": "Philadelphia, PA, USA",
+    "address2": "Philadelphia, PA",
     "contact": "https://www.instagram.com/bae_hood/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -1263,10 +1263,10 @@
     "description": "Safe Spot",
     "url": "https://www.mostbeautifulwombinc.org/",
     "address1": "1021 South Main Street",
-    "address2": "Pleasantville, NJ 08232, USA",
+    "address2": "Pleasantville, NJ 08232",
     "contact": "https://www.instagram.com/beautiful_womb/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "South Carolina",
@@ -1276,10 +1276,10 @@
     "description": "Safe Spot",
     "url": "https://www.beecollective.co/",
     "address1": "",
-    "address2": "Charleston, SC 29401, USA",
+    "address2": "Charleston, SC 29401",
     "contact": "www.facebook.com/beecollectivesc",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1289,10 +1289,10 @@
     "description": "Safe Spot",
     "url": "https://BelliestoBabiesFoundation.org",
     "address1": "201 Washington St SW",
-    "address2": "Atlanta, GA 30303, USA",
+    "address2": "Atlanta, GA 30303",
     "contact": "https//www.facebook.com/BelliestoBabiesEvents",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1302,10 +1302,10 @@
     "description": "Safe Spot",
     "url": "https://bhhealthcenter.wixsite.com/bhhealthcenter",
     "address1": "756 Pipestone St ste 2",
-    "address2": "Benton Harbor, MI 49022, USA",
+    "address2": "Benton Harbor, MI 49022",
     "contact": "756bhhc@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1315,10 +1315,10 @@
     "description": "Safe Spot",
     "url": "https://www.bethanyebirthco.com",
     "address1": "206 N Patterson St",
-    "address2": "Valdosta, GA 31601, USA",
+    "address2": "Valdosta, GA 31601",
     "contact": "https//www.instagram.com/bethanyebirthco/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Nebraska",
@@ -1328,10 +1328,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.bijouxbabies.com",
     "address1": "",
-    "address2": "Omaha, NE, USA",
+    "address2": "Omaha, NE",
     "contact": "https//www.instagram.com/bijouxbabiesdoulas/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Illinois",
@@ -1341,10 +1341,10 @@
     "description": "Safe Spot",
     "url": "https://www.ucimc.org/bipocforbetterbirth",
     "address1": "202 S Broadway Ave #212",
-    "address2": "Urbana, IL 61801, USA",
+    "address2": "Urbana, IL 61801",
     "contact": "https//www.instagram.com/bipocforbetterbirth/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -1354,10 +1354,10 @@
     "description": "Doula, Lactation, Birth Worker, Safe Spot,",
     "url": "https://www.birthbyqueens.org/",
     "address1": "177-19 120th Ave",
-    "address2": "Jamaica, NY 11434, USA",
+    "address2": "Jamaica, NY 11434",
     "contact": "info@birthbyqueens.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1367,10 +1367,10 @@
     "description": "Safe Spot",
     "url": "https://www.birth-connections.com/",
     "address1": "",
-    "address2": "Stonecrest, GA, USA",
+    "address2": "Stonecrest, GA",
     "contact": "https//www.instagram.com/birthconnections/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1380,10 +1380,10 @@
     "description": "Safe Spot, Easy Access Clinic",
     "url": "https://www.birthdetroit.com",
     "address1": "16919 Prairie St",
-    "address2": "Detroit, MI 48221, USA",
+    "address2": "Detroit, MI 48221",
     "contact": "https//www.instagram.com/birthdetroit/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -1393,10 +1393,10 @@
     "description": "Safe Spot, Midwifery, Doula",
     "url": "https://birthfromtheearth.org",
     "address1": "",
-    "address2": "Yonkers, NY, USA",
+    "address2": "Yonkers, NY",
     "contact": "https://www.instagram.com/birthfromtheearth/?hl=en",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -1406,10 +1406,10 @@
     "description": "Safe Spot",
     "url": "https://www.birthincolorrva.org",
     "address1": "701 E Grace St",
-    "address2": "Richmond, VA 23219, USA",
+    "address2": "Richmond, VA 23219",
     "contact": "https//www.instagram.com/birthincolorrva/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1419,10 +1419,10 @@
     "description": "Midwifery, Safe Spot,",
     "url": "https://www.birthinthetradition.com/",
     "address1": "",
-    "address2": "Atlanta, GA 30345, USA",
+    "address2": "Atlanta, GA 30345",
     "contact": "https//www.instagram.com/birthinthetradition/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -1432,10 +1432,10 @@
     "description": "Safe Spot",
     "url": "https://www.birthsistersdoula.com",
     "address1": "",
-    "address2": "North Carolina, USA",
+    "address2": "North Carolina",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -1445,10 +1445,10 @@
     "description": "Safe Spot",
     "url": "http://www.birthsistersdoula.com",
     "address1": "",
-    "address2": "Knightdale, NC 27545, USA",
+    "address2": "Knightdale, NC 27545",
     "contact": "https//www.instagram.com/birthsistersdoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -1458,10 +1458,10 @@
     "description": "Safe Spot",
     "url": "https://birthersunited.com/",
     "address1": "5927 Fisher Rd",
-    "address2": "Fort Washington, MD 20744, USA",
+    "address2": "Fort Washington, MD 20744",
     "contact": "https//www.instagram.com/birthsupportersunited/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "",
@@ -1474,7 +1474,7 @@
     "address2": "",
     "contact": "brainbuildingconsulting@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1484,10 +1484,10 @@
     "description": "Safe Spot",
     "url": "https://www.birthingdestiny.com",
     "address1": "",
-    "address2": "Maitland, FL, USA",
+    "address2": "Maitland, FL",
     "contact": "https://www.instagram.com/birthing.destiny/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -1497,10 +1497,10 @@
     "description": "Doula, Lactation, Birth Worker, Home Visitor, Safe Spot,",
     "url": "https://lakeeriebirthroot.org/",
     "address1": "650 East Ave #106",
-    "address2": "Erie, PA 16503, USA",
+    "address2": "Erie, PA 16503",
     "contact": "info@lakeeriebirthroot.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Wisconsin",
@@ -1510,10 +1510,10 @@
     "description": "Safe Spot",
     "url": "https://birthworkersunited.org",
     "address1": "5305 West Capitol Drive #4",
-    "address2": "Milwaukee, Wisconsin 53216, United States",
+    "address2": "Milwaukee, Wisconsin 53216",
     "contact": "vanessajohnson@nurturingmiracles.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1523,10 +1523,10 @@
     "description": "Safe Spot",
     "url": "https://www.blackbirthhealer.com",
     "address1": "",
-    "address2": "Jacksonville, FL, USA",
+    "address2": "Jacksonville, FL",
     "contact": "https//www.instagram.com/blackbirthhealer/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Kentucky",
@@ -1536,10 +1536,10 @@
     "description": "Safe Spot",
     "url": "https://www.blackbirthjustice.org",
     "address1": "",
-    "address2": "Louisville, KY, USA",
+    "address2": "Louisville, KY",
     "contact": "https://www.facebook.com/blackbirthjustice",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1549,10 +1549,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://blackmamasatx.com/",
     "address1": "",
-    "address2": "Austin, TX 78723, USA",
+    "address2": "Austin, TX 78723",
     "contact": "https//www.instagram.com/blackmamas_atx/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -1562,10 +1562,10 @@
     "description": "Safe Spot",
     "url": "https://www.blkbry.com",
     "address1": "155 SW 152nd St # A",
-    "address2": "Burien, WA 98166, USA",
+    "address2": "Burien, WA 98166",
     "contact": "https//www.instagram.com/blkbryllc",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Mississippi",
@@ -1575,10 +1575,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://www.tupelomidwife.com/",
     "address1": "1800 W Main St",
-    "address2": "Tupelo, MS 38801, USA",
+    "address2": "Tupelo, MS 38801",
     "contact": "https//www.instagram.com/whozyourmidwife/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Delaware",
@@ -1588,10 +1588,10 @@
     "description": "Safe Spot",
     "url": "https://www.blackmothersinpower.org/",
     "address1": "2215 Washington St",
-    "address2": "Wilmington, DE 19802, USA",
+    "address2": "Wilmington, DE 19802",
     "contact": "https//www.instagram.com/blackmothersinpower/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -1601,10 +1601,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.BoldDoula.com",
     "address1": "",
-    "address2": "New York, NY, USA",
+    "address2": "New York, NY",
     "contact": "https://www.instagram.com/bolddoula/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1614,10 +1614,10 @@
     "description": "Safe Spot",
     "url": "https://www.bfsuccess.com",
     "address1": "111 Ramble Ln #115",
-    "address2": "Austin, TX 78745, USA",
+    "address2": "Austin, TX 78745",
     "contact": "https//www.instagram.com/breastfeedingsuccess/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Mexico",
@@ -1627,10 +1627,10 @@
     "description": "Safe Spot",
     "url": "https://breathofmyheart.org",
     "address1": "905 Cll Armada",
-    "address2": "Espanola, NM 87532, USA",
+    "address2": "Espanola, NM 87532",
     "contact": "https//www.instagram.com/breathofmyheart.birthplace/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1640,10 +1640,10 @@
     "description": "Safe Spot",
     "url": "https://www.bumptobirthdoulaservices.com",
     "address1": "",
-    "address2": "Grand Rapids, MI, USA",
+    "address2": "Grand Rapids, MI",
     "contact": "https//www.instagram.com/bumptobirthdoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -1653,10 +1653,10 @@
     "description": "Safe Spot",
     "url": "https://carrierconnectionsri.wixsite.com/cc-ri",
     "address1": "",
-    "address2": "Providence, RI 02909, USA",
+    "address2": "Providence, RI 02909",
     "contact": "https//m.facebook.com/carrierconnectionsri/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Iowa",
@@ -1666,10 +1666,10 @@
     "description": "Safe Spot",
     "url": "https://www.centeringjoydoula.com",
     "address1": "",
-    "address2": "Dubuque, IA, USA",
+    "address2": "Dubuque, IA",
     "contact": "https://www.facebook.com/profile.php?id=100093673891311&mibextid=LQQJ4d",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -1679,10 +1679,10 @@
     "description": "Safe Spot",
     "url": "https://www.centrahealth.com/services/women-and-childrens-services",
     "address1": "",
-    "address2": "Lynchburg, VA, USA",
+    "address2": "Lynchburg, VA",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1692,10 +1692,10 @@
     "description": "Safe Spot",
     "url": "https://www.centralfloridabirthnetwork.org/",
     "address1": "501 N Orlando Ave ste 313 188",
-    "address2": "Winter Park, FL 32789, USA",
+    "address2": "Winter Park, FL 32789",
     "contact": "info@centralfloridabirthnetwork.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "San Juan",
@@ -1708,7 +1708,7 @@
     "address2": "San Juan, 00921, Puerto Rico",
     "contact": "https//instagram.com/centromam",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Mexico",
@@ -1718,10 +1718,10 @@
     "description": "Safe Spot",
     "url": "https://cwi-health.org/",
     "address1": "460 St Michaels Dr Suite 804",
-    "address2": "Santa Fe, NM 87505, USA",
+    "address2": "Santa Fe, NM 87505",
     "contact": "https//www.instagram.com/changingwomaninitiative/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -1731,10 +1731,10 @@
     "description": "Safe Spot",
     "url": "https://www.childbirthoptions.net",
     "address1": "",
-    "address2": "Wesley Chapel, FL, USA",
+    "address2": "Wesley Chapel, FL",
     "contact": "www.instagram.com/childbirthoptions",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -1744,10 +1744,10 @@
     "description": "Doula, Home Visitor, Safe Spot,",
     "url": "https://choicesinwellness.com/",
     "address1": "2409 Crabtree Blvd Ste 107",
-    "address2": "Raleigh, NC 27604, USA",
+    "address2": "Raleigh, NC 27604",
     "contact": "Info@choicesinwellness.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -1757,10 +1757,10 @@
     "description": "Safe Spot",
     "url": "https://www.cocolife.black/",
     "address1": "",
-    "address2": "Philadelphia, PA, USA",
+    "address2": "Philadelphia, PA",
     "contact": "https://www.instagram.com/cocolife.black/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1770,10 +1770,10 @@
     "description": "Safe Spot",
     "url": "https://www.atxccu.org/about",
     "address1": "701 Tillery St",
-    "address2": "Austin, TX 78702, USA",
+    "address2": "Austin, TX 78702",
     "contact": "https//www.instagram.com/ccu_coalition/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Louisiana",
@@ -1783,10 +1783,10 @@
     "description": "Safe Spot",
     "url": "https://communitybirthcompanion.org",
     "address1": "536 S Court St",
-    "address2": "Opelousas, Louisiana 70570, United States",
+    "address2": "Opelousas, Louisiana 70570",
     "contact": "cbcopelousas@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "District of Columbia",
@@ -1796,10 +1796,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://www.communityofhopedc.org/healthcare/birth-services",
     "address1": "4 Atlantic St SW",
-    "address2": "Washington, DC 20032, USA",
+    "address2": "Washington, DC 20032",
     "contact": "https//www.instagram.com/cohdc/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1809,10 +1809,10 @@
     "description": "Safe Spot",
     "url": "https://www.communitywellnesstyler.com/",
     "address1": "504 S Bonner Ave",
-    "address2": "Tyler, TX 75702, USA",
+    "address2": "Tyler, TX 75702",
     "contact": "https//www.instagram.com/communitywellnesstyler/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -1822,10 +1822,10 @@
     "description": "Safe Spot, Childbirth",
     "url": "https://www.meetconnexion.com",
     "address1": "",
-    "address2": "North Providence, RI, USA",
+    "address2": "North Providence, RI",
     "contact": "https://www.instagram.com/meetconnexion/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Ohio",
@@ -1835,10 +1835,10 @@
     "description": "Doula, Lactation, Birth Worker, Safe Spot,",
     "url": "https://www.libbybusyby.com/cultivatedcare",
     "address1": "790 Bulen Ave",
-    "address2": "Columbus, OH 43205, USA",
+    "address2": "Columbus, OH 43205",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Minnesota",
@@ -1848,10 +1848,10 @@
     "description": "Safe Spot",
     "url": "http://www.culturalwellnesscenter.org/",
     "address1": "2025 Portland Ave",
-    "address2": "Minneapolis, MN 55404, USA",
+    "address2": "Minneapolis, MN 55404",
     "contact": "https//www.instagram.com/culturalwellnesscenter/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1861,10 +1861,10 @@
     "description": "Safe Spot",
     "url": "https://mailchi.mp/89d7a1dda8e3/day-one-doula-collective?fbclid=IwAR0gN71ItybV1mPGKe3TSCVa_ZMSFHoNRi5EFUIyk2VcGUPB5G7dNgjVqg0",
     "address1": "935 Baxter St SE,",
-    "address2": "Grand Rapids, MI 49506, USA",
+    "address2": "Grand Rapids, MI 49506",
     "contact": "https//www.instagram.com/dayonedoulacollective/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -1874,10 +1874,10 @@
     "description": "Safe Spot, Midwifery, Doula",
     "url": "https://www.delaflormidwifery.com/",
     "address1": "",
-    "address2": "Grand Rapids, MI, USA",
+    "address2": "Grand Rapids, MI",
     "contact": "https//www.instagram.com/delaflormidwifery/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1887,10 +1887,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.shopdeephoney.com",
     "address1": "",
-    "address2": "Atlanta, GA 30315, USA",
+    "address2": "Atlanta, GA 30315",
     "contact": "https//www.instagram.com/deephoney/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1900,10 +1900,10 @@
     "description": "Safe Spot",
     "url": "https://www.delenathedoula.com/",
     "address1": "",
-    "address2": "Atlanta, GA, USA",
+    "address2": "Atlanta, GA",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -1913,10 +1913,10 @@
     "description": "Safe Spot",
     "url": "https://delightedtodoula.com/",
     "address1": "",
-    "address2": "Dallas County, TX, USA",
+    "address2": "Dallas County, TX",
     "contact": "https//www.instagram.com/delightedtodoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Alabama",
@@ -1926,10 +1926,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://diamonds-for-doulas.square.site/",
     "address1": "535 Jack Warner Pkwy suite i",
-    "address2": "Tuscaloosa, Alabama 35404, USA",
+    "address2": "Tuscaloosa, Alabama 35404",
     "contact": "diamondsfordoulas@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -1939,10 +1939,10 @@
     "description": "Safe Spot",
     "url": "https://empressgigidoula.wixsite.com/divingeriendijn",
     "address1": "",
-    "address2": "Pittsburgh, PA, USA",
+    "address2": "Pittsburgh, PA",
     "contact": "https//www.instagram.com/divingeriendijen/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -1952,10 +1952,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.joanne-stevens.com",
     "address1": "",
-    "address2": "Henrico, VA 23294, USA",
+    "address2": "Henrico, VA 23294",
     "contact": "",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Indiana",
@@ -1965,10 +1965,10 @@
     "description": "Safe Spot",
     "url": "https://perinataltaskforce.com/listing/divine-soulas/",
     "address1": "100 N Senate Ave",
-    "address2": "Indianapolis, IN 46204, USA",
+    "address2": "Indianapolis, IN 46204",
     "contact": "instagram.com/Divinesoulas",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Delaware",
@@ -1978,10 +1978,10 @@
     "description": "Safe Spot",
     "url": "https://docaredoulafoundationinc.org",
     "address1": "",
-    "address2": "Smyrna, DE 19977, USA",
+    "address2": "Smyrna, DE 19977",
     "contact": "https//www.facebook.com/DoCareDoulaFoundationInc",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -1991,10 +1991,10 @@
     "description": "Safe Spot",
     "url": "https://www.douladivinebygabrielle.com",
     "address1": "",
-    "address2": "Covington, GA, USA",
+    "address2": "Covington, GA",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2004,10 +2004,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://www.doulawithapurpose.com",
     "address1": "8440 Greenhouse Rd",
-    "address2": "Cypress, Texas 77433, United States",
+    "address2": "Cypress, Texas 77433",
     "contact": "doulawithapurpose@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -2017,10 +2017,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.douladbyjanae.com/",
     "address1": "",
-    "address2": "San Leandro, CA, USA",
+    "address2": "San Leandro, CA",
     "contact": "https//www.instagram.com/douladbyjanae/?hl=en",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -2030,10 +2030,10 @@
     "description": "Safe Spot",
     "url": "https://perinataltaskforce.com/listing/doulas-conectas-of-ri/",
     "address1": "",
-    "address2": "Central Falls, RI 02863, USA",
+    "address2": "Central Falls, RI 02863",
     "contact": "https://www.instagram.com/doulasconectadasri/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2043,10 +2043,10 @@
     "description": "Safe Spot",
     "url": "https://www.drvernette.com",
     "address1": "",
-    "address2": "Kennesaw, GA 30144, USA",
+    "address2": "Kennesaw, GA 30144",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2056,10 +2056,10 @@
     "description": "Safe Spot",
     "url": "http://dulcebirthingservices.com",
     "address1": "5201 S Clear Creek Rd",
-    "address2": "Killeen, TX 76549, USA",
+    "address2": "Killeen, TX 76549",
     "contact": "https//www.instagram.com/dulcebirth/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Connecticut",
@@ -2069,10 +2069,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://earthsnaturaltouch.com/",
     "address1": "",
-    "address2": "Bridgeport, CT, USA",
+    "address2": "Bridgeport, CT",
     "contact": "https://www.instagram.com/EarthsNaturalTouch/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2082,10 +2082,10 @@
     "description": "Childbirth, Doula, Safe Spot,",
     "url": "https://www.evonnachristmon.com/",
     "address1": "",
-    "address2": "Atlanta, GA, USA",
+    "address2": "Atlanta, GA",
     "contact": "earthside@evonnachristmon.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2095,10 +2095,10 @@
     "description": "Safe Spot",
     "url": "http://easyaccessclinic.com/",
     "address1": "6889 W Colonial Dr",
-    "address2": "Orlando, FL 32818, USA",
+    "address2": "Orlando, FL 32818",
     "contact": "https//www.facebook.com/EasyAccessClinic/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2108,10 +2108,10 @@
     "description": "Safe Spot",
     "url": "http://www.embraceyourbirthdoula.com",
     "address1": "",
-    "address2": "Orlando, FL, USA",
+    "address2": "Orlando, FL",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -2121,10 +2121,10 @@
     "description": "Safe Spot",
     "url": "https://perinataltaskforce.com/listing/erikas-doula-do/",
     "address1": "6725 Daly Rd",
-    "address2": "West Bloomfield Township, MI 48322, USA",
+    "address2": "West Bloomfield Township, MI 48322",
     "contact": "https//www.instagram.com/erikadoulado1908/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -2134,10 +2134,10 @@
     "description": "Safe Spot",
     "url": "https://esan-doula-services.square.site/",
     "address1": "",
-    "address2": "Yonkers, NY, USA",
+    "address2": "Yonkers, NY",
     "contact": "https//www.instagram.com/esan_doula_llc/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Delaware",
@@ -2147,10 +2147,10 @@
     "description": "Safe Spot",
     "url": "https://www.yolandatoole.com",
     "address1": "",
-    "address2": "Newark, DE, USA",
+    "address2": "Newark, DE",
     "contact": "https//www.instagram.com/yolandaevolved/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "",
@@ -2163,20 +2163,20 @@
     "address2": "",
     "contact": "fwbirthcenter@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
     "name": "For The Village, Inc",
     "image": "https://perinataltaskforce.com/wp-content/uploads/2023/08/Untitled-design-30.png",
-    "about": "Our mission is to provide free doula services to all families in the San Diego area with an emphasis on marginalized groups â€“ people of color, LBGTQIA, Black Immigrant, Refugee and low-income families. Advocating for these same marginalized groups in the San Diego area. We want to support EVERYONE in their birthing journeys. We also provide Full Spectrum support, Childbirth and Lactation Education, and Postpartum Parent Companion Support.",
+    "about": "Our mission is to provide free doula services to all families in the San Diego area with an emphasis on marginalized groups: people of color, LBGTQIA, Black Immigrant, Refugee and low-income families. Advocating for these same marginalized groups in the San Diego area. We want to support EVERYONE in their birthing journeys. We also provide Full Spectrum support, Childbirth and Lactation Education, and Postpartum Parent Companion Support.",
     "description": "Safe Spot, Doula",
     "url": "https://forthevillage.org/",
     "address1": "1600 Pacific Hwy",
-    "address2": "San Diego, CA 92101, USA",
+    "address2": "San Diego, CA 92101",
     "contact": "https//www.instagram.com/forthevillageinc/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -2186,10 +2186,10 @@
     "description": "Safe Spot",
     "url": "https://www.foremothersbirth.com",
     "address1": "",
-    "address2": "Newark, NJ, USA",
+    "address2": "Newark, NJ",
     "contact": "https://www.instagram.com/midwife_nili/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -2199,10 +2199,10 @@
     "description": "Safe Spot",
     "url": "https://gathergroundedmidwifery.com/",
     "address1": "235 Wylderose Ct",
-    "address2": "Midlothian, VA 23113, USA",
+    "address2": "Midlothian, VA 23113",
     "contact": "https//www.instagram.com/gathergroundedmidwifery/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -2212,10 +2212,10 @@
     "description": "Safe Spot",
     "url": "https://www.genesisbirth.org",
     "address1": "",
-    "address2": "Williamsport, PA, USA",
+    "address2": "Williamsport, PA",
     "contact": "https://www.instagram.com/genesisbirthservices/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -2225,10 +2225,10 @@
     "description": "Safe Spot",
     "url": "http://gentlespiritbirth.com",
     "address1": "",
-    "address2": "New York, NY, USA",
+    "address2": "New York, NY",
     "contact": "https//www.instagram.com/gentlespiritbirth/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oklahoma",
@@ -2238,10 +2238,10 @@
     "description": "Safe Spot",
     "url": "https://www.ifwinc.org",
     "address1": "7503 W 60th Pl N",
-    "address2": "Tulsa, OK 74126, USA",
+    "address2": "Tulsa, OK 74126",
     "contact": "hello@ifwinc.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -2251,10 +2251,10 @@
     "description": "Safe Spot",
     "url": "https://www.globalmidwiferyservices.com/",
     "address1": "15203 8th Ave S",
-    "address2": "Burien, Washington 98148, United States",
+    "address2": "Burien, Washington 98148",
     "contact": "globalmidwifery1@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -2264,10 +2264,10 @@
     "description": "Safe Spot",
     "url": "https://www.globalperinatal.org/",
     "address1": "15203 8th Ave S",
-    "address2": "Burien, Washington 98148, United States",
+    "address2": "Burien, Washington 98148",
     "contact": "info@globalperinatal.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Hawaii",
@@ -2277,10 +2277,10 @@
     "description": "Midwifery, Safe Spot,",
     "url": "https://www.halekealaulallc.com/",
     "address1": "1188 Bishop St #1509",
-    "address2": "Honolulu, HI 96813, USA",
+    "address2": "Honolulu, HI 96813",
     "contact": "info@halekealaulallc.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -2290,10 +2290,10 @@
     "description": "Safe Spot",
     "url": "https://perinataltaskforce.com/listing/halimah-washington/",
     "address1": "",
-    "address2": "New York, NY, USA",
+    "address2": "New York, NY",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Arkansas",
@@ -2303,10 +2303,10 @@
     "description": "Safe Spot",
     "url": "https://harmonyandlovedoula.com",
     "address1": "",
-    "address2": "Little Rock, AR, USA",
+    "address2": "Little Rock, AR",
     "contact": "http//instagram.com/harmonyandlovedoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Illinois",
@@ -2316,10 +2316,10 @@
     "description": "Safe Spot",
     "url": "https://www.hathordoulaservices.com/",
     "address1": "",
-    "address2": "Carbondale, IL, USA",
+    "address2": "Carbondale, IL",
     "contact": "https://www.instagram.com/hathor_doula_services/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "",
@@ -2332,7 +2332,7 @@
     "address2": "",
     "contact": "https//www.facebook.com/HealingHandsCommunityDoulaProject/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -2342,10 +2342,10 @@
     "description": "Safe Spot",
     "url": "https://www.healthyheartsplus2.com",
     "address1": "705 Twinridge Ln #6",
-    "address2": "North Chesterfield, VA 23235, USA",
+    "address2": "North Chesterfield, VA 23235",
     "contact": "https//www.facebook.com/healthyheartplus",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Hawaii",
@@ -2355,10 +2355,10 @@
     "description": "Safe Spot",
     "url": "https://www.hmhb-hawaii.org",
     "address1": "245 N Kukui St #102A",
-    "address2": "Honolulu, HI 96817, USA",
+    "address2": "Honolulu, HI 96817",
     "contact": "https//www.instagram.com/hmhbhawaii/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -2368,10 +2368,10 @@
     "description": "Safe Spot",
     "url": "https://www.facebook.com/hellobabybaltimore/",
     "address1": "",
-    "address2": "Baltimore, MD 21201, USA",
+    "address2": "Baltimore, MD 21201",
     "contact": "https//www.facebook.com/hellobabybaltimore/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2381,10 +2381,10 @@
     "description": "Safe Spot",
     "url": "https://behervillage.com/partners/thehighlyblessedcollectiveinc",
     "address1": "",
-    "address2": "Altamonte Springs, FL, USA",
+    "address2": "Altamonte Springs, FL",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2394,10 +2394,10 @@
     "description": "Safe Spot",
     "url": "https://iamwoman-wellness.com",
     "address1": "",
-    "address2": "Richmond, TX, USA",
+    "address2": "Richmond, TX",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2407,10 +2407,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://thegoddessmidwife.com",
     "address1": "5536 Bluegrass Dr",
-    "address2": "Atlanta, GA 30349, USA",
+    "address2": "Atlanta, GA 30349",
     "contact": "https//www.instagram.com/thegoddessmidwife/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2420,10 +2420,10 @@
     "description": "Safe Spot",
     "url": "https://idoulove.square.site/?mibextid=Zxz2cZ",
     "address1": "",
-    "address2": "Ocala, FL, USA",
+    "address2": "Ocala, FL",
     "contact": "https://www.instagram.com/idoulove/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oregon",
@@ -2433,10 +2433,10 @@
     "description": "Safe Spot, Midwifery, Doula",
     "url": "https://www.ictcmidwives.org",
     "address1": "",
-    "address2": "Portland, OR, USA",
+    "address2": "Portland, OR",
     "contact": "",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Iowa",
@@ -2446,10 +2446,10 @@
     "description": "Safe Spot",
     "url": "https://www.iowablackdoulas.com",
     "address1": "",
-    "address2": "Davenport, IA 52804, USA",
+    "address2": "Davenport, IA 52804",
     "contact": "https//www.facebook.com/IowaBlackDoulas",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2459,10 +2459,10 @@
     "description": "Safe Spot",
     "url": "https://www.itsmorethanmilk.com",
     "address1": "2222 Western Trails Blvd Unit 101",
-    "address2": "Austin, TX 78745, USA",
+    "address2": "Austin, TX 78745",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2472,10 +2472,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://brand.site/ivyoudoula",
     "address1": "",
-    "address2": "Albany, GA 31721, USA",
+    "address2": "Albany, GA 31721",
     "contact": "ivyoudoula@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Missouri",
@@ -2485,10 +2485,10 @@
     "description": "Safe Spot",
     "url": "https://www.jamaabirthvillage.org",
     "address1": "40 N Florissant Rd",
-    "address2": "Ferguson, MO 63135, USA",
+    "address2": "Ferguson, MO 63135",
     "contact": "instagram.com/jamaabirthvillage",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2501,7 +2501,7 @@
     "address2": "https://www.teamworkbirthing.com/contact-us",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2511,10 +2511,10 @@
     "description": "Safe Spot",
     "url": "https://www.jmmhealthsolutions.com",
     "address1": "",
-    "address2": "Duluth, GA, USA",
+    "address2": "Duluth, GA",
     "contact": "https://www.instagram.com/thepelvicperspective/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Kansas",
@@ -2524,10 +2524,10 @@
     "description": "Safe Spot",
     "url": "https://www.ksbirthjusticesociety.org",
     "address1": "1540 N Broadway St #203",
-    "address2": "Wichita, KS 67214, USA",
+    "address2": "Wichita, KS 67214",
     "contact": "https//www.facebook.com/kansasbirthjusticesociety",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -2537,10 +2537,10 @@
     "description": "Safe Spot",
     "url": "https://www.Kathib.com",
     "address1": "",
-    "address2": "Baltimore, MD, USA",
+    "address2": "Baltimore, MD",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Arizona",
@@ -2550,10 +2550,10 @@
     "description": "Safe Spot",
     "url": "https://www.spiritualgardenhealing.com",
     "address1": "",
-    "address2": "Gilbert, AZ, USA",
+    "address2": "Gilbert, AZ",
     "contact": "https://www.instagram.com/spiritualgardenhealing/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Tennessee",
@@ -2563,10 +2563,10 @@
     "description": "Safe Spot",
     "url": "https://www.kenyaskrystals.com/products/doula-services",
     "address1": "",
-    "address2": "Nashville, TN, USA",
+    "address2": "Nashville, TN",
     "contact": "https//www.instagram.com/kenyaskrystals/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Nevada",
@@ -2576,10 +2576,10 @@
     "description": "Safe Spot",
     "url": "https://www.kijijisisterhood.com/",
     "address1": "",
-    "address2": "Henderson, NV, USA",
+    "address2": "Henderson, NV",
     "contact": "https//www.instagram.com/kijijisisterhood/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -2589,10 +2589,10 @@
     "description": "Safe Spot",
     "url": "https://www.kindredspacela.com/",
     "address1": "2610 Southwest Dr",
-    "address2": "Los Angeles, CA 90043, USA",
+    "address2": "Los Angeles, CA 90043",
     "contact": "https//www.instagram.com/kindredspacela/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2602,10 +2602,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Pine Hills, FL, USA",
+    "address2": "Pine Hills, FL",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -2615,10 +2615,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "707 Delaware St SE",
-    "address2": "Grand Rapids, MI 49507, USA",
+    "address2": "Grand Rapids, MI 49507",
     "contact": "Labortogether1@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2628,10 +2628,10 @@
     "description": "Safe Spot",
     "url": "https://www.laborwithkaci.com/",
     "address1": "",
-    "address2": "Lithonia, GA 30058, USA",
+    "address2": "Lithonia, GA 30058",
     "contact": "https//www.instagram.com/laborwithkaci/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -2641,10 +2641,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.leiladlewis.com",
     "address1": "610 Pembroke Rd",
-    "address2": "Greensboro, NC 27408, USA",
+    "address2": "Greensboro, NC 27408",
     "contact": "",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2654,10 +2654,10 @@
     "description": "Doula, Lactation, Safe Spot,",
     "url": "https://www.lilygracedoulacare.com/",
     "address1": "9810 South Mason Road",
-    "address2": "Richmond, Texas 77407, USA",
+    "address2": "Richmond, Texas 77407",
     "contact": "lilygracedoulacare@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2667,10 +2667,10 @@
     "description": "Safe Spot",
     "url": "https://www.loventouch.com",
     "address1": "1245 Grindenwald Dr",
-    "address2": "Jonesboro, GA 30238, USA",
+    "address2": "Jonesboro, GA 30238",
     "contact": "https//www.instagram.com/loventouch/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -2680,10 +2680,10 @@
     "description": "Childbirth, Doula, Lactation, Birth Worker, Safe Spot,",
     "url": "https://lovingembracematernalcare.com/",
     "address1": "40 Cemetery Rd",
-    "address2": "Preston, GA 31824, USA",
+    "address2": "Preston, GA 31824",
     "contact": "lovingembracematernalcare@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2693,10 +2693,10 @@
     "description": "Safe Spot",
     "url": "https://www.lunatierrabirthcenter.com",
     "address1": "",
-    "address2": "El Paso, TX, USA",
+    "address2": "El Paso, TX",
     "contact": "https://www.instagram.com/lunatierrabirthcenter/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -2706,10 +2706,10 @@
     "description": "Safe Spot",
     "url": "https://www.luxurybabyconcierge.com",
     "address1": "345 E Main St",
-    "address2": "Tustin, CA 92780, USA",
+    "address2": "Tustin, CA 92780",
     "contact": "https//www.instagram.com/luxurybabyconcierge/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2719,10 +2719,10 @@
     "description": "Lactation, Midwifery, Safe Spot,",
     "url": "https://www.amplifyatx.org/organizations/lampatx",
     "address1": "8401 N Interstate Hwy 35",
-    "address2": "Austin, TX 78753, USA",
+    "address2": "Austin, TX 78753",
     "contact": "https//www.instagram.com/lampatx/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -2732,10 +2732,10 @@
     "description": "Safe Spot",
     "url": "https://www.lydiaoboyd.com",
     "address1": "",
-    "address2": "Compton, CA, USA",
+    "address2": "Compton, CA",
     "contact": "www.instagram.com/lydiaoboydibclc",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Tennessee",
@@ -2745,10 +2745,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Tennessee, USA",
+    "address2": "Tennessee",
     "contact": "https//www.instagram.com/mbodyoptions/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -2758,10 +2758,10 @@
     "description": "Safe Spot",
     "url": "https://maameinc.org/",
     "address1": "",
-    "address2": "Durham, NC 27707, USA",
+    "address2": "Durham, NC 27707",
     "contact": "https//www.instagram.com/maameinc/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2771,10 +2771,10 @@
     "description": "Safe Spot",
     "url": "https://magnoliabirthhouse.com",
     "address1": "16821 NE 6th Ave",
-    "address2": "North Miami Beach, FL 33162, USA",
+    "address2": "North Miami Beach, FL 33162",
     "contact": "https//www.instagram.com/magnoliabirthhouse/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2784,10 +2784,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://www.msvwatx.org",
     "address1": "",
-    "address2": "Austin, TX 78703, USA",
+    "address2": "Austin, TX 78703",
     "contact": "https//www.instagram.com/mamasanavibrantwoman/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Kentucky",
@@ -2797,10 +2797,10 @@
     "description": "Safe Spot",
     "url": "https://www.mamatomama.us/",
     "address1": "3934 Dixie Hwy 320 a",
-    "address2": "Louisville, KY 40216, USA",
+    "address2": "Louisville, KY 40216",
     "contact": "https//instagram.com/mama_to_mama_?igshid=OGQ5ZDc2ODk2ZA==",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -2810,10 +2810,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "201 57th St",
-    "address2": "West New York, NJ 07093, USA",
+    "address2": "West New York, NJ 07093",
     "contact": "heymama@mamasmosiac.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "District of Columbia",
@@ -2823,10 +2823,10 @@
     "description": "Safe Spot",
     "url": "http://www.mamatotovillage.org/",
     "address1": "311 47th St NE",
-    "address2": "Washington, DC 20019, USA",
+    "address2": "Washington, DC 20019",
     "contact": "https//www.instagram.com/mamatotovillage/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -2836,10 +2836,10 @@
     "description": "Safe Spot",
     "url": "https://www.martinsvillage.com",
     "address1": "121 M.L.K. Jr St SE",
-    "address2": "Grand Rapids, Michigan 49507, United States",
+    "address2": "Grand Rapids, Michigan 49507",
     "contact": "Martinsvillage@outlook.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2849,10 +2849,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "James H .Keeshan Bulding, 301 N Thompson St,",
-    "address2": "Conroe, TX 77301, USA",
+    "address2": "Conroe, TX 77301",
     "contact": "https//www.instagram.com/marys_womb/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -2862,10 +2862,10 @@
     "description": "Safe Spot",
     "url": "https://www.maternity-maven.com",
     "address1": "",
-    "address2": "Philadelphia, PA, USA",
+    "address2": "Philadelphia, PA",
     "contact": "https//www.instagram.com/lovethedoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Kansas",
@@ -2875,10 +2875,10 @@
     "description": "Safe Spot",
     "url": "https://www.melanatedmaternaltherapy.com",
     "address1": "850 Nebraska Ave",
-    "address2": "Kansas City, KS 66101, USA",
+    "address2": "Kansas City, KS 66101",
     "contact": "https//www.facebook.com/profile.php?id=100075890174332&mibextid=LQQJ4d",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -2888,10 +2888,10 @@
     "description": "Safe Spot",
     "url": "https://www.melaninandmaternalwellness.org",
     "address1": "3111 NJ-38 11 316",
-    "address2": "Mt Laurel Township, NJ 08054, USA",
+    "address2": "Mt Laurel Township, NJ 08054",
     "contact": "instagram.com/melaninmaternal",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -2901,10 +2901,10 @@
     "description": "Safe Spot",
     "url": "https://www.melaninmilksd.com/",
     "address1": "",
-    "address2": "San Diego, CA, USA",
+    "address2": "San Diego, CA",
     "contact": "https//www.instagram.com/melaninmilksd/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "",
@@ -2917,7 +2917,7 @@
     "address2": "",
     "contact": "https://www.instagram.com/melaninmothersmeet_m3?igsh=eXVmeGRrcmtxem9r&utm_source=qr",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -2927,10 +2927,10 @@
     "description": "Safe Spot",
     "url": "http://www.metromommyagency.com",
     "address1": "",
-    "address2": "Miami Gardens, FL, USA",
+    "address2": "Miami Gardens, FL",
     "contact": "https//www.instagram.com/icandoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -2940,10 +2940,10 @@
     "description": "Safe Spot",
     "url": "https://midwifeinthecity.love",
     "address1": "",
-    "address2": "Brooklyn, NY, USA",
+    "address2": "Brooklyn, NY",
     "contact": "https//www.instagram.com/midwifeinthecity/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Minnesota",
@@ -2953,10 +2953,10 @@
     "description": "Safe Spot",
     "url": "https://www.milestonecreations.org",
     "address1": "",
-    "address2": "Fridley, MN, USA",
+    "address2": "Fridley, MN",
     "contact": "https//www.instagram.com/milestonecreationsllc/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -2966,10 +2966,10 @@
     "description": "Childbirth, Doula, Lactation, Safe Spot,",
     "url": "",
     "address1": "",
-    "address2": "Vancouver, WA 98686, USA",
+    "address2": "Vancouver, WA 98686",
     "contact": "https//www.instagram.com/milk_and_marigold_doula?igsh=aGo4eDl2NjV1MHJu&utm_source=qr",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -2979,10 +2979,10 @@
     "description": "Safe Spot",
     "url": "https://www.MilkDiva.com",
     "address1": "3116 Lions Tail St",
-    "address2": "Austin, TX 78728, USA",
+    "address2": "Austin, TX 78728",
     "contact": "https//www.instagram.com/milk_diva/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -2992,10 +2992,10 @@
     "description": "Safe Spot, Lactation",
     "url": "https://www.milklikemine.com",
     "address1": "223 E Roosevelt Ave",
-    "address2": "Battle Creek, MI 49037, USA",
+    "address2": "Battle Creek, MI 49037",
     "contact": "https//www.instagram.com/milklikemine/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -3005,10 +3005,10 @@
     "description": "Safe Spot",
     "url": "https://www.CharlotteDoulaCo.com",
     "address1": "7400 Old Mt Holly Rd",
-    "address2": "Paw Creek, NC 28130, USA",
+    "address2": "Paw Creek, NC 28130",
     "contact": "instagram.com/charlottedoula",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3018,10 +3018,10 @@
     "description": "Safe Spot",
     "url": "https://www.moore2lovedoulaservices.com",
     "address1": "",
-    "address2": "Wyoming, MI, USA",
+    "address2": "Wyoming, MI",
     "contact": "https://www.instagram.com/moore2love_doulaservices",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Massachusetts",
@@ -3031,10 +3031,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.annaya.org/about-us",
     "address1": "",
-    "address2": "Massachusetts, USA",
+    "address2": "Massachusetts",
     "contact": "https//www.facebook.com/QUILT2014/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3044,10 +3044,10 @@
     "description": "Safe Spot",
     "url": "https://www.motherlandbirthandwellness.com/",
     "address1": "",
-    "address2": "Plant City, FL, USA",
+    "address2": "Plant City, FL",
     "contact": "https://instagram.com/motherlandbirthingandwellness?utm_source=qr&igshid=OGIxMTE0OTdkZA==",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -3057,10 +3057,10 @@
     "description": "Safe Spot",
     "url": "https://www.mpoweredsouls.net",
     "address1": "",
-    "address2": "Charlotte, NC, USA",
+    "address2": "Charlotte, NC",
     "contact": "instagram.com/mpowerdsouls",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -3070,10 +3070,10 @@
     "description": "Safe Spot",
     "url": "https://www.mrsdancingmoon.com",
     "address1": "",
-    "address2": "California, USA",
+    "address2": "California",
     "contact": "https//www.instagram.com/mrsdancingmoon/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3083,10 +3083,10 @@
     "description": "Safe Spot",
     "url": "https://mypuredelivery.com",
     "address1": "301 Brushy Creek Rd Ste 106",
-    "address2": "Cedar Park, TX 78613, USA",
+    "address2": "Cedar Park, TX 78613",
     "contact": "instagram.com/mypuredelivery",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -3096,10 +3096,10 @@
     "description": "Safe Spot",
     "url": "https://linktr.ee/NaturalQueenEssentials",
     "address1": "",
-    "address2": "Henrico, VA 23294, USA",
+    "address2": "Henrico, VA 23294",
     "contact": "https//www.instagram.com/naturalqueenessentials/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Tennessee",
@@ -3109,10 +3109,10 @@
     "description": "Safe Spot",
     "url": "https://www.naturallynurturedbirthservices.com",
     "address1": "",
-    "address2": "Memphis, TN, USA",
+    "address2": "Memphis, TN",
     "contact": "Www.instagram.com/naturallynurturedbirth",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Mexico",
@@ -3122,10 +3122,10 @@
     "description": "Safe Spot",
     "url": "https://nmdoula.org/",
     "address1": "715 E Idaho Ave bldg 3 suite c",
-    "address2": "Las Cruces, NM 88001, USA",
+    "address2": "Las Cruces, NM 88001",
     "contact": "info@nmdoula.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3135,10 +3135,10 @@
     "description": "Safe Spot",
     "url": "https://www.NOMWi.org",
     "address1": "811 Allerton Ave",
-    "address2": "Bronx, NY 10467, USA",
+    "address2": "Bronx, NY 10467",
     "contact": "pamela@nomwi.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3148,10 +3148,10 @@
     "description": "Safe Spot",
     "url": "https://www.nourishingnewfamilies.org",
     "address1": "9901 Brodie Ln #160",
-    "address2": "Austin, TX 78748, USA",
+    "address2": "Austin, TX 78748",
     "contact": "https//www.facebook.com/NourishingNewFamilies",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3161,10 +3161,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://www.nurturedmoons.com",
     "address1": "1111 NE 25th Ave unit 403",
-    "address2": "Ocala, Florida 34470, USA",
+    "address2": "Ocala, Florida 34470",
     "contact": "Nurturedmoons@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "",
@@ -3177,7 +3177,7 @@
     "address2": "",
     "contact": "nutritiousmotherhood@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3187,10 +3187,10 @@
     "description": "Safe Spot",
     "url": "https://www.nzuribirthvillage.org",
     "address1": "1315 Oakfield Dr #560",
-    "address2": "Brandon, FL 33511, USA",
+    "address2": "Brandon, FL 33511",
     "contact": "www.facebook.com/NzuriBirthVillage",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -3200,10 +3200,10 @@
     "description": "Safe Spot",
     "url": "https://www.niaoaklandbetterbirthfoundation.com/",
     "address1": "",
-    "address2": "Oakland, CA, USA",
+    "address2": "Oakland, CA",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -3213,10 +3213,10 @@
     "description": "Midwifery, Birth Worker, Safe Spot,",
     "url": "https://www.loveandlightheal.com/",
     "address1": "2740 Broad St",
-    "address2": "Austell, GA 30106, USA",
+    "address2": "Austell, GA 30106",
     "contact": "https//www.instagram.com/lovelighthealing1/#",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -3226,10 +3226,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.journ3i.com/",
     "address1": "",
-    "address2": "Providence, RI, USA",
+    "address2": "Providence, RI",
     "contact": "https://www.instagram.com/ourjourn3i/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -3239,10 +3239,10 @@
     "description": "Safe Spot",
     "url": "https://www.ournestri.com/",
     "address1": "",
-    "address2": "Providence, RI, USA",
+    "address2": "Providence, RI",
     "contact": "https://www.instagram.com/our_nest_ri/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Nevada",
@@ -3252,10 +3252,10 @@
     "description": "Safe Spot",
     "url": "https://www.centeredcarechiro.com/",
     "address1": "1601 E Basin Ave #304",
-    "address2": "Pahrump, NV 89060, USA",
+    "address2": "Pahrump, NV 89060",
     "contact": "https//www.instagram.com/drkat_chiro/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3265,10 +3265,10 @@
     "description": "Safe Spot",
     "url": "https://paradigmdoulas.com/",
     "address1": "",
-    "address2": "Saginaw, TX, USA",
+    "address2": "Saginaw, TX",
     "contact": "https://www.instagram.com/paradigmdoulas",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Delaware",
@@ -3278,10 +3278,10 @@
     "description": "Safe Spot",
     "url": "https://www.picofdel.org",
     "address1": "6 Larch Ave #404",
-    "address2": "Newport, DE 19804, USA",
+    "address2": "Newport, DE 19804",
     "contact": "https//www.instagram.com/picofdel/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Missouri",
@@ -3291,10 +3291,10 @@
     "description": "Safe Spot",
     "url": "https://Peachybirths.com",
     "address1": "",
-    "address2": "Kansas City, MO, USA",
+    "address2": "Kansas City, MO",
     "contact": "https://www.instagram.com/peachybirths/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New Jersey",
@@ -3304,10 +3304,10 @@
     "description": "Safe Spot",
     "url": "https://www.perinatalequity.org/welcome",
     "address1": "280 S Harrison St Suite 311",
-    "address2": "East Orange, NJ 07018, USA",
+    "address2": "East Orange, NJ 07018",
     "contact": "https//www.instagram.com/perinatal_equity/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "South Carolina",
@@ -3317,10 +3317,10 @@
     "description": "Safe Spot",
     "url": "https://www.phacofsc.org/",
     "address1": "",
-    "address2": "Columbia, South Carolina 29201, United States",
+    "address2": "Columbia, South Carolina 29201",
     "contact": "kenishia.golden-smith@phacsc.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Arizona",
@@ -3330,10 +3330,10 @@
     "description": "Safe Spot",
     "url": "https://www.arizonabirthworkersofcolor.com",
     "address1": "",
-    "address2": "Maricopa, AZ, USA",
+    "address2": "Maricopa, AZ",
     "contact": "https://www.instagram.com/amothersworth/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -3343,10 +3343,10 @@
     "description": "Safe Spot",
     "url": "https://positivebirthing.org",
     "address1": "",
-    "address2": "Atlanta, GA, USA",
+    "address2": "Atlanta, GA",
     "contact": "https//www.facebook.com/positivebirthingsolutions/about",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -3356,10 +3356,10 @@
     "description": "Safe Spot",
     "url": "https://www.desireeisrael.com",
     "address1": "",
-    "address2": "East Case, MD 21202, USA",
+    "address2": "East Case, MD 21202",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Louisiana",
@@ -3369,10 +3369,10 @@
     "description": "Safe Spot, Doula",
     "url": "",
     "address1": "",
-    "address2": "Louisiana, USA",
+    "address2": "Louisiana",
     "contact": "https//www.instagram.com/pricelessdoulalove/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3382,10 +3382,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Texas, USA",
+    "address2": "Texas",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3395,10 +3395,10 @@
     "description": "Safe Spot",
     "url": "https://www.radiclemidwifery.com",
     "address1": "11550 Flanders St",
-    "address2": "Detroit, Michigan 48205, United States",
+    "address2": "Detroit, Michigan 48205",
     "contact": "midwife@radiclemidwifery.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -3408,10 +3408,10 @@
     "description": "Safe Spot",
     "url": "https://myrvcc.org",
     "address1": "400, 4300 Talbot Rd S,",
-    "address2": "Renton, WA 98055, USA",
+    "address2": "Renton, WA 98055",
     "contact": "https//www.instagram.com/rainiervalleymidwives/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -3421,10 +3421,10 @@
     "description": "Safe Spot",
     "url": "http://www.breastfeedingrose.org/",
     "address1": "3035 Stone Mountain St #1076",
-    "address2": "Lithonia, GA 30058, USA",
+    "address2": "Lithonia, GA 30058",
     "contact": "https//www.instagram.com/support_rose/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -3434,10 +3434,10 @@
     "description": "Safe Spot",
     "url": "https://www.readysetlatchgo.com/",
     "address1": "",
-    "address2": "Newport, RI, USA",
+    "address2": "Newport, RI",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Ohio",
@@ -3447,10 +3447,10 @@
     "description": "Safe Spot",
     "url": "https://www.roottrj.org",
     "address1": "118 E Main St",
-    "address2": "Columbus, OH 43215, USA",
+    "address2": "Columbus, OH 43215",
     "contact": "https//www.instagram.com/roottrj/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3460,10 +3460,10 @@
     "description": "Safe Spot",
     "url": "https://www.rootead.org",
     "address1": "",
-    "address2": "Kalamazoo, MI, USA",
+    "address2": "Kalamazoo, MI",
     "contact": "https://www.instagram.com/rootead/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Wisconsin",
@@ -3473,10 +3473,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://roots4change.coop/",
     "address1": "701 E Washington Ave #102",
-    "address2": "Madison, WI 53703, USA",
+    "address2": "Madison, WI 53703",
     "contact": "https//www.facebook.com/roots4change6",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Tennessee",
@@ -3486,10 +3486,10 @@
     "description": "Safe Spot",
     "url": "https://www.rootsandriverwellness.com",
     "address1": "5821 Park Ave",
-    "address2": "Memphis, TN 38119, USA",
+    "address2": "Memphis, TN 38119",
     "contact": "https//www.instagram.com/fitandfinallyfree/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3499,10 +3499,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Arlington, TX, USA",
+    "address2": "Arlington, TX",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Minnesota",
@@ -3512,10 +3512,10 @@
     "description": "Safe Spot",
     "url": "https://www.rootsbirthcenter.com/",
     "address1": "1901 N 44th Ave",
-    "address2": "Minneapolis, MN 55412, USA",
+    "address2": "Minneapolis, MN 55412",
     "contact": "https//www.instagram.com/rootsbirthcenter/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Massachusetts",
@@ -3525,10 +3525,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "Ingraham place, 80 Rivet St,",
-    "address2": "New Bedford, MA 02744, USA",
+    "address2": "New Bedford, MA 02744",
     "contact": "https//www.facebook.com/sacredbirthingvillage/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -3538,10 +3538,10 @@
     "description": "Safe Spot",
     "url": "https://www.birthnherbs.com",
     "address1": "",
-    "address2": "Ashburn, VA, USA",
+    "address2": "Ashburn, VA",
     "contact": "www.instagram.com/birthnherbs",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -3551,10 +3551,10 @@
     "description": "Safe Spot",
     "url": "https://www.sacredwombanhood.com",
     "address1": "",
-    "address2": "Providence, RI, USA",
+    "address2": "Providence, RI",
     "contact": "instagram.com/SacredWombanhood",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -3564,10 +3564,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.sacredpausedoula.com",
     "address1": "",
-    "address2": "Lincoln, RI, USA",
+    "address2": "Lincoln, RI",
     "contact": "https://www.instagram.com/sacredpause8/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3577,10 +3577,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://sanantonionursemidwife.com/",
     "address1": "20328 FM 2252",
-    "address2": "San Antonio, TX 78266, USA",
+    "address2": "San Antonio, TX 78266",
     "contact": "https//www.instagram.com/sanantonionursemidwife/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -3590,10 +3590,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "http://sdcommunitybirthcenter.com",
     "address1": "2801 Fourth Ave",
-    "address2": "San Diego, CA 92103, USA",
+    "address2": "San Diego, CA 92103",
     "contact": "https//www.instagram.com/sandiegocommunitybirthcenter/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3603,10 +3603,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.sankofaheals.com/",
     "address1": "2331 S Salina St",
-    "address2": "Syracuse, NY 13205, USA",
+    "address2": "Syracuse, NY 13205",
     "contact": "https//www.instagram.com/sankofaheals/?hl=en",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3616,10 +3616,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://www.sanyikathedoula.com/",
     "address1": "5554 South Peek Road",
-    "address2": "Katy, Texas 77450, United States",
+    "address2": "Katy, Texas 77450",
     "contact": "birthmatters@sanyikathedoula.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3629,10 +3629,10 @@
     "description": "Safe Spot",
     "url": "https://www.sarahfoster.biz",
     "address1": "",
-    "address2": "Altamonte Springs, FL, USA",
+    "address2": "Altamonte Springs, FL",
     "contact": "https://www.instagram.com/sunmoonnstars_doula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -3642,10 +3642,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Atlanta, GA, USA",
+    "address2": "Atlanta, GA",
     "contact": "https//www.instagram.com/sastablessings/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -3655,10 +3655,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.kylacarlos.com",
     "address1": "",
-    "address2": "Virginia, USA",
+    "address2": "Virginia",
     "contact": "",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3668,10 +3668,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "St. Louis, MI, USA",
+    "address2": "St. Louis, MI",
     "contact": "instagram.com/shebelieveddoulacaremi",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3681,10 +3681,10 @@
     "description": "Childbirth, Doula, Birth Worker, Home Visitor, Safe Spot,",
     "url": "https://shekitalongdoula.com",
     "address1": "14574 Melrose St",
-    "address2": "Livonia, MI 48154, USA",
+    "address2": "Livonia, MI 48154",
     "contact": "shekitalong@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Hawaii",
@@ -3694,10 +3694,10 @@
     "description": "Safe Spot",
     "url": "https://shinesisterhoodinitiative.com",
     "address1": "",
-    "address2": "Pahala, HI 96777, USA",
+    "address2": "Pahala, HI 96777",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3707,10 +3707,10 @@
     "description": "Safe Spot",
     "url": "https://Shugapott.onuniverse.com",
     "address1": "",
-    "address2": "Gainesville, FL, USA",
+    "address2": "Gainesville, FL",
     "contact": "https://www.instagram.com/shugapott/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3720,10 +3720,10 @@
     "description": "Safe Spot",
     "url": "https://www.sincerelylluna.com/",
     "address1": "2541 Bainbridge Ave",
-    "address2": "Bronx, NY 10458, USA",
+    "address2": "Bronx, NY 10458",
     "contact": "https//www.instagram.com/sincerity_luna",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -3733,10 +3733,10 @@
     "description": "Safe Spot",
     "url": "http://sistersinloss.com",
     "address1": "",
-    "address2": "McLean, VA 22103, USA",
+    "address2": "McLean, VA 22103",
     "contact": "https//www.instagram.com/sistersinloss/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Michigan",
@@ -3746,10 +3746,10 @@
     "description": "Safe Spot",
     "url": "https://www.mamasutralove.com/",
     "address1": "",
-    "address2": "Kalamazoo, MI, USA",
+    "address2": "Kalamazoo, MI",
     "contact": "https//www.instagram.com/sokhnamaha/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3759,10 +3759,10 @@
     "description": "Safe Spot",
     "url": "https://southernbirthjustice.org/",
     "address1": "",
-    "address2": "Florida, USA",
+    "address2": "Florida",
     "contact": "facebook.com/southernbirthjustice",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3772,10 +3772,10 @@
     "description": "Safe Spot",
     "url": "https://www.theafiyacenter.org/",
     "address1": "",
-    "address2": "Dallas, TX, USA",
+    "address2": "Dallas, TX",
     "contact": "https://www.instagram.com/southernrootsdoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -3785,10 +3785,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Erie, PA, USA",
+    "address2": "Erie, PA",
     "contact": "https://www.instagram.com/sovereignbirthrising/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Wyoming",
@@ -3798,10 +3798,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Gillette, WY, USA",
+    "address2": "Gillette, WY",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3811,10 +3811,10 @@
     "description": "Midwifery, Safe Spot,",
     "url": "https://www.miamimidwife.com/",
     "address1": "9507 Southwest 160th Street suite #220",
-    "address2": "Miami, FL, USA",
+    "address2": "Miami, FL",
     "contact": "miamimidwife@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -3824,10 +3824,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://spiritualedgellcbirthingservic.godaddysites.com/?fbclid=IwY2xjawFjoApleHRuA2FlbQIxMAABHdw_zbNrpsGai-ZffLl6DNxQz0NrRxMHf4m6He5NOo0v8OXj06YrobiZtQ_aem_mX7JkrqDGOEIFIpWMSrsfQ",
     "address1": "9701 Trinity Rd h",
-    "address2": "Charlotte, North Carolina 28216, United States",
+    "address2": "Charlotte, North Carolina 28216",
     "contact": "spirituaedge@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Massachusetts",
@@ -3837,10 +3837,10 @@
     "description": "Safe Spot",
     "url": "https://springfieldfamilydoulas.com/",
     "address1": "",
-    "address2": "Springfield, MA, USA",
+    "address2": "Springfield, MA",
     "contact": "https://www.instagram.com/springfieldfamilydoulas/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -3850,10 +3850,10 @@
     "description": "Safe Spot",
     "url": "https://tarasbirthservices.com",
     "address1": "",
-    "address2": "Acworth, GA, USA",
+    "address2": "Acworth, GA",
     "contact": "https//www.instagram.com/Trimestertreatsofficial/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Mississippi",
@@ -3863,10 +3863,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://www.taweretmidwifery.com/",
     "address1": "2080 Dunbarton Dr Suite 2",
-    "address2": "Jackson, MS 39216, USA",
+    "address2": "Jackson, MS 39216",
     "contact": "https//www.instagram.com/taweretmidwifery/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3876,10 +3876,10 @@
     "description": "Childbirth, Doula, Lactation, Birth Worker, Home Visitor, Safe Spot,",
     "url": "https://www.whoosahdoula.com",
     "address1": "1541 W 11th St.",
-    "address2": "Brooklyn, NY 11204, USA",
+    "address2": "Brooklyn, NY 11204",
     "contact": "whoosahdoula@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Connecticut",
@@ -3889,10 +3889,10 @@
     "description": "Safe Spot",
     "url": "https://www.thealliancecenterct.com",
     "address1": "16 Wire Mill Rd",
-    "address2": "Stamford, CT 06903, USA",
+    "address2": "Stamford, CT 06903",
     "contact": "https//www.instagram.com/thealliancecenterct/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3902,10 +3902,10 @@
     "description": "Safe Spot",
     "url": "https://www.thearchapp.com",
     "address1": "",
-    "address2": "New York, NY, USA",
+    "address2": "New York, NY",
     "contact": "https://www.instagram.com/thearch.app/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -3915,10 +3915,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "http://thebirthplace.org/",
     "address1": "213 S Dillard St STE 340",
-    "address2": "Winter Garden, FL 34787, USA",
+    "address2": "Winter Garden, FL 34787",
     "contact": "facebook.com/thebirthplace",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -3928,10 +3928,10 @@
     "description": "Safe Spot",
     "url": "https://www.birthinghut.com",
     "address1": "213 Smithfield St",
-    "address2": "Pittsburgh, PA 15222, USA",
+    "address2": "Pittsburgh, PA 15222",
     "contact": "https//www.instagram.com/the_birthing_hut/?hl=en",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -3941,10 +3941,10 @@
     "description": "Safe Spot",
     "url": "https://TheBirthingPlace.co",
     "address1": "",
-    "address2": "Bronx, NY 10474, USA",
+    "address2": "Bronx, NY 10474",
     "contact": "https//www.instagram.com/birthingplacebx/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -3954,10 +3954,10 @@
     "description": "Safe Spot",
     "url": "https://www.bloominbaltimore.com",
     "address1": "2000 Greenmount Ave Ste 101",
-    "address2": "Baltimore, MD 21218, USA",
+    "address2": "Baltimore, MD 21218",
     "contact": "https//www.instagram.com/bloominbaltimore/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "District of Columbia",
@@ -3967,10 +3967,10 @@
     "description": "Safe Spot",
     "url": "http://www.thecannabisdoula.org",
     "address1": "",
-    "address2": "Washington, DC, USA",
+    "address2": "Washington, DC",
     "contact": "https://www.instagram.com/thecannabisdoula/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -3980,10 +3980,10 @@
     "description": "Safe Spot",
     "url": "https://www.thecounselingmidwife.com",
     "address1": "",
-    "address2": "Mesquite, TX 75150, USA",
+    "address2": "Mesquite, TX 75150",
     "contact": "https//www.instagram.com/tinyandbrave/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -3993,10 +3993,10 @@
     "description": "Safe Spot",
     "url": "https://thediversedoula.com/",
     "address1": "",
-    "address2": "Richmond, VA, USA",
+    "address2": "Richmond, VA",
     "contact": "https//www.instagram.com/the.diverse.birth.collective/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -4006,10 +4006,10 @@
     "description": "Safe Spot",
     "url": "https://www.thedoudad.com/",
     "address1": "",
-    "address2": "Oakland, CA, USA",
+    "address2": "Oakland, CA",
     "contact": "https://www.instagram.com/thedoudad/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -4019,10 +4019,10 @@
     "description": "Safe Spot",
     "url": "https://www.theeducatedbirth.com",
     "address1": "",
-    "address2": "Richmond, VA, USA",
+    "address2": "Richmond, VA",
     "contact": "www.instagram.com/TheEducatedBirthbn jhh",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oklahoma",
@@ -4032,10 +4032,10 @@
     "description": "Safe Spot",
     "url": "https://timcenter.org",
     "address1": "",
-    "address2": "Del City, OK, USA",
+    "address2": "Del City, OK",
     "contact": "https//www.instagram.com/theintunemother/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Pennsylvania",
@@ -4045,10 +4045,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Philadelphia, PA, USA",
+    "address2": "Philadelphia, PA",
     "contact": "https//www.facebook.com/lifeexpdoula",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Louisiana",
@@ -4058,10 +4058,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "7373 Scenic Hwy",
-    "address2": "Baton Rouge, LA 70807, USA",
+    "address2": "Baton Rouge, LA 70807",
     "contact": "facebook.com/slslaine",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -4071,10 +4071,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "Fort Worth, TX, USA",
+    "address2": "Fort Worth, TX",
     "contact": "https//www.facebook.com/TheNaturalWayBirthingProjectFtWorth/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -4084,10 +4084,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.thepoweroflovebirthservices.com/",
     "address1": "",
-    "address2": "Gordon, GA 31031, USA",
+    "address2": "Gordon, GA 31031",
     "contact": "https//www.instagram.com/thepoweroflovebirth/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Washington",
@@ -4097,10 +4097,10 @@
     "description": "Safe Spot",
     "url": "https://www.theshadesofmotherhoodnetwork.org/",
     "address1": "631 South Richard Allen Court",
-    "address2": "Spokane, WA, USA",
+    "address2": "Spokane, WA",
     "contact": "scourtney@somnetwork.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -4110,10 +4110,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "California, USA",
+    "address2": "California",
     "contact": "",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -4123,10 +4123,10 @@
     "description": "Safe Spot",
     "url": "http://thetreeoflifewellnesscenter.com",
     "address1": "8035 E R L Thornton Fwy #328",
-    "address2": "Dallas, TX 75228, USA",
+    "address2": "Dallas, TX 75228",
     "contact": "https//www.facebook.com/CECounselingServices/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -4136,10 +4136,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.mommasvillage.org",
     "address1": "131 Hay St Ste. 201",
-    "address2": "Fayetteville, NC 28301, USA",
+    "address2": "Fayetteville, NC 28301",
     "contact": "https//www.instagram.com/mommasvillagefay/?hl=en",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Georgia",
@@ -4151,8 +4151,8 @@
     "address1": "946 Elma G Miles Pkwy Ste 101 #1006",
     "address2": "Hinesville, GA 31313",
     "contact": "contactsacredmelanin@gmail.com",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oklahoma",
@@ -4162,10 +4162,10 @@
     "description": "Midwifery, Safe Spot,",
     "url": "https://www.thevillagesister.com",
     "address1": "2300 N Lincoln Blvd",
-    "address2": "Oklahoma City, Oklahoma, OK 73105, United States",
+    "address2": "Oklahoma City, Oklahoma, OK 73105",
     "contact": "thevillagesisterokc@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Kansas",
@@ -4175,10 +4175,10 @@
     "description": "Safe Spot",
     "url": "https://www.topekadoula.org/",
     "address1": "835 SW Polk St",
-    "address2": "Topeka, KS 66612, USA",
+    "address2": "Topeka, KS 66612",
     "contact": "https//www.instagram.com/topekadoulaproject/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "North Carolina",
@@ -4188,10 +4188,10 @@
     "description": "Safe Spot",
     "url": "https://www.totalmaternalsupport.com",
     "address1": "741 Bitting Hall Cir",
-    "address2": "Rural Hall, NC 27045, USA",
+    "address2": "Rural Hall, NC 27045",
     "contact": "Tmsdoula@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -4201,10 +4201,10 @@
     "description": "Safe Spot",
     "url": "http://www.transitionswomenshealth.net",
     "address1": "",
-    "address2": "New York, NY, USA",
+    "address2": "New York, NY",
     "contact": "https//www.instagram.com/transitionswhc/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "California",
@@ -4214,10 +4214,10 @@
     "description": "Safe Spot, Midwifery",
     "url": "https://www.tribemidwifery.com",
     "address1": "",
-    "address2": "Firestone Park, CA 90001, USA",
+    "address2": "Firestone Park, CA 90001",
     "contact": "https//www.facebook.com/profile.php?id=100063714754340",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -4227,10 +4227,10 @@
     "description": "Safe Spot",
     "url": "https://www.umamidwifery.com",
     "address1": "3158 24th Ave N",
-    "address2": "St. Petersburg, FL 33713, USA",
+    "address2": "St. Petersburg, FL 33713",
     "contact": "https//www.instagram.com/umamidwifery/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -4240,10 +4240,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://sites.google.com/view/umojaniari/home",
     "address1": "",
-    "address2": "Johnston, RI 02919, USA",
+    "address2": "Johnston, RI 02919",
     "contact": "",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Virginia",
@@ -4253,10 +4253,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.urbanbabybeginnings.org",
     "address1": "",
-    "address2": "Richmond, VA, USA",
+    "address2": "Richmond, VA",
     "contact": "https//www.instagram.com/urbanbabybeginnings/?hl=en",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -4266,10 +4266,10 @@
     "description": "Safe Spot",
     "url": "https://www.urbanperinatal.org",
     "address1": "215 Cottage St.",
-    "address2": "Pawtucket, RI 02860, USA",
+    "address2": "Pawtucket, RI 02860",
     "contact": "https//www.instagram.com/urbanperinatalri/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "South Carolina",
@@ -4279,10 +4279,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "",
-    "address2": "South Carolina, USA",
+    "address2": "South Carolina",
     "contact": "https://www.instagram.com/robin_usdiville/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Missouri",
@@ -4292,10 +4292,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://uzazivillage.org/",
     "address1": "4232 Troost Ave",
-    "address2": "Kansas City, MO 64110, USA",
+    "address2": "Kansas City, MO 64110",
     "contact": "https//www.instagram.com/uzazivillage/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Holistic, Artistic & Public Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Nevada",
@@ -4305,10 +4305,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.vegasfamilydoulas.com/",
     "address1": "5575 N Simmons St 1 127 n",
-    "address2": "North Las Vegas, NV 89031, USA",
+    "address2": "North Las Vegas, NV 89031",
     "contact": "https//www.instagram.com/vegasfamilydoulas/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Minnesota",
@@ -4318,10 +4318,10 @@
     "description": "Safe Spot",
     "url": "https://vidamidwifery.org/vida-midwives",
     "address1": "1619 Dayton Ave #111",
-    "address2": "St Paul, MN 55104, USA",
+    "address2": "St Paul, MN 55104",
     "contact": "https//www.instagram.com/vida_midwifery/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "New York",
@@ -4331,23 +4331,23 @@
     "description": "Safe Spot",
     "url": "https://www.villagebirthinternational.org",
     "address1": "2331 S Salina St",
-    "address2": "Syracuse, NY 13205, USA",
+    "address2": "Syracuse, NY 13205",
     "contact": "https//www.instagram.com/villagebirthintl/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Delaware",
     "name": "Voices Within U",
     "image": "https://perinataltaskforce.com/wp-content/uploads/2023/10/VOICES-WITHIN-U-LLCâ„¢ï¸-IS-A-HEALTHCARE-EDUCATIONAL-BRAND-HONORING-THE-LIFE-OF-ANNIE-MAE-WELLS-GRANDMOTHER-OF-FOUNDER-LA-TOYA-RENEE-MARTIN-A-BIRTHING-AND-POSTPARTUM-DANCING-FOR-BIRTH-PERINATAL-A.png",
-    "about": "VOICES WITHIN U, LLCâ„¢ï¸, IS A HEALTHCARE EDUCATIONAL BRAND HONORING THE LIFE OF ANNIE MAE WELLS; GRANDMOTHER OF FOUNDER LA TOYA RENEE MARTIN; A BIRTHING AND POSTPARTUM DANCING FOR BIRTH PERINATAL AND BEREAVEMENT DOULA, BIRTHING EDUCATOR, PEANUT, BIRTHING BALL AND SAFE SLEEP AMBASSADOR, CHILD MATERNITY HEALTHCARE WORKER, LACTATION COUNSELOR, CHILD PASSENGER SAFETY TECHNICIAN, YOUTH AND ADULT MENTAL HEALTH FIRST AIDER, AUTHOR, ABSTRACT PAINTING ARTIST, AND MOM OF AN AUTISTIC AND MEDICALLY FRAGILE CHILD. â€œVOICES WITHIN U, LLCâ„¢ï¸â€; AIMS TO BRIDGE THE GAP IN MATERNITY HEALTHCARE TO THE BIPOC COMMUNITY, BIRTHING PEOPLE, SURVIVORS OF SEXUAL ASSAULT, MEDICALLY FRAGILE FAMILIES AND INDIVIDUALS, AUTISTIC AND MENTAL HEALTH COMMUNITIES, AS WELL AS WOMEN IN GENERAL; EXPERIENCING ADVERSITY ON THEIR JOURNEY TO MOTHERHOOD. PROCLAIMING THE MOTTO â€œBIRTH YOUR WAY; REJOICE YOUR VOICE/SPEAK YOUR TRUTHâ„¢ï¸â€.\n\nhttps://www.tiktok.com/@voiceswithinu",
+    "about": "VOICES WITHIN U, LLC., IS A HEALTHCARE EDUCATIONAL BRAND HONORING THE LIFE OF ANNIE MAE WELLS; GRANDMOTHER OF FOUNDER LA TOYA RENEE MARTIN; A BIRTHING AND POSTPARTUM DANCING FOR BIRTH PERINATAL AND BEREAVEMENT DOULA, BIRTHING EDUCATOR, PEANUT, BIRTHING BALL AND SAFE SLEEP AMBASSADOR, CHILD MATERNITY HEALTHCARE WORKER, LACTATION COUNSELOR, CHILD PASSENGER SAFETY TECHNICIAN, YOUTH AND ADULT MENTAL HEALTH FIRST AIDER, AUTHOR, ABSTRACT PAINTING ARTIST, AND MOM OF AN AUTISTIC AND MEDICALLY FRAGILE CHILD. â€œVOICES WITHIN U, LLCâ„¢ï¸â€; AIMS TO BRIDGE THE GAP IN MATERNITY HEALTHCARE TO THE BIPOC COMMUNITY, BIRTHING PEOPLE, SURVIVORS OF SEXUAL ASSAULT, MEDICALLY FRAGILE FAMILIES AND INDIVIDUALS, AUTISTIC AND MENTAL HEALTH COMMUNITIES, AS WELL AS WOMEN IN GENERAL; EXPERIENCING ADVERSITY ON THEIR JOURNEY TO MOTHERHOOD. PROCLAIMING THE MOTTO â€œBIRTH YOUR WAY; REJOICE YOUR VOICE/SPEAK YOUR TRUTHâ„¢ï¸â€.\n\nhttps://www.tiktok.com/@voiceswithinu",
     "description": "Safe Spot",
     "url": "",
     "address1": "8 The Green",
-    "address2": "Dover, DE 19901, USA",
+    "address2": "Dover, DE 19901",
     "contact": "https//www.instagram.com/VoicesWithinU/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -4357,10 +4357,10 @@
     "description": "Safe Spot, Doula",
     "url": "",
     "address1": "",
-    "address2": "Providence, RI, USA",
+    "address2": "Providence, RI",
     "contact": "https://www.instagram.com/wildtaino/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Iowa",
@@ -4370,10 +4370,10 @@
     "description": "Childbirth, Doula, Lactation, Safe Spot,",
     "url": "https://www.wildolivebirth.com/",
     "address1": "",
-    "address2": "Des Moines, IA, USA",
+    "address2": "Des Moines, IA",
     "contact": "connect@wildolivebirth.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -4383,10 +4383,10 @@
     "description": "Safe Spot",
     "url": "",
     "address1": "2475 E 9 Mile Rd i",
-    "address2": "Pensacola, FL 32514, USA",
+    "address2": "Pensacola, FL 32514",
     "contact": "https//www.facebook.com/magnoliamidwiferyandco?mibextid=LQQJ4d",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Wisconsin",
@@ -4396,10 +4396,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.widocc.org/ourdoulas",
     "address1": "",
-    "address2": "Dane County, WI, USA",
+    "address2": "Dane County, WI",
     "contact": "https//www.instagram.com/Wisconsin_doulas_of_color/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Rhode Island",
@@ -4409,10 +4409,10 @@
     "description": "Safe Spot, Doula",
     "url": "https://www.withloveri.com/",
     "address1": "",
-    "address2": "Central Falls, RI 02863, USA",
+    "address2": "Central Falls, RI 02863",
     "contact": "https://www.instagram.com/with_loveri/",
-    "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "focus": "Midwifery Services",
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Maryland",
@@ -4422,10 +4422,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://www.wombsofwata.com/",
     "address1": "301 W Preston St",
-    "address2": "Baltimore, MD 21201, USA",
+    "address2": "Baltimore, MD 21201",
     "contact": "hello@wombsofwata.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Minnesota",
@@ -4435,10 +4435,10 @@
     "description": "Safe Spot",
     "url": "https://www.womenswellnessmn.org",
     "address1": "8500 Normandale Lake Blvd",
-    "address2": "Bloomington, MN 55437, USA",
+    "address2": "Bloomington, MN 55437",
     "contact": "wwpsc.mn@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "South Carolina",
@@ -4448,10 +4448,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://xolaserenedoulaservices.com/",
     "address1": "7300 Woodrow Street",
-    "address2": "Irmo, SC 29063, USA",
+    "address2": "Irmo, SC 29063",
     "contact": "Xolaserenedoulaservices@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Oklahoma",
@@ -4461,10 +4461,10 @@
     "description": "Doula, Safe Spot,",
     "url": "https://ysdoulaservices.weebly.com/",
     "address1": "7701 S Yale Ave",
-    "address2": "Tulsa, Oklahoma 74136, United States",
+    "address2": "Tulsa, Oklahoma 74136",
     "contact": "ysdoulaservices@gmail.com",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Louisiana",
@@ -4474,10 +4474,10 @@
     "description": "Doula, Birth Worker, Safe Spot,",
     "url": "https://www.yemayasvillageinc.org/",
     "address1": "",
-    "address2": "New Orleans, LA, USA",
+    "address2": "New Orleans, LA",
     "contact": "Info@yemayasvillageinc.org",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Florida",
@@ -4487,10 +4487,10 @@
     "description": "Safe Spot",
     "url": "https://www.yourboldbirth.com",
     "address1": "",
-    "address2": "Orlando, FL, USA",
+    "address2": "Orlando, FL",
     "contact": "https://www.instagram.com/yourboldbirth/",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Iowa",
@@ -4500,10 +4500,10 @@
     "description": "Safe Spot",
     "url": "https://www.zmdoulaservices.com",
     "address1": "3500 8th St SW #1087",
-    "address2": "Altoona, IA 50009, USA",
+    "address2": "Altoona, IA 50009",
     "contact": "https//www.facebook.com/profile.php?id=100094450388690",
     "focus": "",
-    "iconUrl": "`safe-spot-logo.png`"
+    "iconUrl": `safe-spot-logo.png`
   },
   {
     "state": "Texas",
@@ -4516,7 +4516,7 @@
     "address2": "Houston, TX, 77054",
     "contact": "https://www.fullcirclefamilyserviceshtx.com/booking-contact",
     "focus": "",
-    "iconUrl": "`fihankra-medium.png`"
+    "iconUrl": `fihankra-medium.png`
   },
   {
     "state": "Texas",
@@ -4529,7 +4529,7 @@
     "address2": "Houston, TX",
     "contact": "https://www.plancpills.org/contact",
     "focus": "",
-    "iconUrl": "`epa-medium.png`"
+    "iconUrl": `epa-medium.png`
   },
   {
     "state": "Texas",
@@ -4542,7 +4542,7 @@
     "address2": "Houston, TX",
     "contact": "https://dearfathers.com/contact-us/",
     "focus": "",
-    "iconUrl": "`odo-nnyew-fie-kwan-small.png`"
+    "iconUrl": `odo-nnyew-fie-kwan-small.png`
   },
   {
     "state": "Texas",
@@ -4555,6 +4555,6 @@
     "address2": "Houston, TX",
     "contact": "https://www.sankofamama.com/contact-8",
     "focus": "",
-    "iconUrl": "`fihankra-medium.png`"
+    "iconUrl": `fihankra-medium.png`
   }
     ]
