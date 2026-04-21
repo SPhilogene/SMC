@@ -1479,7 +1479,7 @@ const trainStops = [
          "address1":"",
          "address2":"",
          "contact":"mailto:heyblackdad@gmail.com",
-         "iconUrl":`adinkrahene-medium.png`
+         "iconUrl":`odo-nnyew-fie-kwan-small.png`
          }
        },
        {
@@ -1511,7 +1511,7 @@ const trainStops = [
          "state":"New York",
          "name":"Birth Queen",
          "image":"https://birthqueen.org/wp-content/uploads/2021/03/Birth-Queen-Logo-text-1.png",
-         "about":"<p class='ebgaramond' style='color: white'><i>Saving Lives<i></p><p class='ebgaramond' style='color: white'>Black mamas are of royal blood.</p><p class='ebgaramond' style='color: white'>Let them birth like the queens they are.</p><p class='ebgaramond' style='color: white'>Birth Queen educates, supports and empowers Black women, parents and birthing people, enriching the Black birth experience and saving lives! Our inclusive, Black-owned and operated organization funds trainings for doulas, midwives, and lactation consultants.</p><p class='ebgaramond' style='color: white'>Birth Queen is rising up to fight the Black maternal health crisis, on a mission to train and educate Black birth workers and support and empower Black parents. By doing this we will save the lives of Black mamas and babies! Your donation to Birth Queen will go to organizations we trust that are supporting mothers from pregnancy through to postpartum. These organizations provide resources like: childbirth education classes, birth and postpartum doulas, doula training, lactation consultants, Black Centering group prenatal and postpartum care and more!</p>",
+         "about":"<p class='ebgaramond' style='color: white'><i>Saving Lives</i></p><p class='ebgaramond' style='color: white'>Black mamas are of royal blood.</p><p class='ebgaramond' style='color: white'>Let them birth like the queens they are.</p><p class='ebgaramond' style='color: white'>Birth Queen educates, supports and empowers Black women, parents and birthing people, enriching the Black birth experience and saving lives! Our inclusive, Black-owned and operated organization funds trainings for doulas, midwives, and lactation consultants.</p><p class='ebgaramond' style='color: white'>Birth Queen is rising up to fight the Black maternal health crisis, on a mission to train and educate Black birth workers and support and empower Black parents. By doing this we will save the lives of Black mamas and babies! Your donation to Birth Queen will go to organizations we trust that are supporting mothers from pregnancy through to postpartum. These organizations provide resources like: childbirth education classes, birth and postpartum doulas, doula training, lactation consultants, Black Centering group prenatal and postpartum care and more!</p>",
          "description":"pregnant and postpartum students prenatal postnatal fitness doula and lactation counselor Harlem",
          "url":"https://birthqueen.org/",
          "address1":"",
@@ -1630,8 +1630,8 @@ const trainStops = [
     "url":"https://4kira4dads.com/",
     "address1":"",
     "address2":"",
-    "contact":"mailto:info@4kira4moms.com",
-    "iconUrl":`fihankra-medium.png`
+    "contact":"mailto:support@4kira4dads.com",
+    "iconUrl":`odo-nnyew-fie-kwan-small.png`
     }
   },
   {
@@ -6573,5 +6573,97 @@ const trainStops = [
     "contact":" https//www.facebook.com/profile.php?id=100094450388690",
     "iconUrl":`safe-spot-logo.png`
     }
-  }
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.13837769288891, 29.800845425659496],
+    },
+    properties: {
+      state: "TX",
+      name: "Sankofa Mama",
+      show_on_map: "yes",
+      image:
+        "https://static.wixstatic.com/media/4d88cf_0396df2608474054a9569f330e63bce8~mv2.png/v1/fill/w_750,h_822,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4d88cf_0396df2608474054a9569f330e63bce8~mv2.png",
+      about:
+        "Birthing confidence, building community.<br><br>Sankofa Mama Birth Services champions maternal health and wellness, with a primary focus on uplifting Black mothers. In the spaces and experiences we curate, Black mothers are not just acknowledged but truly seen, heard, and uplifted. We provide compassionate, culturally aligned support and education to parents to prepare for birth, postpartum and parenthood.<br><br>Our range of services spans virtual doula support, education for parents, continuing education for doulas and strategy and consulting services for organizations. <br><br>Sankofa Mama is dedicated to educating and supporting families, nurturing doula entrepreneurs, and forging deeper connections between organizations and the communities they serve. Your unique journey is our shared mission, and together, we create a tapestry of beautiful births, thriving businesses and resilient communities.",
+      description: "hold",
+      url: "https://www.sankofamama.com/",
+      address1: "",
+      address2: "Houston, TX",
+      contact: "https://www.sankofamama.com/contact-8",
+      iconUrl: `fihankra-medium.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.41971741864931, 29.679518116102294],
+    },
+    properties: {
+      state: "TX",
+      name: "FULL CIRCLE FAMILY SERVICES",
+      show_on_map: "yes",
+      image:
+        "https://images.squarespace-cdn.com/content/v1/5ee66b7b3dc49f4def5ae7c0/1592159156563-1MJGBZIQK17DRJJ5IAA4/fullcircle-logo.png?format=1500w",
+      about:
+        "<p style='color: white; text-align: center;'>Midwives • Doulas • Home Births • Water Births •  Birth Center Births • Hospital Birth Support • Prenatal & Postpartum Care • Education • Wellness</p> <p class='ebgaramond' style='color: white;'>Full Circle Family Services is a Black woman-owned midwifery clinic in Houston, TX. We provide holistic prenatal and postpartum care for home births, birth center births, water births, and hospital births. We also provide hospital birth support with our hospital birth doulas. Families also benefit from childbirth education, newborn classes, yoga, and other wellness services</p>",
+      description: "hold",
+      url: "https://www.fullcirclefamilyserviceshtx.com/",
+      address1: "2636 South Loop West, Suite #550",
+      address2: "Houston, TX, 77054",
+      contact: "https://www.fullcirclefamilyserviceshtx.com/booking-contact",
+      iconUrl: `fihankra-medium.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.27960197042859, 29.835724026284325],
+    },
+    properties: {
+      state: "TX",
+      name: "Plan C",
+      show_on_map: "yes",
+      image:
+        "https://www.plancpills.org/logo.svg",
+      about:
+        "Plan C is a public health creative campaign on abortion pill access, started in 2015 by a small team of veteran public health advocates, researchers, social justice activists. Read about our values here.‍<br><br>Plan C works to transform access to abortion in the US by normalizing the self-directed option of abortion pills by mail.<br><br>Our vision: A near future in which the ability to end an early pregnancy is directly in the hands of anyone who seeks it.",
+      description: "hold",
+      url: "",
+      address1: "",
+      address2: "Houston, TX",
+      contact: "https://www.plancpills.org/contact",
+      iconUrl: `epa-medium.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.23397309155855, 29.66439859762233],
+    },
+    properties: {
+      state: "TX",
+      name: "Dear Fathers",
+      show_on_map: "yes",
+      image:
+        "https://dearfathers.com/wp-content/uploads/2022/09/DEAR-FATHERS-2O-OFFICIAL-LOGO-300x81.png",
+      about:
+        "<p class='ebgaramond' style='color: white; text-align: center; font-weight: bold;'>WE IGNITE THE POWER OF FATHERHOOD + CULTURE</p> <p class='ebgaramond' style='color: white;'>Dear Fathers is The Premiere Hub dedicated to telling stories of black fathers from all angles while also empowering our community with tangible resources that inspire, heal, and strengthen the black man.</p>", 
+      description: "hold",
+      url: "https://dearfathers.com/",
+      address1: "",
+      address2: "Houston, TX",
+      contact: "https://dearfathers.com/contact-us/",
+      iconUrl: `odo-nnyew-fie-kwan-small.png`,
+      service: "hold",
+    },
+  },
 ];
