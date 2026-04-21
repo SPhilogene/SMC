@@ -1515,6 +1515,98 @@ var train_stops = [
       service: "hold",
     },
   },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.38299456228876, 29.790407338971775],
+    },
+    properties: {
+      state: "TX",
+      name: "Sankofa Mama",
+      show_on_map: "yes",
+      image:
+        "https://static.wixstatic.com/media/4d88cf_0396df2608474054a9569f330e63bce8~mv2.png/v1/fill/w_750,h_822,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4d88cf_0396df2608474054a9569f330e63bce8~mv2.png",
+      about:
+        "Birthing confidence, building community.<br><br>Sankofa Mama Birth Services champions maternal health and wellness, with a primary focus on uplifting Black mothers. In the spaces and experiences we curate, Black mothers are not just acknowledged but truly seen, heard, and uplifted. We provide compassionate, culturally aligned support and education to parents to prepare for birth, postpartum and parenthood.<br><br>Our range of services spans virtual doula support, education for parents, continuing education for doulas and strategy and consulting services for organizations. <br><br>Sankofa Mama is dedicated to educating and supporting families, nurturing doula entrepreneurs, and forging deeper connections between organizations and the communities they serve. Your unique journey is our shared mission, and together, we create a tapestry of beautiful births, thriving businesses and resilient communities.",
+      description: "hold",
+      url: "https://www.sankofamama.com/",
+      address1: "",
+      address2: "",
+      contact: "https://www.sankofamama.com/contact-8",
+      iconUrl: `sankofa-small.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.41971741864931, 29.679518116102294],
+    },
+    properties: {
+      state: "TX",
+      name: "FULL CIRCLE FAMILY SERVICES",
+      show_on_map: "yes",
+      image:
+        "https://images.squarespace-cdn.com/content/v1/5ee66b7b3dc49f4def5ae7c0/1592159156563-1MJGBZIQK17DRJJ5IAA4/fullcircle-logo.png?format=1500w",
+      about:
+        "Midwives • Doulas • Home Births • Water Births •  Birth Center Births • Hospital Birth Support • Prenatal & Postpartum Care • Education • Wellness <br><br> Full Circle Family Services is a Black woman-owned midwifery clinic in Houston, TX. We provide holistic prenatal and postpartum care for home births, birth center births, water births, and hospital births. We also provide hospital birth support with our hospital birth doulas. Families also benefit from childbirth education, newborn classes, yoga, and other wellness services.",
+      description: "hold",
+      url: "https://www.fullcirclefamilyserviceshtx.com/",
+      address1: "2636 South Loop West, Suite #550",
+      address2: "Houston, TX, 77054",
+      contact: "https://www.fullcirclefamilyserviceshtx.com/booking-contact",
+      iconUrl: `sankofa-small.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-95.27960197042859, 29.835724026284325],
+    },
+    properties: {
+      state: "TX",
+      name: "Plan C",
+      show_on_map: "yes",
+      image:
+        "https://www.plancpills.org/logo.svg",
+      about:
+        "Plan C is a public health creative campaign on abortion pill access, started in 2015 by a small team of veteran public health advocates, researchers, social justice activists. Read about our values here.‍<br><br>Plan C works to transform access to abortion in the US by normalizing the self-directed option of abortion pills by mail.<br><br>Our vision: A near future in which the ability to end an early pregnancy is directly in the hands of anyone who seeks it.",
+      description: "hold",
+      url: "https://www.plancpills.org/",
+      address1: "",
+      address2: "",
+      contact: "https://www.plancpills.org/contact",
+      iconUrl: `sankofa-small.png`,
+      service: "hold",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-71.40468901, 41.80481121],
+    },
+    properties: {
+      state: "RI",
+      name: "Chocolate Milk Cafes",
+      show_on_map: "yes",
+      image:
+        "https://chocolatemilkcafe.org/wp-content/uploads/2022/07/harlem-bronx-sublogo-trans.png",
+      about:
+        "WE IGNITE THE POWER OF FATHERHOOD + CULTURE <br><br>Dear Fathers is The Premiere Hub dedicated to telling stories of black fathers from all angles while also empowering our community with tangible resources that inspire, heal, and strengthen the black man.", 
+      description: "hold",
+      url: "https://chocolatemilkcafe.org/",
+      address1: "",
+      address2: "",
+      contact: "https://chocolatemilkcafe.org/contact-us/",
+      iconUrl: `sankofa-small.png`,
+      service: "hold",
+    },
+  },
 ];
 
 
